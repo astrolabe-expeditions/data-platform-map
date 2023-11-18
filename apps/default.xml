@@ -12,13 +12,13 @@
     <searchparameters bbox="false" localities="false" features="true" />
     <themes>
         <theme name="SensOcean" expanded="true">
-            <layer
+            <!-- <layer
                 id="la-louise"
                 name="La Louise"
                 type="customlayer"
                 url="customlayers/la-louise.js"
                 visible="true"
-                />
+                /> -->
             <layer 
                 id="heatmap2"
                 name="Copa Cabana"
