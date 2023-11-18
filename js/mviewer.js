@@ -1361,6 +1361,22 @@ mviewer = (function () {
         _backgroundLayers.push(l);
         _map.addLayer(l);
         break;
+
+      case "SHOM":
+        var urlTemplate =
+          "https://services.data.shom.fr/hucvn5h49t93kbsf4dcgcoig/wmts?VERSION=1.0.0&REQUEST=GetTile&SERVICE=WMTS&FORMAT=image/png&LAYER=RASTER_MARINE_3857_WMTS&TILEMATRIXSET=3857&STYLE=normal&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}";
+
+        l = new ol.layer.Tile({
+          source: new ol.source.XYZ({
+            url: urlTemplate,
+          }),
+        });
+        l.set("name", baselayer.label);
+        l.set("blid", baselayer.id);
+        setBaseOpacity(l, baselayer.opacity);
+        _backgroundLayers.push(l);
+        _map.addLayer(l);
+        break;
     }
   };
 

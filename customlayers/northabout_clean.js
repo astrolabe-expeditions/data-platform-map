@@ -44,12 +44,4 @@ style: new ol.style.Style({
 }),
   console.log(mviewer);
 
-//new CustomLayer("geoLayer", geoLayer);
-
-/*
-
-
-
-*/
-
 new CustomLayer("heatmap2", layer);
