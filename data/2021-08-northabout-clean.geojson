@@ -19973,32 +19973,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-11",
-        "Time": "14:05:44",
-        "Bat %": 100,
-        "Bat mV": 4139,
-        "Pression_ext(hpa)": 1011.959,
-        "Temp_ext(C)": 18.18,
-        "Temp_int(C)": 17.937,
-        "Temp_sea(C)": 13.566,
-        "EC_sea": 43730,
-        "Temp_sea(C) .1": 13.55,
-        "EC_sea .1": 43700,
-        "Temp_sea(C) .2": 13.55,
-        "EC_sea .2": 43700,
-        "Datetime": "2021-08-11 14:05:44",
-        "Temp_mean": "13.555333333333332",
-        "Ec_mean": "43710.0",
-        "Salinity": "37.09197096864181"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-17.420175, 66.050889]
       },
       "properties": {
@@ -34715,32 +34689,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-15",
-        "Time": "15:36:42",
-        "Bat %": 100,
-        "Bat mV": 4149,
-        "Pression_ext(hpa)": 1009.421,
-        "Temp_ext(C)": 13.15,
-        "Temp_int(C)": 13.938,
-        "Temp_sea(C)": 11.887,
-        "EC_sea": 43260,
-        "Temp_sea(C) .1": 11.886,
-        "EC_sea .1": 43250,
-        "Temp_sea(C) .2": 11.88,
-        "EC_sea .2": 43220,
-        "Datetime": "2021-08-15 15:36:42",
-        "Temp_mean": "11.884333333333332",
-        "Ec_mean": "43243.333333333336",
-        "Salinity": "38.31364126627981"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-16.454162, 66.621648]
       },
       "properties": {
@@ -39317,32 +39265,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-16",
-        "Time": "22:03:37",
-        "Bat %": 100,
-        "Bat mV": 4092,
-        "Pression_ext(hpa)": 1011.71,
-        "Temp_ext(C)": 11.55,
-        "Temp_int(C)": 11.625,
-        "Temp_sea(C)": 12.401,
-        "EC_sea": 43820,
-        "Temp_sea(C) .1": 12.386,
-        "EC_sea .1": 43760,
-        "Temp_sea(C) .2": 12.384,
-        "EC_sea .2": 43750,
-        "Datetime": "2021-08-16 22:03:37",
-        "Temp_mean": "12.390333333333333",
-        "Ec_mean": "43776.666666666664",
-        "Salinity": "38.319959218615224"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-14.8086, 66.037901]
       },
       "properties": {
@@ -43087,32 +43009,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-17",
-        "Time": "23:07:43",
-        "Bat %": 100,
-        "Bat mV": 4073,
-        "Pression_ext(hpa)": 1015.61,
-        "Temp_ext(C)": 8.87,
-        "Temp_int(C)": 8.688,
-        "Temp_sea(C)": 9.189,
-        "EC_sea": 40980,
-        "Temp_sea(C) .1": 9.18,
-        "EC_sea .1": 40960,
-        "Temp_sea(C) .2": 9.199,
-        "EC_sea .2": 40920,
-        "Datetime": "2021-08-17 23:07:43",
-        "Temp_mean": "9.189333333333332",
-        "Ec_mean": "40953.333333333336",
-        "Salinity": "38.82391849191645"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-13.131822, 64.494435]
       },
       "properties": {
@@ -43887,162 +43783,6 @@
         "Temp_mean": "11.431",
         "Ec_mean": "44643.333333333336",
         "Salinity": "40.199068816275634"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "04:28:12",
-        "Bat %": 100,
-        "Bat mV": 4042,
-        "Pression_ext(hpa)": 1016.904,
-        "Temp_ext(C)": 10.06,
-        "Temp_int(C)": 9.813,
-        "Temp_sea(C)": 11.434,
-        "EC_sea": 44670,
-        "Temp_sea(C) .1": 11.432,
-        "EC_sea .1": 44630,
-        "Temp_sea(C) .2": 11.435,
-        "EC_sea .2": 44620,
-        "Datetime": "2021-08-18 04:28:12",
-        "Temp_mean": "11.433666666666667",
-        "Ec_mean": "44640.0",
-        "Salinity": "40.19278277420651"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "04:39:20",
-        "Bat %": 100,
-        "Bat mV": 4039,
-        "Pression_ext(hpa)": 1016.769,
-        "Temp_ext(C)": 10.15,
-        "Temp_int(C)": 9.875,
-        "Temp_sea(C)": 11.436,
-        "EC_sea": 44670,
-        "Temp_sea(C) .1": 11.44,
-        "EC_sea .1": 44650,
-        "Temp_sea(C) .2": 11.442,
-        "EC_sea .2": 44620,
-        "Datetime": "2021-08-18 04:39:20",
-        "Temp_mean": "11.439333333333332",
-        "Ec_mean": "44646.666666666664",
-        "Salinity": "40.193339638951116"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "04:50:28",
-        "Bat %": 100,
-        "Bat mV": 4037,
-        "Pression_ext(hpa)": 1016.912,
-        "Temp_ext(C)": 10.14,
-        "Temp_int(C)": 9.938,
-        "Temp_sea(C)": 11.445,
-        "EC_sea": 44670,
-        "Temp_sea(C) .1": 11.438,
-        "EC_sea .1": 44630,
-        "Temp_sea(C) .2": 11.442,
-        "EC_sea .2": 44570,
-        "Datetime": "2021-08-18 04:50:28",
-        "Temp_mean": "11.441666666666668",
-        "Ec_mean": "44623.333333333336",
-        "Salinity": "40.16718567567617"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "05:01:37",
-        "Bat %": 100,
-        "Bat mV": 4036,
-        "Pression_ext(hpa)": 1017.017,
-        "Temp_ext(C)": 10.23,
-        "Temp_int(C)": 9.938,
-        "Temp_sea(C)": 11.569,
-        "EC_sea": 44750,
-        "Temp_sea(C) .1": 11.551,
-        "EC_sea .1": 44700,
-        "Temp_sea(C) .2": 11.539,
-        "EC_sea .2": 44690,
-        "Datetime": "2021-08-18 05:01:37",
-        "Temp_mean": "11.552999999999999",
-        "Ec_mean": "44713.333333333336",
-        "Salinity": "40.13675792701176"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "05:12:45",
-        "Bat %": 100,
-        "Bat mV": 4036,
-        "Pression_ext(hpa)": 1017.163,
-        "Temp_ext(C)": 10.18,
-        "Temp_int(C)": 10,
-        "Temp_sea(C)": 11.536,
-        "EC_sea": 44770,
-        "Temp_sea(C) .1": 11.534,
-        "EC_sea .1": 44700,
-        "Temp_sea(C) .2": 11.532,
-        "EC_sea .2": 44690,
-        "Datetime": "2021-08-18 05:12:45",
-        "Temp_mean": "11.534",
-        "Ec_mean": "44720.0",
-        "Salinity": "40.16417941123759"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "05:23:54",
-        "Bat %": 100,
-        "Bat mV": 4035,
-        "Pression_ext(hpa)": 1017.381,
-        "Temp_ext(C)": 10.07,
-        "Temp_int(C)": 9.938,
-        "Temp_sea(C)": 11.535,
-        "EC_sea": 44800,
-        "Temp_sea(C) .1": 11.538,
-        "EC_sea .1": 44770,
-        "Temp_sea(C) .2": 11.541,
-        "EC_sea .2": 44750,
-        "Datetime": "2021-08-18 05:23:54",
-        "Temp_mean": "11.538000000000002",
-        "Ec_mean": "44773.333333333336",
-        "Salinity": "40.21365754826277"
       }
     },
     {
@@ -45967,32 +45707,6 @@
         "Temp_mean": "12.331333333333333",
         "Ec_mean": "45813.333333333336",
         "Salinity": "40.39215232018706"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-18",
-        "Time": "18:20:11",
-        "Bat %": 100,
-        "Bat mV": 4171,
-        "Pression_ext(hpa)": 1019.13,
-        "Temp_ext(C)": 13.42,
-        "Temp_int(C)": 13.438,
-        "Temp_sea(C)": 12.281,
-        "EC_sea": 45820,
-        "Temp_sea(C) .1": 12.432,
-        "EC_sea .1": 45790,
-        "Temp_sea(C) .2": 12.388,
-        "EC_sea .2": 45790,
-        "Datetime": "2021-08-18 18:20:11",
-        "Temp_mean": "12.366999999999999",
-        "Ec_mean": "45800.0",
-        "Salinity": "40.34035929869544"
       }
     },
     {
@@ -52681,32 +52395,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "15:08:41",
-        "Bat %": 100,
-        "Bat mV": 4158,
-        "Pression_ext(hpa)": 1013.082,
-        "Temp_ext(C)": 16.99,
-        "Temp_int(C)": 18.687,
-        "Temp_sea(C)": 14.086,
-        "EC_sea": 48500,
-        "Temp_sea(C) .1": 14.098,
-        "EC_sea .1": 48440,
-        "Temp_sea(C) .2": 14.1,
-        "EC_sea .2": 48400,
-        "Datetime": "2021-08-20 15:08:41",
-        "Temp_mean": "14.094666666666667",
-        "Ec_mean": "48446.666666666664",
-        "Salinity": "41.056272787175004"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-10.470966, 59.326896]
       },
       "properties": {
@@ -52811,32 +52499,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "16:01:00",
-        "Bat %": 100,
-        "Bat mV": 4153,
-        "Pression_ext(hpa)": 1012.541,
-        "Temp_ext(C)": 16.24,
-        "Temp_int(C)": 17.062,
-        "Temp_sea(C)": 14.643,
-        "EC_sea": 49160,
-        "Temp_sea(C) .1": 14.639,
-        "EC_sea .1": 49070,
-        "Temp_sea(C) .2": 14.496,
-        "EC_sea .2": 49080,
-        "Datetime": "2021-08-20 16:01:00",
-        "Temp_mean": "14.592666666666666",
-        "Ec_mean": "49103.333333333336",
-        "Salinity": "41.148148865029704"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-10.485133, 59.244627]
       },
       "properties": {
@@ -52857,136 +52519,6 @@
         "Temp_mean": "14.685333333333332",
         "Ec_mean": "49236.666666666664",
         "Salinity": "41.17532952911325"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "16:22:48",
-        "Bat %": 100,
-        "Bat mV": 4127,
-        "Pression_ext(hpa)": 1012.239,
-        "Temp_ext(C)": 15.26,
-        "Temp_int(C)": 15.938,
-        "Temp_sea(C)": 14.674,
-        "EC_sea": 49280,
-        "Temp_sea(C) .1": 14.668,
-        "EC_sea .1": 49250,
-        "Temp_sea(C) .2": 14.668,
-        "EC_sea .2": 49220,
-        "Datetime": "2021-08-20 16:22:48",
-        "Temp_mean": "14.67",
-        "Ec_mean": "49250.0",
-        "Salinity": "41.204250293756694"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "16:33:57",
-        "Bat %": 100,
-        "Bat mV": 4118,
-        "Pression_ext(hpa)": 1012.055,
-        "Temp_ext(C)": 14.94,
-        "Temp_int(C)": 15.625,
-        "Temp_sea(C)": 14.665,
-        "EC_sea": 49290,
-        "Temp_sea(C) .1": 14.67,
-        "EC_sea .1": 49240,
-        "Temp_sea(C) .2": 14.672,
-        "EC_sea .2": 49380,
-        "Datetime": "2021-08-20 16:33:57",
-        "Temp_mean": "14.669000000000002",
-        "Ec_mean": "49303.333333333336",
-        "Salinity": "41.25566228460888"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "16:45:05",
-        "Bat %": 100,
-        "Bat mV": 4122,
-        "Pression_ext(hpa)": 1011.899,
-        "Temp_ext(C)": 14.81,
-        "Temp_int(C)": 15.375,
-        "Temp_sea(C)": 14.67,
-        "EC_sea": 49290,
-        "Temp_sea(C) .1": 14.676,
-        "EC_sea .1": 49270,
-        "Temp_sea(C) .2": 14.677,
-        "EC_sea .2": 49260,
-        "Datetime": "2021-08-20 16:45:05",
-        "Temp_mean": "14.674333333333331",
-        "Ec_mean": "49273.333333333336",
-        "Salinity": "41.221652899633774"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "16:56:13",
-        "Bat %": 100,
-        "Bat mV": 4116,
-        "Pression_ext(hpa)": 1011.819,
-        "Temp_ext(C)": 14.54,
-        "Temp_int(C)": 15.062,
-        "Temp_sea(C)": 14.688,
-        "EC_sea": 49370,
-        "Temp_sea(C) .1": 14.687,
-        "EC_sea .1": 49320,
-        "Temp_sea(C) .2": 14.697,
-        "EC_sea .2": 49280,
-        "Datetime": "2021-08-20 16:56:13",
-        "Temp_mean": "14.690666666666667",
-        "Ec_mean": "49323.333333333336",
-        "Salinity": "41.25141568415049"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "17:07:22",
-        "Bat %": 100,
-        "Bat mV": 4125,
-        "Pression_ext(hpa)": 1011.659,
-        "Temp_ext(C)": 14.49,
-        "Temp_int(C)": 14.875,
-        "Temp_sea(C)": 14.706,
-        "EC_sea": 49390,
-        "Temp_sea(C) .1": 14.701,
-        "EC_sea .1": 49340,
-        "Temp_sea(C) .2": 14.71,
-        "EC_sea .2": 49320,
-        "Datetime": "2021-08-20 17:07:22",
-        "Temp_mean": "14.705666666666668",
-        "Ec_mean": "49350.0",
-        "Salinity": "41.260569821186664"
       }
     },
     {
@@ -53143,32 +52675,6 @@
         "Temp_mean": "14.606",
         "Ec_mean": "49286.666666666664",
         "Salinity": "41.30724113765128"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "18:21:11",
-        "Bat %": 100,
-        "Bat mV": 4121,
-        "Pression_ext(hpa)": 1010.719,
-        "Temp_ext(C)": 14.32,
-        "Temp_int(C)": 14.5,
-        "Temp_sea(C)": 14.596,
-        "EC_sea": 49310,
-        "Temp_sea(C) .1": 14.595,
-        "EC_sea .1": 49220,
-        "Temp_sea(C) .2": 14.592,
-        "EC_sea .2": 49190,
-        "Datetime": "2021-08-20 18:21:11",
-        "Temp_mean": "14.594333333333333",
-        "Ec_mean": "49240.0",
-        "Salinity": "41.27558782287834"
       }
     },
     {
@@ -53429,32 +52935,6 @@
         "Temp_mean": "14.533333333333333",
         "Ec_mean": "49120.0",
         "Salinity": "41.227247264962145"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "20:16:41",
-        "Bat %": 100,
-        "Bat mV": 4115,
-        "Pression_ext(hpa)": 1009.523,
-        "Temp_ext(C)": 14.19,
-        "Temp_int(C)": 14.25,
-        "Temp_sea(C)": 14.506,
-        "EC_sea": 49080,
-        "Temp_sea(C) .1": 14.356,
-        "EC_sea .1": 49060,
-        "Temp_sea(C) .2": 14.374,
-        "EC_sea .2": 49040,
-        "Datetime": "2021-08-20 20:16:41",
-        "Temp_mean": "14.412",
-        "Ec_mean": "49060.0",
-        "Salinity": "41.300284926875705"
       }
     },
     {
@@ -53825,84 +53305,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "22:53:07",
-        "Bat %": 100,
-        "Bat mV": 4075,
-        "Pression_ext(hpa)": 1009.195,
-        "Temp_ext(C)": 14.05,
-        "Temp_int(C)": 13.75,
-        "Temp_sea(C)": 14.325,
-        "EC_sea": 49090,
-        "Temp_sea(C) .1": 14.319,
-        "EC_sea .1": 49040,
-        "Temp_sea(C) .2": 14.31,
-        "EC_sea .2": 49030,
-        "Datetime": "2021-08-20 22:53:07",
-        "Temp_mean": "14.318",
-        "Ec_mean": "49053.333333333336",
-        "Salinity": "41.39498398867411"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "23:04:16",
-        "Bat %": 100,
-        "Bat mV": 4072,
-        "Pression_ext(hpa)": 1009.179,
-        "Temp_ext(C)": 14.06,
-        "Temp_int(C)": 13.812,
-        "Temp_sea(C)": 14.318,
-        "EC_sea": 49090,
-        "Temp_sea(C) .1": 14.327,
-        "EC_sea .1": 49050,
-        "Temp_sea(C) .2": 14.328,
-        "EC_sea .2": 49030,
-        "Datetime": "2021-08-20 23:04:16",
-        "Temp_mean": "14.324333333333334",
-        "Ec_mean": "49056.666666666664",
-        "Salinity": "41.39133743408711"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-20",
-        "Time": "23:15:24",
-        "Bat %": 100,
-        "Bat mV": 4068,
-        "Pression_ext(hpa)": 1009.125,
-        "Temp_ext(C)": 14.03,
-        "Temp_int(C)": 13.875,
-        "Temp_sea(C)": 14.309,
-        "EC_sea": 48970,
-        "Temp_sea(C) .1": 14.285,
-        "EC_sea .1": 48920,
-        "Temp_sea(C) .2": 14.276,
-        "EC_sea .2": 48880,
-        "Datetime": "2021-08-20 23:15:24",
-        "Temp_mean": "14.290000000000001",
-        "Ec_mean": "48923.333333333336",
-        "Salinity": "41.3013276538066"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-10.945391, 58.58666]
       },
       "properties": {
@@ -54001,32 +53403,6 @@
         "Temp_mean": "14.183666666666667",
         "Ec_mean": "48910.0",
         "Salinity": "41.40314384444488"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-21",
-        "Time": "00:09:19",
-        "Bat %": 100,
-        "Bat mV": 4060,
-        "Pression_ext(hpa)": 1009.036,
-        "Temp_ext(C)": 14.08,
-        "Temp_int(C)": 13.875,
-        "Temp_sea(C)": 14.203,
-        "EC_sea": 48920,
-        "Temp_sea(C) .1": 14.205,
-        "EC_sea .1": 48870,
-        "Temp_sea(C) .2": 14.207,
-        "EC_sea .2": 48850,
-        "Datetime": "2021-08-21 00:09:19",
-        "Temp_mean": "14.205",
-        "Ec_mean": "48880.0",
-        "Salinity": "41.3514980912992"
       }
     },
     {
@@ -54859,32 +54235,6 @@
         "Temp_mean": "14.796666666666667",
         "Ec_mean": "49543.333333333336",
         "Salinity": "41.3456615637989"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-21",
-        "Time": "05:49:05",
-        "Bat %": 100,
-        "Bat mV": 4033,
-        "Pression_ext(hpa)": 1009.79,
-        "Temp_ext(C)": 13.76,
-        "Temp_int(C)": 13.5,
-        "Temp_sea(C)": 14.806,
-        "EC_sea": 49590,
-        "Temp_sea(C) .1": 14.816,
-        "EC_sea .1": 49210,
-        "Temp_sea(C) .2": 14.816,
-        "EC_sea .2": 49490,
-        "Datetime": "2021-08-21 05:49:05",
-        "Temp_mean": "14.812666666666667",
-        "Ec_mean": "49430.0",
-        "Salinity": "41.221918298240645"
       }
     },
     {
@@ -60533,32 +59883,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-22",
-        "Time": "19:48:33",
-        "Bat %": 100,
-        "Bat mV": 4107,
-        "Pression_ext(hpa)": 1025.698,
-        "Temp_ext(C)": 20.15,
-        "Temp_int(C)": 21.063,
-        "Temp_sea(C)": 16.197,
-        "EC_sea": 50960,
-        "Temp_sea(C) .1": 16.192,
-        "EC_sea .1": 50960,
-        "Temp_sea(C) .2": 16.183,
-        "EC_sea .2": 50990,
-        "Datetime": "2021-08-22 19:48:33",
-        "Temp_mean": "16.190666666666665",
-        "Ec_mean": "50970.0",
-        "Salinity": "41.19812719027114"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-10.641553, 55.441118]
       },
       "properties": {
@@ -60969,32 +60293,6 @@
         "Temp_mean": "15.868666666666668",
         "Ec_mean": "50566.666666666664",
         "Salinity": "41.164813493374254"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-22",
-        "Time": "22:56:04",
-        "Bat %": 100,
-        "Bat mV": 4078,
-        "Pression_ext(hpa)": 1028.108,
-        "Temp_ext(C)": 15.64,
-        "Temp_int(C)": 15.438,
-        "Temp_sea(C)": 16.017,
-        "EC_sea": 50670,
-        "Temp_sea(C) .1": 16.008,
-        "EC_sea .1": 50680,
-        "Temp_sea(C) .2": 15.996,
-        "EC_sea .2": 50710,
-        "Datetime": "2021-08-22 22:56:04",
-        "Temp_mean": "16.007",
-        "Ec_mean": "50686.666666666664",
-        "Salinity": "41.13045605074088"
       }
     },
     {
@@ -71265,32 +70563,6 @@
         "Temp_mean": "18.180333333333333",
         "Ec_mean": "52430.0",
         "Salinity": "40.47689390877148"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0.0, 0.0]
-      },
-      "properties": {
-        "Date": "2021-08-29",
-        "Time": "22:36:02",
-        "Bat %": 100,
-        "Bat mV": 4085,
-        "Pression_ext(hpa)": 1029.814,
-        "Temp_ext(C)": 17.11,
-        "Temp_int(C)": 16.75,
-        "Temp_sea(C)": 17.923,
-        "EC_sea": 52230,
-        "Temp_sea(C) .1": 17.926,
-        "EC_sea .1": 52230,
-        "Temp_sea(C) .2": 17.934,
-        "EC_sea .2": 52250,
-        "Datetime": "2021-08-29 22:36:02",
-        "Temp_mean": "17.927666666666667",
-        "Ec_mean": "52236.666666666664",
-        "Salinity": "40.5594769546662"
       }
     },
     {
