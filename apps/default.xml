@@ -19,7 +19,7 @@
                 url="customlayers/la-louise.js"
                 visible="true"
                 /> -->
-            <layer 
+            <layer
                 id="heatmap2"
                 name="Copa Cabana"
                 url="customlayers/northabout_clean.js"
