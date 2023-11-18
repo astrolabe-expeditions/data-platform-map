@@ -10,13 +10,13 @@ mviewer.featureStyles.elsStyle = new ol.style.Style({
     width: 1,
   }),
   image: new ol.style.Circle({
-    radius: 10,
+    radius: 5,
     fill: new ol.style.Fill({
       color: "rgba(255,255,0,0)",
     }),
     stroke: new ol.style.Stroke({
       color: "#2fc2c3",
-      width: 5,
+      width: 2,
     }),
   }),
 });

@@ -984,6 +984,7 @@ var configuration = (function () {
                 url: mviewer.ajaxURL(hook_url),
                 dataType: "script",
                 success: function (customLayer, textStatus, request) {
+                  console.log("id", oLayer.id);
                   console.log("customLayers", mviewer.customLayers);
                   if (mviewer.customLayers[oLayer.id].layer) {
                     var l = mviewer.customLayers[oLayer.id].layer;
