@@ -1,0 +1,7493 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440296,36.12038 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"00:07:48",
+    "Bat %":89,
+    "Bat mV":3949,
+    "Pression_ext(hpa)":1028.06,
+    "Temp_ext(C)":9.8,
+    "Temp_int(C)":9.5,
+    "Temp_sea(C)":15.184,
+    "EC_sea":47910,
+    "Temp_sea(C) .1":14.843,
+    "EC_sea .1":47850,
+    "Temp_sea(C) .2":14.84,
+    "EC_sea .2":47840,
+    "Datetime":"2021-12-01 00:07:48",
+    "Temp_mean":"14.955666666666668",
+    "Ec_mean":"47866.666666666664",
+    "Salinity":"39.609223659369434"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440418,36.120533 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"00:23:14",
+    "Bat %":89,
+    "Bat mV":3960,
+    "Pression_ext(hpa)":1027.875,
+    "Temp_ext(C)":9.62,
+    "Temp_int(C)":9.313,
+    "Temp_sea(C)":15.293,
+    "EC_sea":48230,
+    "Temp_sea(C) .1":14.95,
+    "EC_sea .1":48190,
+    "Temp_sea(C) .2":14.948,
+    "EC_sea .2":48150,
+    "Datetime":"2021-12-01 00:23:14",
+    "Temp_mean":"15.063666666666668",
+    "Ec_mean":"48190.0",
+    "Salinity":"39.79996357428715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440224,36.120444 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"00:38:48",
+    "Bat %":89,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1027.816,
+    "Temp_ext(C)":9.42,
+    "Temp_int(C)":9.125,
+    "Temp_sea(C)":15.089,
+    "EC_sea":48210,
+    "Temp_sea(C) .1":14.839,
+    "EC_sea .1":48170,
+    "Temp_sea(C) .2":14.775,
+    "EC_sea .2":48140,
+    "Datetime":"2021-12-01 00:38:48",
+    "Temp_mean":"14.901000000000002",
+    "Ec_mean":"48173.333333333336",
+    "Salinity":"39.95129799229059"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440312,36.120387 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"00:54:07",
+    "Bat %":89,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1027.905,
+    "Temp_ext(C)":9.24,
+    "Temp_int(C)":8.938,
+    "Temp_sea(C)":14.754,
+    "EC_sea":48130,
+    "Temp_sea(C) .1":14.408,
+    "EC_sea .1":48090,
+    "Temp_sea(C) .2":14.403,
+    "EC_sea .2":48080,
+    "Datetime":"2021-12-01 00:54:07",
+    "Temp_mean":"14.521666666666667",
+    "Ec_mean":"48100.0",
+    "Salinity":"40.27559339394795"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440092,36.120445 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"01:09:25",
+    "Bat %":89,
+    "Bat mV":3945,
+    "Pression_ext(hpa)":1027.772,
+    "Temp_ext(C)":9.15,
+    "Temp_int(C)":8.813,
+    "Temp_sea(C)":14.602,
+    "EC_sea":48220,
+    "Temp_sea(C) .1":14.287,
+    "EC_sea .1":48170,
+    "Temp_sea(C) .2":14.281,
+    "EC_sea .2":48170,
+    "Datetime":"2021-12-01 01:09:25",
+    "Temp_mean":"14.39",
+    "Ec_mean":"48186.666666666664",
+    "Salinity":"40.49545022448202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.44025,36.120328 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"01:24:47",
+    "Bat %":89,
+    "Bat mV":3961,
+    "Pression_ext(hpa)":1027.868,
+    "Temp_ext(C)":9.14,
+    "Temp_int(C)":8.75,
+    "Temp_sea(C)":14.42,
+    "EC_sea":48310,
+    "Temp_sea(C) .1":14.061,
+    "EC_sea .1":48260,
+    "Temp_sea(C) .2":14.055,
+    "EC_sea .2":48250,
+    "Datetime":"2021-12-01 01:24:47",
+    "Temp_mean":"14.178666666666667",
+    "Ec_mean":"48273.333333333336",
+    "Salinity":"40.80124179963627"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440179,36.120459 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"01:40:10",
+    "Bat %":89,
+    "Bat mV":3957,
+    "Pression_ext(hpa)":1027.724,
+    "Temp_ext(C)":9.06,
+    "Temp_int(C)":8.75,
+    "Temp_sea(C)":14.339,
+    "EC_sea":48400,
+    "Temp_sea(C) .1":14.001,
+    "EC_sea .1":48340,
+    "Temp_sea(C) .2":13.995,
+    "EC_sea .2":48310,
+    "Datetime":"2021-12-01 01:40:10",
+    "Temp_mean":"14.111666666666666",
+    "Ec_mean":"48350.0",
+    "Salinity":"40.94576121577263"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440217,36.120358 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"01:55:36",
+    "Bat %":89,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1027.667,
+    "Temp_ext(C)":8.87,
+    "Temp_int(C)":8.563,
+    "Temp_sea(C)":14.217,
+    "EC_sea":48670,
+    "Temp_sea(C) .1":13.869,
+    "EC_sea .1":48670,
+    "Temp_sea(C) .2":13.802,
+    "EC_sea .2":48670,
+    "Datetime":"2021-12-01 01:55:36",
+    "Temp_mean":"13.962666666666665",
+    "Ec_mean":"48670.0",
+    "Salinity":"41.4123454791358"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440336,36.120521 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"02:10:57",
+    "Bat %":89,
+    "Bat mV":3945,
+    "Pression_ext(hpa)":1027.578,
+    "Temp_ext(C)":8.83,
+    "Temp_int(C)":8.563,
+    "Temp_sea(C)":14.112,
+    "EC_sea":48600,
+    "Temp_sea(C) .1":13.665,
+    "EC_sea .1":48660,
+    "Temp_sea(C) .2":13.662,
+    "EC_sea .2":48700,
+    "Datetime":"2021-12-01 02:10:57",
+    "Temp_mean":"13.813",
+    "Ec_mean":"48653.333333333336",
+    "Salinity":"41.558921170563444"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440089,36.120472 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"02:26:19",
+    "Bat %":89,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1027.496,
+    "Temp_ext(C)":8.77,
+    "Temp_int(C)":8.438,
+    "Temp_sea(C)":13.958,
+    "EC_sea":48790,
+    "Temp_sea(C) .1":13.59,
+    "EC_sea .1":48850,
+    "Temp_sea(C) .2":13.588,
+    "EC_sea .2":48830,
+    "Datetime":"2021-12-01 02:26:19",
+    "Temp_mean":"13.712000000000002",
+    "Ec_mean":"48823.333333333336",
+    "Salinity":"41.833518868833615"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440116,36.12042 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"02:41:38",
+    "Bat %":89,
+    "Bat mV":3961,
+    "Pression_ext(hpa)":1027.437,
+    "Temp_ext(C)":8.64,
+    "Temp_int(C)":8.375,
+    "Temp_sea(C)":13.898,
+    "EC_sea":49030,
+    "Temp_sea(C) .1":13.626,
+    "EC_sea .1":49090,
+    "Temp_sea(C) .2":13.629,
+    "EC_sea .2":49050,
+    "Datetime":"2021-12-01 02:41:38",
+    "Temp_mean":"13.717666666666666",
+    "Ec_mean":"49056.666666666664",
+    "Salinity":"42.05295927861338"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440274,36.12056 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"02:56:58",
+    "Bat %":89,
+    "Bat mV":3957,
+    "Pression_ext(hpa)":1027.423,
+    "Temp_ext(C)":8.48,
+    "Temp_int(C)":8.188,
+    "Temp_sea(C)":13.895,
+    "EC_sea":48830,
+    "Temp_sea(C) .1":13.493,
+    "EC_sea .1":48930,
+    "Temp_sea(C) .2":13.499,
+    "EC_sea .2":48930,
+    "Datetime":"2021-12-01 02:56:58",
+    "Temp_mean":"13.629",
+    "Ec_mean":"48896.666666666664",
+    "Salinity":"41.99594882102971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440216,36.120444 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"03:12:17",
+    "Bat %":89,
+    "Bat mV":3958,
+    "Pression_ext(hpa)":1027.354,
+    "Temp_ext(C)":8.33,
+    "Temp_int(C)":8.063,
+    "Temp_sea(C)":13.793,
+    "EC_sea":48540,
+    "Temp_sea(C) .1":13.506,
+    "EC_sea .1":48690,
+    "Temp_sea(C) .2":13.501,
+    "EC_sea .2":48710,
+    "Datetime":"2021-12-01 03:12:17",
+    "Temp_mean":"13.6",
+    "Ec_mean":"48646.666666666664",
+    "Salinity":"41.785606398958976"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440101,36.120374 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"03:27:39",
+    "Bat %":89,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1027.242,
+    "Temp_ext(C)":8.18,
+    "Temp_int(C)":7.937,
+    "Temp_sea(C)":13.722,
+    "EC_sea":48490,
+    "Temp_sea(C) .1":13.383,
+    "EC_sea .1":48620,
+    "Temp_sea(C) .2":13.376,
+    "EC_sea .2":48670,
+    "Datetime":"2021-12-01 03:27:39",
+    "Temp_mean":"13.493666666666664",
+    "Ec_mean":"48593.333333333336",
+    "Salinity":"41.8509392939682"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440199,36.120394 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"03:42:56",
+    "Bat %":89,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1027.193,
+    "Temp_ext(C)":8.16,
+    "Temp_int(C)":7.812,
+    "Temp_sea(C)":13.637,
+    "EC_sea":48780,
+    "Temp_sea(C) .1":13.333,
+    "EC_sea .1":48930,
+    "Temp_sea(C) .2":13.328,
+    "EC_sea .2":48980,
+    "Datetime":"2021-12-01 03:42:56",
+    "Temp_mean":"13.432666666666668",
+    "Ec_mean":"48896.666666666664",
+    "Salinity":"42.21371802039041"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440126,36.120553 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"03:58:13",
+    "Bat %":89,
+    "Bat mV":3954,
+    "Pression_ext(hpa)":1027.212,
+    "Temp_ext(C)":8.01,
+    "Temp_int(C)":7.75,
+    "Temp_sea(C)":13.57,
+    "EC_sea":48550,
+    "Temp_sea(C) .1":13.369,
+    "EC_sea .1":48850,
+    "Temp_sea(C) .2":13.379,
+    "EC_sea .2":48950,
+    "Datetime":"2021-12-01 03:58:13",
+    "Temp_mean":"13.439333333333332",
+    "Ec_mean":"48783.333333333336",
+    "Salinity":"42.09589739336528"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.44019,36.120483 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"04:13:49",
+    "Bat %":89,
+    "Bat mV":3939,
+    "Pression_ext(hpa)":1027.185,
+    "Temp_ext(C)":7.84,
+    "Temp_int(C)":7.562,
+    "Temp_sea(C)":13.627,
+    "EC_sea":48290,
+    "Temp_sea(C) .1":13.604,
+    "EC_sea .1":48330,
+    "Temp_sea(C) .2":13.58,
+    "EC_sea .2":48390,
+    "Datetime":"2021-12-01 04:13:49",
+    "Temp_mean":"13.603666666666667",
+    "Ec_mean":"48336.666666666664",
+    "Salinity":"41.481372053387176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440254,36.12036 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"04:29:05",
+    "Bat %":91,
+    "Bat mV":3960,
+    "Pression_ext(hpa)":1027.105,
+    "Temp_ext(C)":7.66,
+    "Temp_int(C)":7.437,
+    "Temp_sea(C)":13.698,
+    "EC_sea":48520,
+    "Temp_sea(C) .1":13.682,
+    "EC_sea .1":48570,
+    "Temp_sea(C) .2":13.664,
+    "EC_sea .2":48620,
+    "Datetime":"2021-12-01 04:29:05",
+    "Temp_mean":"13.681333333333335",
+    "Ec_mean":"48570.0",
+    "Salinity":"41.62222399781725"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440239,36.120482 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"04:44:21",
+    "Bat %":89,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1026.933,
+    "Temp_ext(C)":7.56,
+    "Temp_int(C)":7.312,
+    "Temp_sea(C)":13.931,
+    "EC_sea":47800,
+    "Temp_sea(C) .1":14.108,
+    "EC_sea .1":47850,
+    "Temp_sea(C) .2":14.105,
+    "EC_sea .2":47840,
+    "Datetime":"2021-12-01 04:44:21",
+    "Temp_mean":"14.048000000000002",
+    "Ec_mean":"47830.0",
+    "Salinity":"40.51709348267265"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440266,36.120479 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"04:59:38",
+    "Bat %":89,
+    "Bat mV":3955,
+    "Pression_ext(hpa)":1026.951,
+    "Temp_ext(C)":7.48,
+    "Temp_int(C)":7.187,
+    "Temp_sea(C)":14.1,
+    "EC_sea":47300,
+    "Temp_sea(C) .1":14.298,
+    "EC_sea .1":47740,
+    "Temp_sea(C) .2":14.293,
+    "EC_sea .2":47900,
+    "Datetime":"2021-12-01 04:59:38",
+    "Temp_mean":"14.230333333333334",
+    "Ec_mean":"47646.666666666664",
+    "Salinity":"40.15092486181709"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440228,36.120427 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"05:14:54",
+    "Bat %":88,
+    "Bat mV":3952,
+    "Pression_ext(hpa)":1026.933,
+    "Temp_ext(C)":7.43,
+    "Temp_int(C)":7.125,
+    "Temp_sea(C)":14.26,
+    "EC_sea":47770,
+    "Temp_sea(C) .1":14.274,
+    "EC_sea .1":48440,
+    "Temp_sea(C) .2":14.285,
+    "EC_sea .2":48630,
+    "Datetime":"2021-12-01 05:14:54",
+    "Temp_mean":"14.273000000000001",
+    "Ec_mean":"48280.0",
+    "Salinity":"40.70747511073609"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440365,36.120478 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"05:30:10",
+    "Bat %":91,
+    "Bat mV":3957,
+    "Pression_ext(hpa)":1026.793,
+    "Temp_ext(C)":7.34,
+    "Temp_int(C)":7.062,
+    "Temp_sea(C)":14.131,
+    "EC_sea":48190,
+    "Temp_sea(C) .1":14.257,
+    "EC_sea .1":48640,
+    "Temp_sea(C) .2":14.254,
+    "EC_sea .2":48750,
+    "Datetime":"2021-12-01 05:30:10",
+    "Temp_mean":"14.213999999999999",
+    "Ec_mean":"48526.666666666664",
+    "Salinity":"41.004937089801416"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440258,36.1204 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"05:45:26",
+    "Bat %":88,
+    "Bat mV":3950,
+    "Pression_ext(hpa)":1026.753,
+    "Temp_ext(C)":7.28,
+    "Temp_int(C)":7,
+    "Temp_sea(C)":13.879,
+    "EC_sea":47520,
+    "Temp_sea(C) .1":14.05,
+    "EC_sea .1":47900,
+    "Temp_sea(C) .2":14.048,
+    "EC_sea .2":48040,
+    "Datetime":"2021-12-01 05:45:26",
+    "Temp_mean":"13.992333333333335",
+    "Ec_mean":"47820.0",
+    "Salinity":"40.566485922840776"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440259,36.120641 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"06:00:42",
+    "Bat %":89,
+    "Bat mV":3950,
+    "Pression_ext(hpa)":1026.689,
+    "Temp_ext(C)":7.19,
+    "Temp_int(C)":6.875,
+    "Temp_sea(C)":14.213,
+    "EC_sea":47320,
+    "Temp_sea(C) .1":14.346,
+    "EC_sea .1":47660,
+    "Temp_sea(C) .2":14.346,
+    "EC_sea .2":47800,
+    "Datetime":"2021-12-01 06:00:42",
+    "Temp_mean":"14.301666666666668",
+    "Ec_mean":"47593.333333333336",
+    "Salinity":"40.025982033814685"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440314,36.120545 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"06:15:57",
+    "Bat %":90,
+    "Bat mV":3955,
+    "Pression_ext(hpa)":1026.685,
+    "Temp_ext(C)":7.2,
+    "Temp_int(C)":6.875,
+    "Temp_sea(C)":14.622,
+    "EC_sea":47350,
+    "Temp_sea(C) .1":14.645,
+    "EC_sea .1":47680,
+    "Temp_sea(C) .2":14.664,
+    "EC_sea .2":47790,
+    "Datetime":"2021-12-01 06:15:57",
+    "Temp_mean":"14.643666666666666",
+    "Ec_mean":"47606.666666666664",
+    "Salinity":"39.68517307810001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440288,36.120405 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"06:31:14",
+    "Bat %":88,
+    "Bat mV":3950,
+    "Pression_ext(hpa)":1026.673,
+    "Temp_ext(C)":7.12,
+    "Temp_int(C)":6.812,
+    "Temp_sea(C)":14.525,
+    "EC_sea":47090,
+    "Temp_sea(C) .1":14.546,
+    "EC_sea .1":47340,
+    "Temp_sea(C) .2":14.563,
+    "EC_sea .2":47420,
+    "Datetime":"2021-12-01 06:31:14",
+    "Temp_mean":"14.544666666666666",
+    "Ec_mean":"47283.333333333336",
+    "Salinity":"39.482929015884395"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440505,36.120424 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"06:46:29",
+    "Bat %":90,
+    "Bat mV":3954,
+    "Pression_ext(hpa)":1026.603,
+    "Temp_ext(C)":7.17,
+    "Temp_int(C)":6.75,
+    "Temp_sea(C)":14.327,
+    "EC_sea":47160,
+    "Temp_sea(C) .1":14.346,
+    "EC_sea .1":47350,
+    "Temp_sea(C) .2":14.36,
+    "EC_sea .2":47380,
+    "Datetime":"2021-12-01 06:46:29",
+    "Temp_mean":"14.344333333333333",
+    "Ec_mean":"47296.666666666664",
+    "Salinity":"39.70117244311632"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.44051,36.120489 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"07:01:47",
+    "Bat %":88,
+    "Bat mV":3933,
+    "Pression_ext(hpa)":1026.539,
+    "Temp_ext(C)":7.05,
+    "Temp_int(C)":6.75,
+    "Temp_sea(C)":14.112,
+    "EC_sea":46900,
+    "Temp_sea(C) .1":14.133,
+    "EC_sea .1":47060,
+    "Temp_sea(C) .2":14.148,
+    "EC_sea .2":46990,
+    "Datetime":"2021-12-01 07:01:47",
+    "Temp_mean":"14.131",
+    "Ec_mean":"46983.333333333336",
+    "Salinity":"39.62459922799541"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440497,36.120467 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"07:17:05",
+    "Bat %":88,
+    "Bat mV":3933,
+    "Pression_ext(hpa)":1026.515,
+    "Temp_ext(C)":7.03,
+    "Temp_int(C)":6.687,
+    "Temp_sea(C)":13.93,
+    "EC_sea":46940,
+    "Temp_sea(C) .1":13.949,
+    "EC_sea .1":47040,
+    "Temp_sea(C) .2":13.962,
+    "EC_sea .2":47070,
+    "Datetime":"2021-12-01 07:17:05",
+    "Temp_mean":"13.946999999999997",
+    "Ec_mean":"47016.666666666664",
+    "Salinity":"39.84710512783829"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.44024,36.120483 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"07:32:23",
+    "Bat %":88,
+    "Bat mV":3935,
+    "Pression_ext(hpa)":1026.542,
+    "Temp_ext(C)":7.03,
+    "Temp_int(C)":6.687,
+    "Temp_sea(C)":13.99,
+    "EC_sea":46970,
+    "Temp_sea(C) .1":14.014,
+    "EC_sea .1":47060,
+    "Temp_sea(C) .2":14.031,
+    "EC_sea .2":47100,
+    "Datetime":"2021-12-01 07:32:23",
+    "Temp_mean":"14.011666666666665",
+    "Ec_mean":"47043.333333333336",
+    "Salinity":"39.80524844269773"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440101,36.120518 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"07:47:39",
+    "Bat %":88,
+    "Bat mV":3946,
+    "Pression_ext(hpa)":1026.537,
+    "Temp_ext(C)":7.01,
+    "Temp_int(C)":6.625,
+    "Temp_sea(C)":14.042,
+    "EC_sea":47100,
+    "Temp_sea(C) .1":14.051,
+    "EC_sea .1":47170,
+    "Temp_sea(C) .2":14.055,
+    "EC_sea .2":47180,
+    "Datetime":"2021-12-01 07:47:39",
+    "Temp_mean":"14.049333333333331",
+    "Ec_mean":"47150.0",
+    "Salinity":"39.867632043480604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440418,36.120632 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"08:03:14",
+    "Bat %":88,
+    "Bat mV":3944,
+    "Pression_ext(hpa)":1026.667,
+    "Temp_ext(C)":6.92,
+    "Temp_int(C)":6.625,
+    "Temp_sea(C)":14.042,
+    "EC_sea":47290,
+    "Temp_sea(C) .1":14.042,
+    "EC_sea .1":47330,
+    "Temp_sea(C) .2":14.041,
+    "EC_sea .2":47310,
+    "Datetime":"2021-12-01 08:03:14",
+    "Temp_mean":"14.041666666666666",
+    "Ec_mean":"47310.0",
+    "Salinity":"40.027965159072934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440375,36.120373 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"08:18:28",
+    "Bat %":90,
+    "Bat mV":3951,
+    "Pression_ext(hpa)":1026.66,
+    "Temp_ext(C)":6.86,
+    "Temp_int(C)":6.562,
+    "Temp_sea(C)":14.033,
+    "EC_sea":47490,
+    "Temp_sea(C) .1":14.048,
+    "EC_sea .1":47500,
+    "Temp_sea(C) .2":14.057,
+    "EC_sea .2":47480,
+    "Datetime":"2021-12-01 08:18:28",
+    "Temp_mean":"14.046",
+    "Ec_mean":"47490.0",
+    "Salinity":"40.194935391168535"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440601,36.120403 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"08:33:44",
+    "Bat %":88,
+    "Bat mV":3945,
+    "Pression_ext(hpa)":1026.783,
+    "Temp_ext(C)":6.84,
+    "Temp_int(C)":6.5,
+    "Temp_sea(C)":14.045,
+    "EC_sea":47600,
+    "Temp_sea(C) .1":14.045,
+    "EC_sea .1":47590,
+    "Temp_sea(C) .2":14.045,
+    "EC_sea .2":47530,
+    "Datetime":"2021-12-01 08:33:44",
+    "Temp_mean":"14.045",
+    "Ec_mean":"47573.333333333336",
+    "Salinity":"40.27542496142341"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.441294,36.120538 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"08:49:02",
+    "Bat %":87,
+    "Bat mV":3930,
+    "Pression_ext(hpa)":1026.891,
+    "Temp_ext(C)":6.91,
+    "Temp_int(C)":6.562,
+    "Temp_sea(C)":14.035,
+    "EC_sea":47670,
+    "Temp_sea(C) .1":14.047,
+    "EC_sea .1":47650,
+    "Temp_sea(C) .2":14.056,
+    "EC_sea .2":47610,
+    "Datetime":"2021-12-01 08:49:02",
+    "Temp_mean":"14.046",
+    "Ec_mean":"47643.333333333336",
+    "Salinity":"40.34112219743481"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440416,36.120494 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"09:04:20",
+    "Bat %":87,
+    "Bat mV":3932,
+    "Pression_ext(hpa)":1026.932,
+    "Temp_ext(C)":7.02,
+    "Temp_int(C)":6.625,
+    "Temp_sea(C)":14.052,
+    "EC_sea":47610,
+    "Temp_sea(C) .1":14.059,
+    "EC_sea .1":47610,
+    "Temp_sea(C) .2":14.064,
+    "EC_sea .2":47540,
+    "Datetime":"2021-12-01 09:04:20",
+    "Temp_mean":"14.058333333333332",
+    "Ec_mean":"47586.666666666664",
+    "Salinity":"40.274119955832965"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440977,36.120579 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"09:19:39",
+    "Bat %":87,
+    "Bat mV":3945,
+    "Pression_ext(hpa)":1026.868,
+    "Temp_ext(C)":7.09,
+    "Temp_int(C)":6.687,
+    "Temp_sea(C)":14.064,
+    "EC_sea":47710,
+    "Temp_sea(C) .1":14.075,
+    "EC_sea .1":47670,
+    "Temp_sea(C) .2":14.084,
+    "EC_sea .2":47640,
+    "Datetime":"2021-12-01 09:19:39",
+    "Temp_mean":"14.074333333333334",
+    "Ec_mean":"47673.333333333336",
+    "Salinity":"40.3398941292071"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.441053,36.120694 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"09:34:56",
+    "Bat %":87,
+    "Bat mV":3944,
+    "Pression_ext(hpa)":1026.928,
+    "Temp_ext(C)":7.74,
+    "Temp_int(C)":7.375,
+    "Temp_sea(C)":14.442,
+    "EC_sea":47790,
+    "Temp_sea(C) .1":14.452,
+    "EC_sea .1":47780,
+    "Temp_sea(C) .2":14.459,
+    "EC_sea .2":47800,
+    "Datetime":"2021-12-01 09:34:56",
+    "Temp_mean":"14.450999999999999",
+    "Ec_mean":"47790.0",
+    "Salinity":"40.05665401804206"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440606,36.120545 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"09:50:20",
+    "Bat %":87,
+    "Bat mV":3953,
+    "Pression_ext(hpa)":1027.032,
+    "Temp_ext(C)":9.34,
+    "Temp_int(C)":9.125,
+    "Temp_sea(C)":15.134,
+    "EC_sea":47870,
+    "Temp_sea(C) .1":15.135,
+    "EC_sea .1":47890,
+    "Temp_sea(C) .2":15.139,
+    "EC_sea .2":47880,
+    "Datetime":"2021-12-01 09:50:20",
+    "Temp_mean":"15.136000000000001",
+    "Ec_mean":"47880.0",
+    "Salinity":"39.43847756163068"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440298,36.120585 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"10:06:11",
+    "Bat %":88,
+    "Bat mV":3940,
+    "Pression_ext(hpa)":1027.203,
+    "Temp_ext(C)":11.12,
+    "Temp_int(C)":11.25,
+    "Temp_sea(C)":15.306,
+    "EC_sea":47860,
+    "Temp_sea(C) .1":15.305,
+    "EC_sea .1":47860,
+    "Temp_sea(C) .2":15.306,
+    "EC_sea .2":47840,
+    "Datetime":"2021-12-01 10:06:11",
+    "Temp_mean":"15.305666666666665",
+    "Ec_mean":"47853.333333333336",
+    "Salinity":"39.242775213119415"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.44022,36.120669 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"10:21:32",
+    "Bat %":87,
+    "Bat mV":3947,
+    "Pression_ext(hpa)":1027.213,
+    "Temp_ext(C)":12.81,
+    "Temp_int(C)":13.313,
+    "Temp_sea(C)":15.312,
+    "EC_sea":47790,
+    "Temp_sea(C) .1":15.314,
+    "EC_sea .1":47790,
+    "Temp_sea(C) .2":15.314,
+    "EC_sea .2":47750,
+    "Datetime":"2021-12-01 10:21:32",
+    "Temp_mean":"15.313333333333333",
+    "Ec_mean":"47776.666666666664",
+    "Salinity":"39.16433570764853"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440339,36.1206 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"10:36:55",
+    "Bat %":88,
+    "Bat mV":3975,
+    "Pression_ext(hpa)":1027.293,
+    "Temp_ext(C)":14.35,
+    "Temp_int(C)":15.188,
+    "Temp_sea(C)":15.601,
+    "EC_sea":47720,
+    "Temp_sea(C) .1":15.599,
+    "EC_sea .1":47630,
+    "Temp_sea(C) .2":15.596,
+    "EC_sea .2":47600,
+    "Datetime":"2021-12-01 10:36:55",
+    "Temp_mean":"15.598666666666668",
+    "Ec_mean":"47650.0",
+    "Salinity":"38.76415199669464"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440502,36.120768 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"10:52:11",
+    "Bat %":89,
+    "Bat mV":3972,
+    "Pression_ext(hpa)":1027.521,
+    "Temp_ext(C)":15.49,
+    "Temp_int(C)":16.625,
+    "Temp_sea(C)":15.848,
+    "EC_sea":47330,
+    "Temp_sea(C) .1":15.845,
+    "EC_sea .1":47280,
+    "Temp_sea(C) .2":15.842,
+    "EC_sea .2":47240,
+    "Datetime":"2021-12-01 10:52:11",
+    "Temp_mean":"15.845",
+    "Ec_mean":"47283.333333333336",
+    "Salinity":"38.18899478461207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440395,36.120687 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"11:07:26",
+    "Bat %":91,
+    "Bat mV":3992,
+    "Pression_ext(hpa)":1027.641,
+    "Temp_ext(C)":16.57,
+    "Temp_int(C)":17.937,
+    "Temp_sea(C)":15.859,
+    "EC_sea":46910,
+    "Temp_sea(C) .1":15.874,
+    "EC_sea .1":46900,
+    "Temp_sea(C) .2":15.885,
+    "EC_sea .2":46880,
+    "Datetime":"2021-12-01 11:07:26",
+    "Temp_mean":"15.872666666666667",
+    "Ec_mean":"46896.666666666664",
+    "Salinity":"37.81160076559707"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440301,36.120647 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"11:22:43",
+    "Bat %":90,
+    "Bat mV":3979,
+    "Pression_ext(hpa)":1027.689,
+    "Temp_ext(C)":17.12,
+    "Temp_int(C)":19.062,
+    "Temp_sea(C)":15.914,
+    "EC_sea":46900,
+    "Temp_sea(C) .1":15.924,
+    "EC_sea .1":46870,
+    "Temp_sea(C) .2":15.931,
+    "EC_sea .2":46860,
+    "Datetime":"2021-12-01 11:22:43",
+    "Temp_mean":"15.923",
+    "Ec_mean":"46876.666666666664",
+    "Salinity":"37.745316880132734"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440378,36.120645 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"11:38:02",
+    "Bat %":87,
+    "Bat mV":3965,
+    "Pression_ext(hpa)":1027.703,
+    "Temp_ext(C)":17.22,
+    "Temp_int(C)":19.125,
+    "Temp_sea(C)":15.968,
+    "EC_sea":46930,
+    "Temp_sea(C) .1":15.988,
+    "EC_sea .1":46880,
+    "Temp_sea(C) .2":16.002,
+    "EC_sea .2":46890,
+    "Datetime":"2021-12-01 11:38:02",
+    "Temp_mean":"15.985999999999999",
+    "Ec_mean":"46900.0",
+    "Salinity":"37.706252247518655"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440253,36.120494 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"11:53:20",
+    "Bat %":86,
+    "Bat mV":3952,
+    "Pression_ext(hpa)":1027.813,
+    "Temp_ext(C)":17.87,
+    "Temp_int(C)":19.437,
+    "Temp_sea(C)":16.046,
+    "EC_sea":46900,
+    "Temp_sea(C) .1":16.063,
+    "EC_sea .1":46870,
+    "Temp_sea(C) .2":16.076,
+    "EC_sea .2":46870,
+    "Datetime":"2021-12-01 11:53:20",
+    "Temp_mean":"16.061666666666664",
+    "Ec_mean":"46880.0",
+    "Salinity":"37.616147897249604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.438836,36.119531 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"12:08:51",
+    "Bat %":86,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1027.769,
+    "Temp_ext(C)":17.86,
+    "Temp_int(C)":19.437,
+    "Temp_sea(C)":16.121,
+    "EC_sea":47010,
+    "Temp_sea(C) .1":16.14,
+    "EC_sea .1":46990,
+    "Temp_sea(C) .2":16.156,
+    "EC_sea .2":46970,
+    "Datetime":"2021-12-01 12:08:51",
+    "Temp_mean":"16.139",
+    "Ec_mean":"46990.0",
+    "Salinity":"37.641751405133135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440466,36.120645 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"12:24:43",
+    "Bat %":87,
+    "Bat mV":3944,
+    "Pression_ext(hpa)":1027.628,
+    "Temp_ext(C)":17.97,
+    "Temp_int(C)":19.375,
+    "Temp_sea(C)":16.199,
+    "EC_sea":47110,
+    "Temp_sea(C) .1":16.215,
+    "EC_sea .1":47080,
+    "Temp_sea(C) .2":16.225,
+    "EC_sea .2":47050,
+    "Datetime":"2021-12-01 12:24:43",
+    "Temp_mean":"16.213",
+    "Ec_mean":"47080.0",
+    "Salinity":"37.65242317150511"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440236,36.120594 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"12:40:21",
+    "Bat %":86,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1027.407,
+    "Temp_ext(C)":18.23,
+    "Temp_int(C)":19.312,
+    "Temp_sea(C)":16.644,
+    "EC_sea":47830,
+    "Temp_sea(C) .1":16.643,
+    "EC_sea .1":47810,
+    "Temp_sea(C) .2":16.641,
+    "EC_sea .2":47800,
+    "Datetime":"2021-12-01 12:40:21",
+    "Temp_mean":"16.642666666666667",
+    "Ec_mean":"47813.333333333336",
+    "Salinity":"37.900827358689526"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.44028,36.120613 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"12:55:45",
+    "Bat %":86,
+    "Bat mV":3944,
+    "Pression_ext(hpa)":1027.252,
+    "Temp_ext(C)":18.43,
+    "Temp_int(C)":19.375,
+    "Temp_sea(C)":16.645,
+    "EC_sea":47870,
+    "Temp_sea(C) .1":16.65,
+    "EC_sea .1":47810,
+    "Temp_sea(C) .2":16.653,
+    "EC_sea .2":47840,
+    "Datetime":"2021-12-01 12:55:45",
+    "Temp_mean":"16.649333333333335",
+    "Ec_mean":"47840.0",
+    "Salinity":"37.91826404891928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440237,36.120503 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"13:11:08",
+    "Bat %":86,
+    "Bat mV":3955,
+    "Pression_ext(hpa)":1027.108,
+    "Temp_ext(C)":18.48,
+    "Temp_int(C)":19.5,
+    "Temp_sea(C)":16.825,
+    "EC_sea":48170,
+    "Temp_sea(C) .1":16.824,
+    "EC_sea .1":48180,
+    "Temp_sea(C) .2":16.822,
+    "EC_sea .2":48140,
+    "Datetime":"2021-12-01 13:11:08",
+    "Temp_mean":"16.823666666666668",
+    "Ec_mean":"48163.333333333336",
+    "Salinity":"38.04031328129401"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440181,36.120523 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"13:26:28",
+    "Bat %":86,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1026.787,
+    "Temp_ext(C)":18.31,
+    "Temp_int(C)":19.25,
+    "Temp_sea(C)":16.822,
+    "EC_sea":48210,
+    "Temp_sea(C) .1":16.823,
+    "EC_sea .1":48160,
+    "Temp_sea(C) .2":16.824,
+    "EC_sea .2":48170,
+    "Datetime":"2021-12-01 13:26:28",
+    "Temp_mean":"16.822999999999997",
+    "Ec_mean":"48180.0",
+    "Salinity":"38.055754549345615"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440324,36.120633 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"13:41:57",
+    "Bat %":86,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1026.455,
+    "Temp_ext(C)":18.41,
+    "Temp_int(C)":19.25,
+    "Temp_sea(C)":16.836,
+    "EC_sea":48300,
+    "Temp_sea(C) .1":16.842,
+    "EC_sea .1":48270,
+    "Temp_sea(C) .2":16.846,
+    "EC_sea .2":48260,
+    "Datetime":"2021-12-01 13:41:57",
+    "Temp_mean":"16.841333333333335",
+    "Ec_mean":"48276.666666666664",
+    "Salinity":"38.124187262039605"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440169,36.120653 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"13:57:42",
+    "Bat %":85,
+    "Bat mV":3938,
+    "Pression_ext(hpa)":1025.993,
+    "Temp_ext(C)":18.44,
+    "Temp_int(C)":19.125,
+    "Temp_sea(C)":16.845,
+    "EC_sea":48270,
+    "Temp_sea(C) .1":16.841,
+    "EC_sea .1":48240,
+    "Temp_sea(C) .2":16.837,
+    "EC_sea .2":48240,
+    "Datetime":"2021-12-01 13:57:42",
+    "Temp_mean":"16.840999999999998",
+    "Ec_mean":"48250.0",
+    "Salinity":"38.10081540312199"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440066,36.120497 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"14:13:01",
+    "Bat %":86,
+    "Bat mV":3947,
+    "Pression_ext(hpa)":1025.662,
+    "Temp_ext(C)":18.62,
+    "Temp_int(C)":19.125,
+    "Temp_sea(C)":16.842,
+    "EC_sea":48360,
+    "Temp_sea(C) .1":16.847,
+    "EC_sea .1":48340,
+    "Temp_sea(C) .2":16.852,
+    "EC_sea .2":48370,
+    "Datetime":"2021-12-01 14:13:01",
+    "Temp_mean":"16.846999999999998",
+    "Ec_mean":"48356.666666666664",
+    "Salinity":"38.18986188475348"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440137,36.120635 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"14:28:21",
+    "Bat %":86,
+    "Bat mV":3945,
+    "Pression_ext(hpa)":1025.324,
+    "Temp_ext(C)":18.5,
+    "Temp_int(C)":19,
+    "Temp_sea(C)":16.875,
+    "EC_sea":48450,
+    "Temp_sea(C) .1":16.887,
+    "EC_sea .1":48390,
+    "Temp_sea(C) .2":16.895,
+    "EC_sea .2":48420,
+    "Datetime":"2021-12-01 14:28:21",
+    "Temp_mean":"16.885666666666665",
+    "Ec_mean":"48420.0",
+    "Salinity":"38.20922245799202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440057,36.120685 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"14:43:37",
+    "Bat %":86,
+    "Bat mV":3953,
+    "Pression_ext(hpa)":1024.927,
+    "Temp_ext(C)":17.93,
+    "Temp_int(C)":18.375,
+    "Temp_sea(C)":16.758,
+    "EC_sea":48290,
+    "Temp_sea(C) .1":16.757,
+    "EC_sea .1":48270,
+    "Temp_sea(C) .2":16.756,
+    "EC_sea .2":48290,
+    "Datetime":"2021-12-01 14:43:37",
+    "Temp_mean":"16.757",
+    "Ec_mean":"48283.333333333336",
+    "Salinity":"38.21059014186101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440345,36.120653 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"14:58:51",
+    "Bat %":85,
+    "Bat mV":3953,
+    "Pression_ext(hpa)":1024.654,
+    "Temp_ext(C)":18.62,
+    "Temp_int(C)":18.812,
+    "Temp_sea(C)":16.767,
+    "EC_sea":48120,
+    "Temp_sea(C) .1":16.775,
+    "EC_sea .1":48120,
+    "Temp_sea(C) .2":16.78,
+    "EC_sea .2":48100,
+    "Datetime":"2021-12-01 14:58:51",
+    "Temp_mean":"16.774",
+    "Ec_mean":"48113.333333333336",
+    "Salinity":"38.04310242623475"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.439892,36.120969 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"15:14:17",
+    "Bat %":84,
+    "Bat mV":3946,
+    "Pression_ext(hpa)":1024.213,
+    "Temp_ext(C)":18.7,
+    "Temp_int(C)":18.937,
+    "Temp_sea(C)":16.812,
+    "EC_sea":48360,
+    "Temp_sea(C) .1":16.83,
+    "EC_sea .1":48320,
+    "Temp_sea(C) .2":16.844,
+    "EC_sea .2":48330,
+    "Datetime":"2021-12-01 15:14:17",
+    "Temp_mean":"16.828666666666667",
+    "Ec_mean":"48336.666666666664",
+    "Salinity":"38.18958246322307"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440186,36.120364 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"15:29:39",
+    "Bat %":85,
+    "Bat mV":3949,
+    "Pression_ext(hpa)":1024.158,
+    "Temp_ext(C)":18.88,
+    "Temp_int(C)":19.187,
+    "Temp_sea(C)":16.883,
+    "EC_sea":48370,
+    "Temp_sea(C) .1":16.899,
+    "EC_sea .1":48330,
+    "Temp_sea(C) .2":16.911,
+    "EC_sea .2":48340,
+    "Datetime":"2021-12-01 15:29:39",
+    "Temp_mean":"16.897666666666666",
+    "Ec_mean":"48346.666666666664",
+    "Salinity":"38.132695429007505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.440111,36.120466 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"15:45:02",
+    "Bat %":84,
+    "Bat mV":3947,
+    "Pression_ext(hpa)":1023.927,
+    "Temp_ext(C)":18.91,
+    "Temp_int(C)":19.187,
+    "Temp_sea(C)":16.926,
+    "EC_sea":48340,
+    "Temp_sea(C) .1":16.926,
+    "EC_sea .1":48310,
+    "Temp_sea(C) .2":16.925,
+    "EC_sea .2":48280,
+    "Datetime":"2021-12-01 15:45:02",
+    "Temp_mean":"16.925666666666668",
+    "Ec_mean":"48310.0",
+    "Salinity":"38.07354594851809"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.439921,36.120472 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"16:00:22",
+    "Bat %":85,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1023.748,
+    "Temp_ext(C)":18.96,
+    "Temp_int(C)":19.25,
+    "Temp_sea(C)":16.922,
+    "EC_sea":47770,
+    "Temp_sea(C) .1":16.918,
+    "EC_sea .1":47770,
+    "Temp_sea(C) .2":16.91,
+    "EC_sea .2":47740,
+    "Datetime":"2021-12-01 16:00:22",
+    "Temp_mean":"16.916666666666668",
+    "Ec_mean":"47760.0",
+    "Salinity":"37.59487690012732"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.424077,36.116026 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"16:15:37",
+    "Bat %":86,
+    "Bat mV":3960,
+    "Pression_ext(hpa)":1023.581,
+    "Temp_ext(C)":19.63,
+    "Temp_int(C)":20.187,
+    "Temp_sea(C)":16.676,
+    "EC_sea":47880,
+    "Temp_sea(C) .1":16.675,
+    "EC_sea .1":47820,
+    "Temp_sea(C) .2":16.674,
+    "EC_sea .2":47810,
+    "Datetime":"2021-12-01 16:15:37",
+    "Temp_mean":"16.675",
+    "Ec_mean":"47836.666666666664",
+    "Salinity":"37.89092532430778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.399779,36.125735 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"16:30:51",
+    "Bat %":85,
+    "Bat mV":3952,
+    "Pression_ext(hpa)":1023.233,
+    "Temp_ext(C)":19.24,
+    "Temp_int(C)":20.312,
+    "Temp_sea(C)":16.53,
+    "EC_sea":47440,
+    "Temp_sea(C) .1":16.527,
+    "EC_sea .1":47360,
+    "Temp_sea(C) .2":16.522,
+    "EC_sea .2":47390,
+    "Datetime":"2021-12-01 16:30:51",
+    "Temp_mean":"16.526333333333334",
+    "Ec_mean":"47396.666666666664",
+    "Salinity":"37.639347281937226"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.380142,36.142331 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"16:46:09",
+    "Bat %":85,
+    "Bat mV":3937,
+    "Pression_ext(hpa)":1023.361,
+    "Temp_ext(C)":18.93,
+    "Temp_int(C)":20,
+    "Temp_sea(C)":16.478,
+    "EC_sea":47580,
+    "Temp_sea(C) .1":16.45,
+    "EC_sea .1":47510,
+    "Temp_sea(C) .2":16.428,
+    "EC_sea .2":47550,
+    "Datetime":"2021-12-01 16:46:09",
+    "Temp_mean":"16.451999999999998",
+    "Ec_mean":"47546.666666666664",
+    "Salinity":"37.84384916802977"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.363823,36.158731 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"17:01:27",
+    "Bat %":89,
+    "Bat mV":3975,
+    "Pression_ext(hpa)":1023.396,
+    "Temp_ext(C)":18.13,
+    "Temp_int(C)":19.187,
+    "Temp_sea(C)":15.852,
+    "EC_sea":46990,
+    "Temp_sea(C) .1":15.849,
+    "EC_sea .1":46970,
+    "Temp_sea(C) .2":15.845,
+    "EC_sea .2":46900,
+    "Datetime":"2021-12-01 17:01:27",
+    "Temp_mean":"15.848666666666666",
+    "Ec_mean":"46953.333333333336",
+    "Salinity":"37.88599432191251"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.357223,36.158365 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"17:16:45",
+    "Bat %":84,
+    "Bat mV":3942,
+    "Pression_ext(hpa)":1023.426,
+    "Temp_ext(C)":17.35,
+    "Temp_int(C)":17.812,
+    "Temp_sea(C)":15.373,
+    "EC_sea":46020,
+    "Temp_sea(C) .1":15.37,
+    "EC_sea .1":45960,
+    "Temp_sea(C) .2":15.366,
+    "EC_sea .2":45960,
+    "Datetime":"2021-12-01 17:16:45",
+    "Temp_mean":"15.369666666666665",
+    "Ec_mean":"45980.0",
+    "Salinity":"37.458630926915156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.357067,36.158361 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"17:32:03",
+    "Bat %":84,
+    "Bat mV":3928,
+    "Pression_ext(hpa)":1023.41,
+    "Temp_ext(C)":17.34,
+    "Temp_int(C)":17.625,
+    "Temp_sea(C)":15.347,
+    "EC_sea":45940,
+    "Temp_sea(C) .1":15.331,
+    "EC_sea .1":46000,
+    "Temp_sea(C) .2":15.318,
+    "EC_sea .2":45960,
+    "Datetime":"2021-12-01 17:32:03",
+    "Temp_mean":"15.331999999999999",
+    "Ec_mean":"45966.666666666664",
+    "Salinity":"37.48247514998678"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.357206,36.158361 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"17:48:20",
+    "Bat %":84,
+    "Bat mV":3936,
+    "Pression_ext(hpa)":1023.447,
+    "Temp_ext(C)":16.89,
+    "Temp_int(C)":17.125,
+    "Temp_sea(C)":15.274,
+    "EC_sea":45870,
+    "Temp_sea(C) .1":15.254,
+    "EC_sea .1":45840,
+    "Temp_sea(C) .2":15.237,
+    "EC_sea .2":45920,
+    "Datetime":"2021-12-01 17:48:20",
+    "Temp_mean":"15.255",
+    "Ec_mean":"45876.666666666664",
+    "Salinity":"37.47376865966393"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35725,36.158339 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"18:03:39",
+    "Bat %":84,
+    "Bat mV":3939,
+    "Pression_ext(hpa)":1023.454,
+    "Temp_ext(C)":16.61,
+    "Temp_int(C)":16.75,
+    "Temp_sea(C)":15.047,
+    "EC_sea":45880,
+    "Temp_sea(C) .1":15.044,
+    "EC_sea .1":45880,
+    "Temp_sea(C) .2":15.039,
+    "EC_sea .2":45830,
+    "Datetime":"2021-12-01 18:03:39",
+    "Temp_mean":"15.043333333333335",
+    "Ec_mean":"45863.333333333336",
+    "Salinity":"37.665240170509215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355563,36.158996 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"18:19:09",
+    "Bat %":83,
+    "Bat mV":3922,
+    "Pression_ext(hpa)":1023.602,
+    "Temp_ext(C)":16.46,
+    "Temp_int(C)":16.5,
+    "Temp_sea(C)":14.999,
+    "EC_sea":45720,
+    "Temp_sea(C) .1":14.974,
+    "EC_sea .1":45800,
+    "Temp_sea(C) .2":14.953,
+    "EC_sea .2":45780,
+    "Datetime":"2021-12-01 18:19:09",
+    "Temp_mean":"14.975333333333333",
+    "Ec_mean":"45766.666666666664",
+    "Salinity":"37.641771398991224"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355688,36.158983 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"18:34:38",
+    "Bat %":83,
+    "Bat mV":3933,
+    "Pression_ext(hpa)":1023.655,
+    "Temp_ext(C)":16.09,
+    "Temp_int(C)":16.125,
+    "Temp_sea(C)":14.904,
+    "EC_sea":45830,
+    "Temp_sea(C) .1":14.888,
+    "EC_sea .1":45830,
+    "Temp_sea(C) .2":14.873,
+    "EC_sea .2":45710,
+    "Datetime":"2021-12-01 18:34:38",
+    "Temp_mean":"14.888333333333334",
+    "Ec_mean":"45790.0",
+    "Salinity":"37.74764909627348"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355912,36.159083 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"18:49:50",
+    "Bat %":86,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1023.773,
+    "Temp_ext(C)":15.62,
+    "Temp_int(C)":15.563,
+    "Temp_sea(C)":14.837,
+    "EC_sea":45860,
+    "Temp_sea(C) .1":14.827,
+    "EC_sea .1":45790,
+    "Temp_sea(C) .2":14.817,
+    "EC_sea .2":45770,
+    "Datetime":"2021-12-01 18:49:50",
+    "Temp_mean":"14.827",
+    "Ec_mean":"45806.666666666664",
+    "Salinity":"37.82273648925397"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355984,36.159125 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"19:05:07",
+    "Bat %":84,
+    "Bat mV":3936,
+    "Pression_ext(hpa)":1023.737,
+    "Temp_ext(C)":15.26,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":14.819,
+    "EC_sea":45890,
+    "Temp_sea(C) .1":14.831,
+    "EC_sea .1":45840,
+    "Temp_sea(C) .2":14.838,
+    "EC_sea .2":45880,
+    "Datetime":"2021-12-01 19:05:07",
+    "Temp_mean":"14.829333333333333",
+    "Ec_mean":"45870.0",
+    "Salinity":"37.87919538823647"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355754,36.159079 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"19:20:28",
+    "Bat %":83,
+    "Bat mV":3937,
+    "Pression_ext(hpa)":1023.829,
+    "Temp_ext(C)":15.03,
+    "Temp_int(C)":14.625,
+    "Temp_sea(C)":14.683,
+    "EC_sea":45930,
+    "Temp_sea(C) .1":14.678,
+    "EC_sea .1":45840,
+    "Temp_sea(C) .2":14.672,
+    "EC_sea .2":45850,
+    "Datetime":"2021-12-01 19:20:28",
+    "Temp_mean":"14.677666666666667",
+    "Ec_mean":"45873.333333333336",
+    "Salinity":"38.030701179407046"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355819,36.159053 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"19:35:51",
+    "Bat %":83,
+    "Bat mV":3932,
+    "Pression_ext(hpa)":1023.69,
+    "Temp_ext(C)":14.9,
+    "Temp_int(C)":14.437,
+    "Temp_sea(C)":14.664,
+    "EC_sea":45950,
+    "Temp_sea(C) .1":14.667,
+    "EC_sea .1":45920,
+    "Temp_sea(C) .2":14.668,
+    "EC_sea .2":45920,
+    "Datetime":"2021-12-01 19:35:51",
+    "Temp_mean":"14.666333333333332",
+    "Ec_mean":"45930.0",
+    "Salinity":"38.094618474989964"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355794,36.159089 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"19:51:21",
+    "Bat %":84,
+    "Bat mV":3930,
+    "Pression_ext(hpa)":1023.734,
+    "Temp_ext(C)":14.84,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":14.641,
+    "EC_sea":45960,
+    "Temp_sea(C) .1":14.619,
+    "EC_sea .1":45930,
+    "Temp_sea(C) .2":14.599,
+    "EC_sea .2":45910,
+    "Datetime":"2021-12-01 19:51:21",
+    "Temp_mean":"14.619666666666665",
+    "Ec_mean":"45933.333333333336",
+    "Salinity":"38.14366990673955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355751,36.15903 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"20:07:10",
+    "Bat %":83,
+    "Bat mV":3930,
+    "Pression_ext(hpa)":1023.735,
+    "Temp_ext(C)":14.77,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":14.404,
+    "EC_sea":46000,
+    "Temp_sea(C) .1":14.402,
+    "EC_sea .1":45960,
+    "Temp_sea(C) .2":14.399,
+    "EC_sea .2":45930,
+    "Datetime":"2021-12-01 20:07:10",
+    "Temp_mean":"14.401666666666666",
+    "Ec_mean":"45963.333333333336",
+    "Salinity":"38.38764208877543"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355748,36.159006 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"20:22:23",
+    "Bat %":85,
+    "Bat mV":3935,
+    "Pression_ext(hpa)":1023.607,
+    "Temp_ext(C)":14.78,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":14.218,
+    "EC_sea":45960,
+    "Temp_sea(C) .1":14.216,
+    "EC_sea .1":45890,
+    "Temp_sea(C) .2":14.211,
+    "EC_sea .2":45900,
+    "Datetime":"2021-12-01 20:22:23",
+    "Temp_mean":"14.214999999999998",
+    "Ec_mean":"45916.666666666664",
+    "Salinity":"38.53015080887127"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355788,36.159076 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"20:37:40",
+    "Bat %":82,
+    "Bat mV":3915,
+    "Pression_ext(hpa)":1023.407,
+    "Temp_ext(C)":14.7,
+    "Temp_int(C)":14.125,
+    "Temp_sea(C)":14.335,
+    "EC_sea":45990,
+    "Temp_sea(C) .1":14.335,
+    "EC_sea .1":45940,
+    "Temp_sea(C) .2":14.333,
+    "EC_sea .2":45970,
+    "Datetime":"2021-12-01 20:37:40",
+    "Temp_mean":"14.334333333333333",
+    "Ec_mean":"45966.666666666664",
+    "Salinity":"38.45788565818975"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355816,36.159065 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"20:52:55",
+    "Bat %":83,
+    "Bat mV":3926,
+    "Pression_ext(hpa)":1023.44,
+    "Temp_ext(C)":14.69,
+    "Temp_int(C)":14.125,
+    "Temp_sea(C)":14.314,
+    "EC_sea":45960,
+    "Temp_sea(C) .1":14.303,
+    "EC_sea .1":46020,
+    "Temp_sea(C) .2":14.291,
+    "EC_sea .2":45970,
+    "Datetime":"2021-12-01 20:52:55",
+    "Temp_mean":"14.302666666666667",
+    "Ec_mean":"45983.333333333336",
+    "Salinity":"38.50519698629525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355546,36.159047 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"21:08:16",
+    "Bat %":83,
+    "Bat mV":3928,
+    "Pression_ext(hpa)":1023.723,
+    "Temp_ext(C)":14.63,
+    "Temp_int(C)":14.063,
+    "Temp_sea(C)":13.848,
+    "EC_sea":45990,
+    "Temp_sea(C) .1":14.189,
+    "EC_sea .1":45970,
+    "Temp_sea(C) .2":14.181,
+    "EC_sea .2":45970,
+    "Datetime":"2021-12-01 21:08:16",
+    "Temp_mean":"14.072666666666665",
+    "Ec_mean":"45976.666666666664",
+    "Salinity":"38.729979208456896"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355736,36.158986 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"21:24:04",
+    "Bat %":83,
+    "Bat mV":3925,
+    "Pression_ext(hpa)":1023.646,
+    "Temp_ext(C)":14.52,
+    "Temp_int(C)":14,
+    "Temp_sea(C)":14.163,
+    "EC_sea":46020,
+    "Temp_sea(C) .1":14.161,
+    "EC_sea .1":46000,
+    "Temp_sea(C) .2":14.157,
+    "EC_sea .2":46010,
+    "Datetime":"2021-12-01 21:24:04",
+    "Temp_mean":"14.160333333333332",
+    "Ec_mean":"46010.0",
+    "Salinity":"38.673131982246986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355669,36.158967 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"21:39:19",
+    "Bat %":82,
+    "Bat mV":3925,
+    "Pression_ext(hpa)":1023.573,
+    "Temp_ext(C)":14.71,
+    "Temp_int(C)":13.938,
+    "Temp_sea(C)":14.133,
+    "EC_sea":46030,
+    "Temp_sea(C) .1":14.123,
+    "EC_sea .1":46000,
+    "Temp_sea(C) .2":14.113,
+    "EC_sea .2":46050,
+    "Datetime":"2021-12-01 21:39:19",
+    "Temp_mean":"14.123",
+    "Ec_mean":"46026.666666666664",
+    "Salinity":"38.7264999281197"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355737,36.159019 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"21:54:34",
+    "Bat %":83,
+    "Bat mV":3927,
+    "Pression_ext(hpa)":1023.407,
+    "Temp_ext(C)":14.66,
+    "Temp_int(C)":14,
+    "Temp_sea(C)":14.291,
+    "EC_sea":46050,
+    "Temp_sea(C) .1":14.293,
+    "EC_sea .1":46040,
+    "Temp_sea(C) .2":14.293,
+    "EC_sea .2":45990,
+    "Datetime":"2021-12-01 21:54:34",
+    "Temp_mean":"14.292333333333332",
+    "Ec_mean":"46026.666666666664",
+    "Salinity":"38.55631981165542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355782,36.159043 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"22:09:50",
+    "Bat %":82,
+    "Bat mV":3926,
+    "Pression_ext(hpa)":1023.509,
+    "Temp_ext(C)":14.77,
+    "Temp_int(C)":14,
+    "Temp_sea(C)":14.317,
+    "EC_sea":46020,
+    "Temp_sea(C) .1":14.45,
+    "EC_sea .1":45760,
+    "Temp_sea(C) .2":14.446,
+    "EC_sea .2":45970,
+    "Datetime":"2021-12-01 22:09:50",
+    "Temp_mean":"14.404333333333334",
+    "Ec_mean":"45916.666666666664",
+    "Salinity":"38.34120460727392"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355753,36.159132 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"22:25:04",
+    "Bat %":82,
+    "Bat mV":3923,
+    "Pression_ext(hpa)":1023.108,
+    "Temp_ext(C)":14.67,
+    "Temp_int(C)":14,
+    "Temp_sea(C)":14.129,
+    "EC_sea":46030,
+    "Temp_sea(C) .1":14.131,
+    "EC_sea .1":46060,
+    "Temp_sea(C) .2":14.132,
+    "EC_sea .2":46000,
+    "Datetime":"2021-12-01 22:25:04",
+    "Temp_mean":"14.130666666666665",
+    "Ec_mean":"46030.0",
+    "Salinity":"38.72192016160571"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355793,36.159039 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"22:40:21",
+    "Bat %":80,
+    "Bat mV":3904,
+    "Pression_ext(hpa)":1022.938,
+    "Temp_ext(C)":14.79,
+    "Temp_int(C)":14.063,
+    "Temp_sea(C)":14.121,
+    "EC_sea":46150,
+    "Temp_sea(C) .1":14.117,
+    "EC_sea .1":46110,
+    "Temp_sea(C) .2":14.113,
+    "EC_sea .2":46110,
+    "Datetime":"2021-12-01 22:40:21",
+    "Temp_mean":"14.116999999999999",
+    "Ec_mean":"46123.333333333336",
+    "Salinity":"38.823993403965105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356066,36.159256 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"22:55:37",
+    "Bat %":81,
+    "Bat mV":3906,
+    "Pression_ext(hpa)":1022.898,
+    "Temp_ext(C)":14.94,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":14.112,
+    "EC_sea":46090,
+    "Temp_sea(C) .1":14.126,
+    "EC_sea .1":46080,
+    "Temp_sea(C) .2":14.136,
+    "EC_sea .2":46090,
+    "Datetime":"2021-12-01 22:55:37",
+    "Temp_mean":"14.124666666666664",
+    "Ec_mean":"46086.666666666664",
+    "Salinity":"38.7815598852934"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355803,36.158904 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"23:10:56",
+    "Bat %":80,
+    "Bat mV":3907,
+    "Pression_ext(hpa)":1022.706,
+    "Temp_ext(C)":15.13,
+    "Temp_int(C)":14.375,
+    "Temp_sea(C)":14.292,
+    "EC_sea":46040,
+    "Temp_sea(C) .1":14.302,
+    "EC_sea .1":46020,
+    "Temp_sea(C) .2":14.31,
+    "EC_sea .2":46050,
+    "Datetime":"2021-12-01 23:10:56",
+    "Temp_mean":"14.301333333333334",
+    "Ec_mean":"46036.666666666664",
+    "Salinity":"38.55671997288075"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355315,36.159096 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"23:26:18",
+    "Bat %":81,
+    "Bat mV":3921,
+    "Pression_ext(hpa)":1022.49,
+    "Temp_ext(C)":15.35,
+    "Temp_int(C)":14.625,
+    "Temp_sea(C)":14.298,
+    "EC_sea":46070,
+    "Temp_sea(C) .1":14.287,
+    "EC_sea .1":46070,
+    "Temp_sea(C) .2":14.279,
+    "EC_sea .2":46040,
+    "Datetime":"2021-12-01 23:26:18",
+    "Temp_mean":"14.288000000000002",
+    "Ec_mean":"46060.0",
+    "Salinity":"38.592043655720005"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355477,36.159018 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"23:42:05",
+    "Bat %":80,
+    "Bat mV":3901,
+    "Pression_ext(hpa)":1022.31,
+    "Temp_ext(C)":15.82,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":14.27,
+    "EC_sea":45920,
+    "Temp_sea(C) .1":14.272,
+    "EC_sea .1":45950,
+    "Temp_sea(C) .2":14.274,
+    "EC_sea .2":45890,
+    "Datetime":"2021-12-01 23:42:05",
+    "Temp_mean":"14.272",
+    "Ec_mean":"45920.0",
+    "Salinity":"38.47624771820141"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355725,36.159107 ]
+    },
+    "properties": {
+    "Date":"2021-12-01",
+    "Time":"23:57:23",
+    "Bat %":80,
+    "Bat mV":3902,
+    "Pression_ext(hpa)":1022.088,
+    "Temp_ext(C)":15.85,
+    "Temp_int(C)":15.188,
+    "Temp_sea(C)":14.166,
+    "EC_sea":45950,
+    "Temp_sea(C) .1":14.171,
+    "EC_sea .1":45890,
+    "Temp_sea(C) .2":14.174,
+    "EC_sea .2":45890,
+    "Datetime":"2021-12-01 23:57:23",
+    "Temp_mean":"14.170333333333332",
+    "Ec_mean":"45910.0",
+    "Salinity":"38.56865196370228"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355717,36.159081 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"00:12:39",
+    "Bat %":80,
+    "Bat mV":3901,
+    "Pression_ext(hpa)":1021.823,
+    "Temp_ext(C)":16.02,
+    "Temp_int(C)":15.313,
+    "Temp_sea(C)":14.311,
+    "EC_sea":45970,
+    "Temp_sea(C) .1":14.312,
+    "EC_sea .1":45980,
+    "Temp_sea(C) .2":14.313,
+    "EC_sea .2":45990,
+    "Datetime":"2021-12-02 00:12:39",
+    "Temp_mean":"14.312",
+    "Ec_mean":"45980.0",
+    "Salinity":"38.492730650725306"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355756,36.159248 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"00:27:56",
+    "Bat %":79,
+    "Bat mV":3916,
+    "Pression_ext(hpa)":1021.549,
+    "Temp_ext(C)":16.19,
+    "Temp_int(C)":15.5,
+    "Temp_sea(C)":14.547,
+    "EC_sea":46290,
+    "Temp_sea(C) .1":14.548,
+    "EC_sea .1":46250,
+    "Temp_sea(C) .2":14.549,
+    "EC_sea .2":46250,
+    "Datetime":"2021-12-02 00:27:56",
+    "Temp_mean":"14.548",
+    "Ec_mean":"46263.333333333336",
+    "Salinity":"38.523030554693555"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355628,36.15901 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"00:43:13",
+    "Bat %":79,
+    "Bat mV":3915,
+    "Pression_ext(hpa)":1021.411,
+    "Temp_ext(C)":16.33,
+    "Temp_int(C)":15.625,
+    "Temp_sea(C)":14.414,
+    "EC_sea":45820,
+    "Temp_sea(C) .1":14.414,
+    "EC_sea .1":45830,
+    "Temp_sea(C) .2":14.413,
+    "EC_sea .2":45770,
+    "Datetime":"2021-12-02 00:43:13",
+    "Temp_mean":"14.413666666666666",
+    "Ec_mean":"45806.666666666664",
+    "Salinity":"38.228782713997965"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35677,36.15994 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"00:58:28",
+    "Bat %":79,
+    "Bat mV":3900,
+    "Pression_ext(hpa)":1020.991,
+    "Temp_ext(C)":16.57,
+    "Temp_int(C)":15.813,
+    "Temp_sea(C)":14.432,
+    "EC_sea":45830,
+    "Temp_sea(C) .1":14.444,
+    "EC_sea .1":45770,
+    "Temp_sea(C) .2":14.452,
+    "EC_sea .2":45860,
+    "Datetime":"2021-12-02 00:58:28",
+    "Temp_mean":"14.442666666666668",
+    "Ec_mean":"45820.0",
+    "Salinity":"38.21255537109472"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355673,36.158996 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"01:13:57",
+    "Bat %":79,
+    "Bat mV":3911,
+    "Pression_ext(hpa)":1020.734,
+    "Temp_ext(C)":16.57,
+    "Temp_int(C)":15.938,
+    "Temp_sea(C)":14.48,
+    "EC_sea":45850,
+    "Temp_sea(C) .1":14.49,
+    "EC_sea .1":45810,
+    "Temp_sea(C) .2":14.496,
+    "EC_sea .2":45820,
+    "Datetime":"2021-12-02 01:13:57",
+    "Temp_mean":"14.488666666666667",
+    "Ec_mean":"45826.666666666664",
+    "Salinity":"38.173296866654645"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355858,36.158995 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"01:29:36",
+    "Bat %":79,
+    "Bat mV":3909,
+    "Pression_ext(hpa)":1020.54,
+    "Temp_ext(C)":16.7,
+    "Temp_int(C)":16.062,
+    "Temp_sea(C)":14.499,
+    "EC_sea":45680,
+    "Temp_sea(C) .1":14.493,
+    "EC_sea .1":45790,
+    "Temp_sea(C) .2":14.487,
+    "EC_sea .2":45720,
+    "Datetime":"2021-12-02 01:29:36",
+    "Temp_mean":"14.493",
+    "Ec_mean":"45730.0",
+    "Salinity":"38.07859185195147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355937,36.159057 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"01:44:49",
+    "Bat %":79,
+    "Bat mV":3911,
+    "Pression_ext(hpa)":1020.288,
+    "Temp_ext(C)":16.52,
+    "Temp_int(C)":16,
+    "Temp_sea(C)":14.286,
+    "EC_sea":45770,
+    "Temp_sea(C) .1":14.286,
+    "EC_sea .1":45730,
+    "Temp_sea(C) .2":14.286,
+    "EC_sea .2":45720,
+    "Datetime":"2021-12-02 01:44:49",
+    "Temp_mean":"14.286",
+    "Ec_mean":"45740.0",
+    "Salinity":"38.29291912383099"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355832,36.15905 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"02:00:03",
+    "Bat %":78,
+    "Bat mV":3909,
+    "Pression_ext(hpa)":1019.797,
+    "Temp_ext(C)":16.58,
+    "Temp_int(C)":16,
+    "Temp_sea(C)":14.295,
+    "EC_sea":45750,
+    "Temp_sea(C) .1":14.303,
+    "EC_sea .1":45820,
+    "Temp_sea(C) .2":14.309,
+    "EC_sea .2":45820,
+    "Datetime":"2021-12-02 02:00:03",
+    "Temp_mean":"14.302333333333332",
+    "Ec_mean":"45796.666666666664",
+    "Salinity":"38.32995483193093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355787,36.158983 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"02:15:17",
+    "Bat %":79,
+    "Bat mV":3912,
+    "Pression_ext(hpa)":1019.452,
+    "Temp_ext(C)":16.58,
+    "Temp_int(C)":16,
+    "Temp_sea(C)":14.123,
+    "EC_sea":45820,
+    "Temp_sea(C) .1":14.122,
+    "EC_sea .1":45810,
+    "Temp_sea(C) .2":14.118,
+    "EC_sea .2":45890,
+    "Datetime":"2021-12-02 02:15:17",
+    "Temp_mean":"14.121",
+    "Ec_mean":"45840.0",
+    "Salinity":"38.55205961512107"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355864,36.158963 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"02:30:31",
+    "Bat %":78,
+    "Bat mV":3911,
+    "Pression_ext(hpa)":1019.106,
+    "Temp_ext(C)":16.58,
+    "Temp_int(C)":15.938,
+    "Temp_sea(C)":14.33,
+    "EC_sea":45840,
+    "Temp_sea(C) .1":14.331,
+    "EC_sea .1":45860,
+    "Temp_sea(C) .2":14.329,
+    "EC_sea .2":45850,
+    "Datetime":"2021-12-02 02:30:31",
+    "Temp_mean":"14.33",
+    "Ec_mean":"45850.0",
+    "Salinity":"38.35254963718995"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35574,36.159066 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"02:45:45",
+    "Bat %":78,
+    "Bat mV":3906,
+    "Pression_ext(hpa)":1018.567,
+    "Temp_ext(C)":16.75,
+    "Temp_int(C)":16.125,
+    "Temp_sea(C)":14.337,
+    "EC_sea":45900,
+    "Temp_sea(C) .1":14.344,
+    "EC_sea .1":45850,
+    "Temp_sea(C) .2":14.346,
+    "EC_sea .2":45840,
+    "Datetime":"2021-12-02 02:45:45",
+    "Temp_mean":"14.342333333333334",
+    "Ec_mean":"45863.333333333336",
+    "Salinity":"38.35280188210931"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355871,36.158966 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"03:00:59",
+    "Bat %":78,
+    "Bat mV":3907,
+    "Pression_ext(hpa)":1018.367,
+    "Temp_ext(C)":16.46,
+    "Temp_int(C)":16,
+    "Temp_sea(C)":13.703,
+    "EC_sea":46000,
+    "Temp_sea(C) .1":13.685,
+    "EC_sea .1":45960,
+    "Temp_sea(C) .2":13.664,
+    "EC_sea .2":45950,
+    "Datetime":"2021-12-02 03:00:59",
+    "Temp_mean":"13.684",
+    "Ec_mean":"45970.0",
+    "Salinity":"39.11916731104551"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355756,36.159145 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"03:16:14",
+    "Bat %":78,
+    "Bat mV":3906,
+    "Pression_ext(hpa)":1018.551,
+    "Temp_ext(C)":16.29,
+    "Temp_int(C)":15.813,
+    "Temp_sea(C)":13.956,
+    "EC_sea":46140,
+    "Temp_sea(C) .1":13.943,
+    "EC_sea .1":46080,
+    "Temp_sea(C) .2":13.927,
+    "EC_sea .2":46010,
+    "Datetime":"2021-12-02 03:16:14",
+    "Temp_mean":"13.942",
+    "Ec_mean":"46076.666666666664",
+    "Salinity":"38.95726344147799"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355408,36.159057 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"03:31:33",
+    "Bat %":78,
+    "Bat mV":3892,
+    "Pression_ext(hpa)":1018.166,
+    "Temp_ext(C)":16.31,
+    "Temp_int(C)":15.75,
+    "Temp_sea(C)":13.885,
+    "EC_sea":46220,
+    "Temp_sea(C) .1":13.865,
+    "EC_sea .1":46100,
+    "Temp_sea(C) .2":13.841,
+    "EC_sea .2":46070,
+    "Datetime":"2021-12-02 03:31:33",
+    "Temp_mean":"13.863666666666667",
+    "Ec_mean":"46130.0",
+    "Salinity":"39.08790340153128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355335,36.159191 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"03:46:51",
+    "Bat %":77,
+    "Bat mV":3888,
+    "Pression_ext(hpa)":1017.799,
+    "Temp_ext(C)":16.29,
+    "Temp_int(C)":15.687,
+    "Temp_sea(C)":14.239,
+    "EC_sea":46180,
+    "Temp_sea(C) .1":14.23,
+    "EC_sea .1":46110,
+    "Temp_sea(C) .2":14.217,
+    "EC_sea .2":46150,
+    "Datetime":"2021-12-02 03:46:51",
+    "Temp_mean":"14.228666666666667",
+    "Ec_mean":"46146.666666666664",
+    "Salinity":"38.733343550911044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355243,36.159157 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"04:02:11",
+    "Bat %":77,
+    "Bat mV":3903,
+    "Pression_ext(hpa)":1017.624,
+    "Temp_ext(C)":16.27,
+    "Temp_int(C)":15.687,
+    "Temp_sea(C)":14.355,
+    "EC_sea":46110,
+    "Temp_sea(C) .1":14.348,
+    "EC_sea .1":46060,
+    "Temp_sea(C) .2":14.338,
+    "EC_sea .2":46100,
+    "Datetime":"2021-12-02 04:02:11",
+    "Temp_mean":"14.347000000000001",
+    "Ec_mean":"46090.0",
+    "Salinity":"38.56117658391995"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355551,36.159207 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"04:17:34",
+    "Bat %":77,
+    "Bat mV":3901,
+    "Pression_ext(hpa)":1017.224,
+    "Temp_ext(C)":16.25,
+    "Temp_int(C)":15.687,
+    "Temp_sea(C)":14.303,
+    "EC_sea":46110,
+    "Temp_sea(C) .1":14.28,
+    "EC_sea .1":46080,
+    "Temp_sea(C) .2":14.26,
+    "EC_sea .2":46020,
+    "Datetime":"2021-12-02 04:17:34",
+    "Temp_mean":"14.280999999999999",
+    "Ec_mean":"46070.0",
+    "Salinity":"38.60847960443734"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355747,36.159 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"04:33:19",
+    "Bat %":77,
+    "Bat mV":3898,
+    "Pression_ext(hpa)":1016.843,
+    "Temp_ext(C)":16.37,
+    "Temp_int(C)":15.75,
+    "Temp_sea(C)":14.249,
+    "EC_sea":46390,
+    "Temp_sea(C) .1":14.253,
+    "EC_sea .1":46240,
+    "Temp_sea(C) .2":14.251,
+    "EC_sea .2":46280,
+    "Datetime":"2021-12-02 04:33:19",
+    "Temp_mean":"14.251",
+    "Ec_mean":"46303.333333333336",
+    "Salinity":"38.858618187617985"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355831,36.158965 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"04:48:33",
+    "Bat %":77,
+    "Bat mV":3897,
+    "Pression_ext(hpa)":1017.178,
+    "Temp_ext(C)":16.47,
+    "Temp_int(C)":15.875,
+    "Temp_sea(C)":13.755,
+    "EC_sea":46140,
+    "Temp_sea(C) .1":13.624,
+    "EC_sea .1":46060,
+    "Temp_sea(C) .2":13.616,
+    "EC_sea .2":46140,
+    "Datetime":"2021-12-02 04:48:33",
+    "Temp_mean":"13.665000000000001",
+    "Ec_mean":"46113.333333333336",
+    "Salinity":"39.27588963516156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355707,36.159005 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"05:03:46",
+    "Bat %":77,
+    "Bat mV":3897,
+    "Pression_ext(hpa)":1017.457,
+    "Temp_ext(C)":13.94,
+    "Temp_int(C)":14.437,
+    "Temp_sea(C)":12.924,
+    "EC_sea":46970,
+    "Temp_sea(C) .1":12.719,
+    "EC_sea .1":46880,
+    "Temp_sea(C) .2":12.716,
+    "EC_sea .2":46860,
+    "Datetime":"2021-12-02 05:03:46",
+    "Temp_mean":"12.786333333333333",
+    "Ec_mean":"46903.333333333336",
+    "Salinity":"40.97444602299818"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355774,36.159052 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"05:19:00",
+    "Bat %":77,
+    "Bat mV":3898,
+    "Pression_ext(hpa)":1017.339,
+    "Temp_ext(C)":13.66,
+    "Temp_int(C)":13.688,
+    "Temp_sea(C)":13.197,
+    "EC_sea":46950,
+    "Temp_sea(C) .1":13.068,
+    "EC_sea .1":46880,
+    "Temp_sea(C) .2":13.066,
+    "EC_sea .2":46750,
+    "Datetime":"2021-12-02 05:19:00",
+    "Temp_mean":"13.110333333333335",
+    "Ec_mean":"46860.0",
+    "Salinity":"40.581168061190155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355735,36.158985 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"05:34:16",
+    "Bat %":77,
+    "Bat mV":3884,
+    "Pression_ext(hpa)":1016.73,
+    "Temp_ext(C)":13.29,
+    "Temp_int(C)":13.125,
+    "Temp_sea(C)":13.317,
+    "EC_sea":46730,
+    "Temp_sea(C) .1":13.195,
+    "EC_sea .1":46780,
+    "Temp_sea(C) .2":13.195,
+    "EC_sea .2":46790,
+    "Datetime":"2021-12-02 05:34:16",
+    "Temp_mean":"13.235666666666667",
+    "Ec_mean":"46766.666666666664",
+    "Salinity":"40.35614273198886"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355664,36.158932 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"05:49:35",
+    "Bat %":77,
+    "Bat mV":3881,
+    "Pression_ext(hpa)":1016.428,
+    "Temp_ext(C)":13.53,
+    "Temp_int(C)":13.125,
+    "Temp_sea(C)":13.645,
+    "EC_sea":46640,
+    "Temp_sea(C) .1":13.635,
+    "EC_sea .1":46520,
+    "Temp_sea(C) .2":13.622,
+    "EC_sea .2":46530,
+    "Datetime":"2021-12-02 05:49:35",
+    "Temp_mean":"13.634",
+    "Ec_mean":"46563.333333333336",
+    "Salinity":"39.73954075286384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355759,36.158999 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"06:06:04",
+    "Bat %":76,
+    "Bat mV":3873,
+    "Pression_ext(hpa)":1016.375,
+    "Temp_ext(C)":13.62,
+    "Temp_int(C)":13.25,
+    "Temp_sea(C)":13.898,
+    "EC_sea":46290,
+    "Temp_sea(C) .1":13.89,
+    "EC_sea .1":46290,
+    "Temp_sea(C) .2":13.88,
+    "EC_sea .2":46280,
+    "Datetime":"2021-12-02 06:06:04",
+    "Temp_mean":"13.889333333333333",
+    "Ec_mean":"46286.666666666664",
+    "Salinity":"39.21086292017429"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355751,36.159042 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"06:21:38",
+    "Bat %":76,
+    "Bat mV":3889,
+    "Pression_ext(hpa)":1016.58,
+    "Temp_ext(C)":13.53,
+    "Temp_int(C)":13.187,
+    "Temp_sea(C)":14.196,
+    "EC_sea":46200,
+    "Temp_sea(C) .1":14.191,
+    "EC_sea .1":46160,
+    "Temp_sea(C) .2":14.187,
+    "EC_sea .2":46220,
+    "Datetime":"2021-12-02 06:21:38",
+    "Temp_mean":"14.191333333333333",
+    "Ec_mean":"46193.333333333336",
+    "Salinity":"38.81504580473237"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355837,36.159178 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"06:36:53",
+    "Bat %":76,
+    "Bat mV":3892,
+    "Pression_ext(hpa)":1016.62,
+    "Temp_ext(C)":13.41,
+    "Temp_int(C)":13.063,
+    "Temp_sea(C)":14.2,
+    "EC_sea":46230,
+    "Temp_sea(C) .1":14.21,
+    "EC_sea .1":46190,
+    "Temp_sea(C) .2":14.216,
+    "EC_sea .2":46160,
+    "Datetime":"2021-12-02 06:36:53",
+    "Temp_mean":"14.208666666666666",
+    "Ec_mean":"46193.333333333336",
+    "Salinity":"38.79754742447025"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35589,36.158842 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"06:52:12",
+    "Bat %":76,
+    "Bat mV":3879,
+    "Pression_ext(hpa)":1016.672,
+    "Temp_ext(C)":13.24,
+    "Temp_int(C)":12.813,
+    "Temp_sea(C)":14.393,
+    "EC_sea":46010,
+    "Temp_sea(C) .1":14.389,
+    "EC_sea .1":46000,
+    "Temp_sea(C) .2":14.385,
+    "EC_sea .2":46040,
+    "Datetime":"2021-12-02 06:52:12",
+    "Temp_mean":"14.389000000000001",
+    "Ec_mean":"46016.666666666664",
+    "Salinity":"38.45032101931863"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355914,36.15891 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"07:07:28",
+    "Bat %":74,
+    "Bat mV":3874,
+    "Pression_ext(hpa)":1016.557,
+    "Temp_ext(C)":13.18,
+    "Temp_int(C)":12.75,
+    "Temp_sea(C)":14.384,
+    "EC_sea":45980,
+    "Temp_sea(C) .1":14.382,
+    "EC_sea .1":45990,
+    "Temp_sea(C) .2":14.381,
+    "EC_sea .2":45960,
+    "Datetime":"2021-12-02 07:07:28",
+    "Temp_mean":"14.382333333333333",
+    "Ec_mean":"45976.666666666664",
+    "Salinity":"38.419410351404956"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355667,36.159247 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"07:22:46",
+    "Bat %":75,
+    "Bat mV":3891,
+    "Pression_ext(hpa)":1016.527,
+    "Temp_ext(C)":13.14,
+    "Temp_int(C)":12.688,
+    "Temp_sea(C)":14.39,
+    "EC_sea":46020,
+    "Temp_sea(C) .1":14.394,
+    "EC_sea .1":45930,
+    "Temp_sea(C) .2":14.395,
+    "EC_sea .2":46000,
+    "Datetime":"2021-12-02 07:22:46",
+    "Temp_mean":"14.393",
+    "Ec_mean":"45983.333333333336",
+    "Salinity":"38.41504193495969"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355901,36.159061 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"07:38:06",
+    "Bat %":75,
+    "Bat mV":3886,
+    "Pression_ext(hpa)":1016.551,
+    "Temp_ext(C)":13.16,
+    "Temp_int(C)":12.688,
+    "Temp_sea(C)":14.412,
+    "EC_sea":45950,
+    "Temp_sea(C) .1":14.415,
+    "EC_sea .1":45980,
+    "Temp_sea(C) .2":14.416,
+    "EC_sea .2":45870,
+    "Datetime":"2021-12-02 07:38:06",
+    "Temp_mean":"14.414333333333332",
+    "Ec_mean":"45933.333333333336",
+    "Salinity":"38.34689853927993"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35592,36.159016 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"07:53:27",
+    "Bat %":75,
+    "Bat mV":3887,
+    "Pression_ext(hpa)":1016.653,
+    "Temp_ext(C)":13.04,
+    "Temp_int(C)":12.625,
+    "Temp_sea(C)":14.424,
+    "EC_sea":46010,
+    "Temp_sea(C) .1":14.422,
+    "EC_sea .1":45920,
+    "Temp_sea(C) .2":14.42,
+    "EC_sea .2":45990,
+    "Datetime":"2021-12-02 07:53:27",
+    "Temp_mean":"14.421999999999999",
+    "Ec_mean":"45973.333333333336",
+    "Salinity":"38.37679218256982"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355977,36.159048 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"08:08:56",
+    "Bat %":74,
+    "Bat mV":3881,
+    "Pression_ext(hpa)":1016.737,
+    "Temp_ext(C)":13.02,
+    "Temp_int(C)":12.562,
+    "Temp_sea(C)":14.429,
+    "EC_sea":45890,
+    "Temp_sea(C) .1":14.432,
+    "EC_sea .1":45930,
+    "Temp_sea(C) .2":14.434,
+    "EC_sea .2":45930,
+    "Datetime":"2021-12-02 08:08:56",
+    "Temp_mean":"14.431666666666667",
+    "Ec_mean":"45916.666666666664",
+    "Salinity":"38.31405069771691"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355837,36.15904 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"08:24:26",
+    "Bat %":74,
+    "Bat mV":3882,
+    "Pression_ext(hpa)":1016.963,
+    "Temp_ext(C)":13.13,
+    "Temp_int(C)":12.562,
+    "Temp_sea(C)":14.439,
+    "EC_sea":45920,
+    "Temp_sea(C) .1":14.437,
+    "EC_sea .1":45920,
+    "Temp_sea(C) .2":14.434,
+    "EC_sea .2":45860,
+    "Datetime":"2021-12-02 08:24:26",
+    "Temp_mean":"14.436666666666666",
+    "Ec_mean":"45900.0",
+    "Salinity":"38.29346530103162"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355875,36.159008 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"08:39:44",
+    "Bat %":74,
+    "Bat mV":3882,
+    "Pression_ext(hpa)":1017.225,
+    "Temp_ext(C)":12.95,
+    "Temp_int(C)":12.5,
+    "Temp_sea(C)":14.431,
+    "EC_sea":45940,
+    "Temp_sea(C) .1":14.429,
+    "EC_sea .1":45830,
+    "Temp_sea(C) .2":14.428,
+    "EC_sea .2":45980,
+    "Datetime":"2021-12-02 08:39:44",
+    "Temp_mean":"14.429333333333332",
+    "Ec_mean":"45916.666666666664",
+    "Salinity":"38.31636750235169"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356097,36.159055 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"08:55:01",
+    "Bat %":73,
+    "Bat mV":3866,
+    "Pression_ext(hpa)":1017.35,
+    "Temp_ext(C)":12.96,
+    "Temp_int(C)":12.5,
+    "Temp_sea(C)":14.414,
+    "EC_sea":45830,
+    "Temp_sea(C) .1":14.402,
+    "EC_sea .1":45960,
+    "Temp_sea(C) .2":14.393,
+    "EC_sea .2":45890,
+    "Datetime":"2021-12-02 08:55:01",
+    "Temp_mean":"14.403",
+    "Ec_mean":"45893.333333333336",
+    "Salinity":"38.32064047774955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35613,36.15916 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"09:10:21",
+    "Bat %":73,
+    "Bat mV":3865,
+    "Pression_ext(hpa)":1017.291,
+    "Temp_ext(C)":13.02,
+    "Temp_int(C)":12.5,
+    "Temp_sea(C)":14.387,
+    "EC_sea":45870,
+    "Temp_sea(C) .1":14.389,
+    "EC_sea .1":45860,
+    "Temp_sea(C) .2":14.388,
+    "EC_sea .2":45860,
+    "Datetime":"2021-12-02 09:10:21",
+    "Temp_mean":"14.388",
+    "Ec_mean":"45863.333333333336",
+    "Salinity":"38.30739541772365"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356314,36.159246 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"09:25:45",
+    "Bat %":73,
+    "Bat mV":3879,
+    "Pression_ext(hpa)":1017.291,
+    "Temp_ext(C)":12.94,
+    "Temp_int(C)":12.5,
+    "Temp_sea(C)":14.383,
+    "EC_sea":45920,
+    "Temp_sea(C) .1":14.376,
+    "EC_sea .1":45890,
+    "Temp_sea(C) .2":14.369,
+    "EC_sea .2":45850,
+    "Datetime":"2021-12-02 09:25:45",
+    "Temp_mean":"14.376",
+    "Ec_mean":"45886.666666666664",
+    "Salinity":"38.34122125642909"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356449,36.159158 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"09:41:18",
+    "Bat %":73,
+    "Bat mV":3874,
+    "Pression_ext(hpa)":1017.191,
+    "Temp_ext(C)":12.97,
+    "Temp_int(C)":12.5,
+    "Temp_sea(C)":14.36,
+    "EC_sea":45900,
+    "Temp_sea(C) .1":14.356,
+    "EC_sea .1":45950,
+    "Temp_sea(C) .2":14.353,
+    "EC_sea .2":45950,
+    "Datetime":"2021-12-02 09:41:18",
+    "Temp_mean":"14.356333333333334",
+    "Ec_mean":"45933.333333333336",
+    "Salinity":"38.404620788252466"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3563,36.159143 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"09:56:43",
+    "Bat %":73,
+    "Bat mV":3874,
+    "Pression_ext(hpa)":1017.333,
+    "Temp_ext(C)":13.07,
+    "Temp_int(C)":12.625,
+    "Temp_sea(C)":14.347,
+    "EC_sea":45810,
+    "Temp_sea(C) .1":14.342,
+    "EC_sea .1":45820,
+    "Temp_sea(C) .2":14.335,
+    "EC_sea .2":45830,
+    "Datetime":"2021-12-02 09:56:43",
+    "Temp_mean":"14.341333333333333",
+    "Ec_mean":"45820.0",
+    "Salinity":"38.31308871391262"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355761,36.159045 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"10:12:19",
+    "Bat %":73,
+    "Bat mV":3872,
+    "Pression_ext(hpa)":1016.974,
+    "Temp_ext(C)":13.15,
+    "Temp_int(C)":12.688,
+    "Temp_sea(C)":14.335,
+    "EC_sea":45950,
+    "Temp_sea(C) .1":14.339,
+    "EC_sea .1":45860,
+    "Temp_sea(C) .2":14.34,
+    "EC_sea .2":45900,
+    "Datetime":"2021-12-02 10:12:19",
+    "Temp_mean":"14.338",
+    "Ec_mean":"45903.333333333336",
+    "Salinity":"38.394701628716525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355792,36.159037 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"10:27:35",
+    "Bat %":72,
+    "Bat mV":3875,
+    "Pression_ext(hpa)":1017.102,
+    "Temp_ext(C)":13.45,
+    "Temp_int(C)":13,
+    "Temp_sea(C)":14.356,
+    "EC_sea":45880,
+    "Temp_sea(C) .1":14.365,
+    "EC_sea .1":45930,
+    "Temp_sea(C) .2":14.37,
+    "EC_sea .2":45850,
+    "Datetime":"2021-12-02 10:27:35",
+    "Temp_mean":"14.363666666666667",
+    "Ec_mean":"45886.666666666664",
+    "Salinity":"38.35348910812132"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356063,36.158847 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"10:42:55",
+    "Bat %":72,
+    "Bat mV":3858,
+    "Pression_ext(hpa)":1017.345,
+    "Temp_ext(C)":13.54,
+    "Temp_int(C)":13.187,
+    "Temp_sea(C)":14.507,
+    "EC_sea":45850,
+    "Temp_sea(C) .1":14.502,
+    "EC_sea .1":45840,
+    "Temp_sea(C) .2":14.498,
+    "EC_sea .2":45800,
+    "Datetime":"2021-12-02 10:42:55",
+    "Temp_mean":"14.502333333333333",
+    "Ec_mean":"45830.0",
+    "Salinity":"38.16291228374451"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35571,36.159053 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"10:58:11",
+    "Bat %":72,
+    "Bat mV":3861,
+    "Pression_ext(hpa)":1017.643,
+    "Temp_ext(C)":13.58,
+    "Temp_int(C)":13.25,
+    "Temp_sea(C)":14.507,
+    "EC_sea":45910,
+    "Temp_sea(C) .1":14.517,
+    "EC_sea .1":45920,
+    "Temp_sea(C) .2":14.522,
+    "EC_sea .2":45850,
+    "Datetime":"2021-12-02 10:58:11",
+    "Temp_mean":"14.515333333333333",
+    "Ec_mean":"45893.333333333336",
+    "Salinity":"38.20930164232501"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355579,36.15918 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"11:13:29",
+    "Bat %":72,
+    "Bat mV":3878,
+    "Pression_ext(hpa)":1017.549,
+    "Temp_ext(C)":13.74,
+    "Temp_int(C)":13.563,
+    "Temp_sea(C)":14.51,
+    "EC_sea":45920,
+    "Temp_sea(C) .1":14.489,
+    "EC_sea .1":45920,
+    "Temp_sea(C) .2":14.472,
+    "EC_sea .2":45880,
+    "Datetime":"2021-12-02 11:13:29",
+    "Temp_mean":"14.490333333333334",
+    "Ec_mean":"45906.666666666664",
+    "Salinity":"38.246514135965256"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.354801,36.159903 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"11:28:47",
+    "Bat %":75,
+    "Bat mV":3900,
+    "Pression_ext(hpa)":1017.526,
+    "Temp_ext(C)":14.19,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":14.428,
+    "EC_sea":45820,
+    "Temp_sea(C) .1":14.406,
+    "EC_sea .1":45810,
+    "Temp_sea(C) .2":14.387,
+    "EC_sea .2":45690,
+    "Datetime":"2021-12-02 11:28:47",
+    "Temp_mean":"14.407000000000002",
+    "Ec_mean":"45773.333333333336",
+    "Salinity":"38.20413635855082"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355835,36.158899 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"11:44:09",
+    "Bat %":73,
+    "Bat mV":3887,
+    "Pression_ext(hpa)":1017.383,
+    "Temp_ext(C)":14.36,
+    "Temp_int(C)":14.437,
+    "Temp_sea(C)":14.367,
+    "EC_sea":45850,
+    "Temp_sea(C) .1":14.366,
+    "EC_sea .1":45810,
+    "Temp_sea(C) .2":14.364,
+    "EC_sea .2":45800,
+    "Datetime":"2021-12-02 11:44:09",
+    "Temp_mean":"14.365666666666668",
+    "Ec_mean":"45820.0",
+    "Salinity":"38.288908568173355"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355805,36.159002 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"11:59:33",
+    "Bat %":73,
+    "Bat mV":3884,
+    "Pression_ext(hpa)":1017.314,
+    "Temp_ext(C)":14.85,
+    "Temp_int(C)":14.875,
+    "Temp_sea(C)":14.515,
+    "EC_sea":45890,
+    "Temp_sea(C) .1":14.509,
+    "EC_sea .1":45920,
+    "Temp_sea(C) .2":14.501,
+    "EC_sea .2":45950,
+    "Datetime":"2021-12-02 11:59:33",
+    "Temp_mean":"14.508333333333333",
+    "Ec_mean":"45920.0",
+    "Salinity":"38.24117121741225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355795,36.158966 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"12:14:57",
+    "Bat %":72,
+    "Bat mV":3875,
+    "Pression_ext(hpa)":1017.43,
+    "Temp_ext(C)":14.89,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":14.491,
+    "EC_sea":45830,
+    "Temp_sea(C) .1":14.489,
+    "EC_sea .1":45790,
+    "Temp_sea(C) .2":14.485,
+    "EC_sea .2":45800,
+    "Datetime":"2021-12-02 12:14:57",
+    "Temp_mean":"14.488333333333335",
+    "Ec_mean":"45806.666666666664",
+    "Salinity":"38.15491293408947"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355875,36.159132 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"12:30:43",
+    "Bat %":74,
+    "Bat mV":3887,
+    "Pression_ext(hpa)":1017.474,
+    "Temp_ext(C)":15.07,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":14.497,
+    "EC_sea":45560,
+    "Temp_sea(C) .1":14.505,
+    "EC_sea .1":45660,
+    "Temp_sea(C) .2":14.51,
+    "EC_sea .2":45620,
+    "Datetime":"2021-12-02 12:30:43",
+    "Temp_mean":"14.504",
+    "Ec_mean":"45613.333333333336",
+    "Salinity":"37.95869878579104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355775,36.159016 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"12:46:02",
+    "Bat %":74,
+    "Bat mV":3879,
+    "Pression_ext(hpa)":1017.387,
+    "Temp_ext(C)":15.57,
+    "Temp_int(C)":15.563,
+    "Temp_sea(C)":14.535,
+    "EC_sea":45690,
+    "Temp_sea(C) .1":14.547,
+    "EC_sea .1":45670,
+    "Temp_sea(C) .2":14.553,
+    "EC_sea .2":45690,
+    "Datetime":"2021-12-02 12:46:02",
+    "Temp_mean":"14.545000000000002",
+    "Ec_mean":"45683.333333333336",
+    "Salinity":"37.98381192371925"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355754,36.15902 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"13:01:14",
+    "Bat %":78,
+    "Bat mV":3909,
+    "Pression_ext(hpa)":1017.36,
+    "Temp_ext(C)":15.32,
+    "Temp_int(C)":15.5,
+    "Temp_sea(C)":14.567,
+    "EC_sea":45690,
+    "Temp_sea(C) .1":14.569,
+    "EC_sea .1":45670,
+    "Temp_sea(C) .2":14.569,
+    "EC_sea .2":45670,
+    "Datetime":"2021-12-02 13:01:14",
+    "Temp_mean":"14.568333333333335",
+    "Ec_mean":"45676.666666666664",
+    "Salinity":"37.95467942009051"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355681,36.158883 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"13:16:34",
+    "Bat %":100,
+    "Bat mV":4132,
+    "Pression_ext(hpa)":1017.097,
+    "Temp_ext(C)":18.21,
+    "Temp_int(C)":18.687,
+    "Temp_sea(C)":14.59,
+    "EC_sea":45630,
+    "Temp_sea(C) .1":14.607,
+    "EC_sea .1":45650,
+    "Temp_sea(C) .2":14.619,
+    "EC_sea .2":45630,
+    "Datetime":"2021-12-02 13:16:34",
+    "Temp_mean":"14.605333333333334",
+    "Ec_mean":"45636.666666666664",
+    "Salinity":"37.881113389569514"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355662,36.158865 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"13:31:51",
+    "Bat %":100,
+    "Bat mV":4127,
+    "Pression_ext(hpa)":1016.641,
+    "Temp_ext(C)":19.55,
+    "Temp_int(C)":20.687,
+    "Temp_sea(C)":14.648,
+    "EC_sea":45570,
+    "Temp_sea(C) .1":14.658,
+    "EC_sea .1":45510,
+    "Temp_sea(C) .2":14.666,
+    "EC_sea .2":45580,
+    "Datetime":"2021-12-02 13:31:51",
+    "Temp_mean":"14.657333333333332",
+    "Ec_mean":"45553.333333333336",
+    "Salinity":"37.75271715003607"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355704,36.158951 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"13:47:12",
+    "Bat %":100,
+    "Bat mV":4146,
+    "Pression_ext(hpa)":1016.046,
+    "Temp_ext(C)":21.53,
+    "Temp_int(C)":23.25,
+    "Temp_sea(C)":14.687,
+    "EC_sea":45500,
+    "Temp_sea(C) .1":14.693,
+    "EC_sea .1":45440,
+    "Temp_sea(C) .2":14.724,
+    "EC_sea .2":45470,
+    "Datetime":"2021-12-02 13:47:12",
+    "Temp_mean":"14.701333333333332",
+    "Ec_mean":"45470.0",
+    "Salinity":"37.63243467871655"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355734,36.159065 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"14:02:28",
+    "Bat %":100,
+    "Bat mV":4175,
+    "Pression_ext(hpa)":1016.134,
+    "Temp_ext(C)":21.07,
+    "Temp_int(C)":23.5,
+    "Temp_sea(C)":14.75,
+    "EC_sea":45540,
+    "Temp_sea(C) .1":14.771,
+    "EC_sea .1":45470,
+    "Temp_sea(C) .2":14.786,
+    "EC_sea .2":45470,
+    "Datetime":"2021-12-02 14:02:28",
+    "Temp_mean":"14.769",
+    "Ec_mean":"45493.333333333336",
+    "Salinity":"37.588480776585925"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35579,36.159132 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"14:17:47",
+    "Bat %":84,
+    "Bat mV":3950,
+    "Pression_ext(hpa)":1015.868,
+    "Temp_ext(C)":20.25,
+    "Temp_int(C)":22.562,
+    "Temp_sea(C)":14.823,
+    "EC_sea":45660,
+    "Temp_sea(C) .1":14.835,
+    "EC_sea .1":45580,
+    "Temp_sea(C) .2":14.844,
+    "EC_sea .2":45600,
+    "Datetime":"2021-12-02 14:17:47",
+    "Temp_mean":"14.834000000000001",
+    "Ec_mean":"45613.333333333336",
+    "Salinity":"37.63674804310551"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355725,36.158986 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"14:33:03",
+    "Bat %":100,
+    "Bat mV":4183,
+    "Pression_ext(hpa)":1015.525,
+    "Temp_ext(C)":20.68,
+    "Temp_int(C)":22.5,
+    "Temp_sea(C)":14.864,
+    "EC_sea":45590,
+    "Temp_sea(C) .1":14.871,
+    "EC_sea .1":45580,
+    "Temp_sea(C) .2":14.875,
+    "EC_sea .2":45550,
+    "Datetime":"2021-12-02 14:33:03",
+    "Temp_mean":"14.87",
+    "Ec_mean":"45573.333333333336",
+    "Salinity":"37.564875365146776"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355901,36.159013 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"14:48:32",
+    "Bat %":100,
+    "Bat mV":4131,
+    "Pression_ext(hpa)":1015.486,
+    "Temp_ext(C)":21.54,
+    "Temp_int(C)":24.062,
+    "Temp_sea(C)":14.881,
+    "EC_sea":45450,
+    "Temp_sea(C) .1":14.88,
+    "EC_sea .1":45430,
+    "Temp_sea(C) .2":14.877,
+    "EC_sea .2":45440,
+    "Datetime":"2021-12-02 14:48:32",
+    "Temp_mean":"14.879333333333335",
+    "Ec_mean":"45440.0",
+    "Salinity":"37.43253666282528"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35576,36.159033 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"15:04:16",
+    "Bat %":86,
+    "Bat mV":3946,
+    "Pression_ext(hpa)":1015.565,
+    "Temp_ext(C)":19.54,
+    "Temp_int(C)":21.75,
+    "Temp_sea(C)":14.891,
+    "EC_sea":45500,
+    "Temp_sea(C) .1":14.904,
+    "EC_sea .1":45490,
+    "Temp_sea(C) .2":14.914,
+    "EC_sea .2":45580,
+    "Datetime":"2021-12-02 15:04:16",
+    "Temp_mean":"14.903",
+    "Ec_mean":"45523.333333333336",
+    "Salinity":"37.48677930353834"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355826,36.159034 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"15:19:33",
+    "Bat %":89,
+    "Bat mV":3963,
+    "Pression_ext(hpa)":1015.775,
+    "Temp_ext(C)":16.88,
+    "Temp_int(C)":18,
+    "Temp_sea(C)":14.927,
+    "EC_sea":45580,
+    "Temp_sea(C) .1":14.926,
+    "EC_sea .1":45580,
+    "Temp_sea(C) .2":14.923,
+    "EC_sea .2":45600,
+    "Datetime":"2021-12-02 15:19:33",
+    "Temp_mean":"14.925333333333334",
+    "Ec_mean":"45586.666666666664",
+    "Salinity":"37.52377826837171"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355714,36.158993 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"15:34:58",
+    "Bat %":95,
+    "Bat mV":4019,
+    "Pression_ext(hpa)":1015.73,
+    "Temp_ext(C)":16.99,
+    "Temp_int(C)":17.687,
+    "Temp_sea(C)":14.932,
+    "EC_sea":45610,
+    "Temp_sea(C) .1":14.938,
+    "EC_sea .1":45540,
+    "Temp_sea(C) .2":14.942,
+    "EC_sea .2":45550,
+    "Datetime":"2021-12-02 15:34:58",
+    "Temp_mean":"14.937333333333333",
+    "Ec_mean":"45566.666666666664",
+    "Salinity":"37.49373117071604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.35581,36.159116 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"15:50:21",
+    "Bat %":92,
+    "Bat mV":3988,
+    "Pression_ext(hpa)":1015.184,
+    "Temp_ext(C)":18.54,
+    "Temp_int(C)":20.25,
+    "Temp_sea(C)":14.956,
+    "EC_sea":45490,
+    "Temp_sea(C) .1":14.962,
+    "EC_sea .1":45510,
+    "Temp_sea(C) .2":14.966,
+    "EC_sea .2":45550,
+    "Datetime":"2021-12-02 15:50:21",
+    "Temp_mean":"14.961333333333334",
+    "Ec_mean":"45516.666666666664",
+    "Salinity":"37.424464107851364"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355954,36.159087 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"16:06:05",
+    "Bat %":90,
+    "Bat mV":3991,
+    "Pression_ext(hpa)":1015.661,
+    "Temp_ext(C)":19.58,
+    "Temp_int(C)":21.312,
+    "Temp_sea(C)":14.981,
+    "EC_sea":45510,
+    "Temp_sea(C) .1":14.988,
+    "EC_sea .1":45530,
+    "Temp_sea(C) .2":14.99,
+    "EC_sea .2":45480,
+    "Datetime":"2021-12-02 16:06:05",
+    "Temp_mean":"14.986333333333334",
+    "Ec_mean":"45506.666666666664",
+    "Salinity":"37.391217136191386"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355849,36.159141 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"16:21:19",
+    "Bat %":91,
+    "Bat mV":3992,
+    "Pression_ext(hpa)":1015.669,
+    "Temp_ext(C)":20.65,
+    "Temp_int(C)":21.625,
+    "Temp_sea(C)":15.004,
+    "EC_sea":45500,
+    "Temp_sea(C) .1":15.008,
+    "EC_sea .1":45440,
+    "Temp_sea(C) .2":15.011,
+    "EC_sea .2":45440,
+    "Datetime":"2021-12-02 16:21:19",
+    "Temp_mean":"15.007666666666665",
+    "Ec_mean":"45460.0",
+    "Salinity":"37.32772935208094"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355791,36.159087 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"16:36:35",
+    "Bat %":90,
+    "Bat mV":3996,
+    "Pression_ext(hpa)":1015.89,
+    "Temp_ext(C)":21.12,
+    "Temp_int(C)":21.5,
+    "Temp_sea(C)":15.022,
+    "EC_sea":45480,
+    "Temp_sea(C) .1":15.024,
+    "EC_sea .1":45450,
+    "Temp_sea(C) .2":15.023,
+    "EC_sea .2":45450,
+    "Datetime":"2021-12-02 16:36:35",
+    "Temp_mean":"15.023000000000001",
+    "Ec_mean":"45460.0",
+    "Salinity":"37.313041161212055"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355823,36.159141 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"16:51:48",
+    "Bat %":98,
+    "Bat mV":4067,
+    "Pression_ext(hpa)":1015.877,
+    "Temp_ext(C)":20.61,
+    "Temp_int(C)":20.875,
+    "Temp_sea(C)":15.024,
+    "EC_sea":45490,
+    "Temp_sea(C) .1":15.024,
+    "EC_sea .1":45470,
+    "Temp_sea(C) .2":15.022,
+    "EC_sea .2":45460,
+    "Datetime":"2021-12-02 16:51:48",
+    "Temp_mean":"15.023333333333333",
+    "Ec_mean":"45473.333333333336",
+    "Salinity":"37.325005320599935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355775,36.158966 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"17:07:06",
+    "Bat %":96,
+    "Bat mV":4022,
+    "Pression_ext(hpa)":1015.891,
+    "Temp_ext(C)":20.57,
+    "Temp_int(C)":20.625,
+    "Temp_sea(C)":15.022,
+    "EC_sea":45380,
+    "Temp_sea(C) .1":15.023,
+    "EC_sea .1":45380,
+    "Temp_sea(C) .2":15.024,
+    "EC_sea .2":45400,
+    "Datetime":"2021-12-02 17:07:06",
+    "Temp_mean":"15.023000000000001",
+    "Ec_mean":"45386.666666666664",
+    "Salinity":"37.24549363283954"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355661,36.158889 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"17:22:25",
+    "Bat %":92,
+    "Bat mV":3992,
+    "Pression_ext(hpa)":1016.055,
+    "Temp_ext(C)":20.91,
+    "Temp_int(C)":21.187,
+    "Temp_sea(C)":15.022,
+    "EC_sea":45420,
+    "Temp_sea(C) .1":15.02,
+    "EC_sea .1":45450,
+    "Temp_sea(C) .2":15.019,
+    "EC_sea .2":45460,
+    "Datetime":"2021-12-02 17:22:25",
+    "Temp_mean":"15.020333333333333",
+    "Ec_mean":"45443.333333333336",
+    "Salinity":"37.30024045108301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355696,36.158909 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"17:37:40",
+    "Bat %":92,
+    "Bat mV":4002,
+    "Pression_ext(hpa)":1016.187,
+    "Temp_ext(C)":20.33,
+    "Temp_int(C)":21.187,
+    "Temp_sea(C)":15.019,
+    "EC_sea":45520,
+    "Temp_sea(C) .1":15.02,
+    "EC_sea .1":45490,
+    "Temp_sea(C) .2":15.02,
+    "EC_sea .2":45370,
+    "Datetime":"2021-12-02 17:37:40",
+    "Temp_mean":"15.019666666666666",
+    "Ec_mean":"45460.0",
+    "Salinity":"37.31623345119391"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.355798,36.159058 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"17:53:19",
+    "Bat %":89,
+    "Bat mV":3972,
+    "Pression_ext(hpa)":1016.333,
+    "Temp_ext(C)":19.15,
+    "Temp_int(C)":20,
+    "Temp_sea(C)":15.011,
+    "EC_sea":45480,
+    "Temp_sea(C) .1":15.006,
+    "EC_sea .1":45460,
+    "Temp_sea(C) .2":15.003,
+    "EC_sea .2":45470,
+    "Datetime":"2021-12-02 17:53:19",
+    "Temp_mean":"15.006666666666666",
+    "Ec_mean":"45470.0",
+    "Salinity":"37.337904104873864"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.364785,36.159387 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"18:08:32",
+    "Bat %":99,
+    "Bat mV":4068,
+    "Pression_ext(hpa)":1016.906,
+    "Temp_ext(C)":19.22,
+    "Temp_int(C)":19.375,
+    "Temp_sea(C)":16.068,
+    "EC_sea":47440,
+    "Temp_sea(C) .1":16.064,
+    "EC_sea .1":47410,
+    "Temp_sea(C) .2":16.057,
+    "EC_sea .2":47430,
+    "Datetime":"2021-12-02 18:08:32",
+    "Temp_mean":"16.063000000000002",
+    "Ec_mean":"47426.666666666664",
+    "Salinity":"38.10824965093228"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356274,36.148421 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"18:23:45",
+    "Bat %":88,
+    "Bat mV":3971,
+    "Pression_ext(hpa)":1016.816,
+    "Temp_ext(C)":17.48,
+    "Temp_int(C)":18.25,
+    "Temp_sea(C)":15.514,
+    "EC_sea":46780,
+    "Temp_sea(C) .1":15.513,
+    "EC_sea .1":46770,
+    "Temp_sea(C) .2":15.511,
+    "EC_sea .2":46750,
+    "Datetime":"2021-12-02 18:23:45",
+    "Temp_mean":"15.512666666666666",
+    "Ec_mean":"46766.666666666664",
+    "Salinity":"38.04030162080183"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356342,36.148493 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"18:38:57",
+    "Bat %":88,
+    "Bat mV":3968,
+    "Pression_ext(hpa)":1017.236,
+    "Temp_ext(C)":16.01,
+    "Temp_int(C)":16.375,
+    "Temp_sea(C)":15.521,
+    "EC_sea":46790,
+    "Temp_sea(C) .1":15.53,
+    "EC_sea .1":46840,
+    "Temp_sea(C) .2":15.536,
+    "EC_sea .2":46780,
+    "Datetime":"2021-12-02 18:38:57",
+    "Temp_mean":"15.529000000000002",
+    "Ec_mean":"46803.333333333336",
+    "Salinity":"38.057978295925324"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.356259,36.148414 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"18:54:43",
+    "Bat %":88,
+    "Bat mV":3967,
+    "Pression_ext(hpa)":1017.443,
+    "Temp_ext(C)":15.13,
+    "Temp_int(C)":15.5,
+    "Temp_sea(C)":15.525,
+    "EC_sea":46320,
+    "Temp_sea(C) .1":15.508,
+    "EC_sea .1":46290,
+    "Temp_sea(C) .2":15.493,
+    "EC_sea .2":46290,
+    "Datetime":"2021-12-02 18:54:43",
+    "Temp_mean":"15.508666666666668",
+    "Ec_mean":"46300.0",
+    "Salinity":"37.6179164284159"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.362524,36.150111 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"19:09:58",
+    "Bat %":89,
+    "Bat mV":3968,
+    "Pression_ext(hpa)":1017.839,
+    "Temp_ext(C)":14.58,
+    "Temp_int(C)":14.813,
+    "Temp_sea(C)":15.478,
+    "EC_sea":47160,
+    "Temp_sea(C) .1":15.47,
+    "EC_sea .1":47110,
+    "Temp_sea(C) .2":15.461,
+    "EC_sea .2":47130,
+    "Datetime":"2021-12-02 19:09:58",
+    "Temp_mean":"15.469666666666667",
+    "Ec_mean":"47133.333333333336",
+    "Salinity":"38.41783911708641"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.377029,36.136059 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"19:25:12",
+    "Bat %":89,
+    "Bat mV":3967,
+    "Pression_ext(hpa)":1018.059,
+    "Temp_ext(C)":14.91,
+    "Temp_int(C)":14.75,
+    "Temp_sea(C)":15.729,
+    "EC_sea":47440,
+    "Temp_sea(C) .1":15.716,
+    "EC_sea .1":47540,
+    "Temp_sea(C) .2":15.703,
+    "EC_sea .2":47470,
+    "Datetime":"2021-12-02 19:25:12",
+    "Temp_mean":"15.716",
+    "Ec_mean":"47483.333333333336",
+    "Salinity":"38.496572927902456"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.390615,36.114018 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"19:40:26",
+    "Bat %":89,
+    "Bat mV":3969,
+    "Pression_ext(hpa)":1018.383,
+    "Temp_ext(C)":14.93,
+    "Temp_int(C)":14.563,
+    "Temp_sea(C)":15.705,
+    "EC_sea":47620,
+    "Temp_sea(C) .1":15.718,
+    "EC_sea .1":47630,
+    "Temp_sea(C) .2":15.725,
+    "EC_sea .2":47610,
+    "Datetime":"2021-12-02 19:40:26",
+    "Temp_mean":"15.716000000000001",
+    "Ec_mean":"47620.0",
+    "Salinity":"38.62122669211331"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.40465,36.097373 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"19:55:41",
+    "Bat %":89,
+    "Bat mV":3969,
+    "Pression_ext(hpa)":1018.56,
+    "Temp_ext(C)":14.65,
+    "Temp_int(C)":14.375,
+    "Temp_sea(C)":15.941,
+    "EC_sea":47780,
+    "Temp_sea(C) .1":15.932,
+    "EC_sea .1":47720,
+    "Temp_sea(C) .2":15.923,
+    "EC_sea .2":47730,
+    "Datetime":"2021-12-02 19:55:41",
+    "Temp_mean":"15.932",
+    "Ec_mean":"47743.333333333336",
+    "Salinity":"38.52202871955706"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.416892,36.078316 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"20:10:58",
+    "Bat %":89,
+    "Bat mV":3966,
+    "Pression_ext(hpa)":1018.684,
+    "Temp_ext(C)":14.72,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":15.883,
+    "EC_sea":47780,
+    "Temp_sea(C) .1":15.748,
+    "EC_sea .1":47780,
+    "Temp_sea(C) .2":15.744,
+    "EC_sea .2":47760,
+    "Datetime":"2021-12-02 20:10:58",
+    "Temp_mean":"15.791666666666666",
+    "Ec_mean":"47773.333333333336",
+    "Salinity":"38.68671576485779"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.433485,36.058741 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"20:26:30",
+    "Bat %":89,
+    "Bat mV":3948,
+    "Pression_ext(hpa)":1019.01,
+    "Temp_ext(C)":14.85,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":15.758,
+    "EC_sea":47930,
+    "Temp_sea(C) .1":15.761,
+    "EC_sea .1":47880,
+    "Temp_sea(C) .2":15.758,
+    "EC_sea .2":47910,
+    "Datetime":"2021-12-02 20:26:30",
+    "Temp_mean":"15.759",
+    "Ec_mean":"47906.666666666664",
+    "Salinity":"38.84043969955324"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.451161,36.047047 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"20:42:15",
+    "Bat %":88,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1019.163,
+    "Temp_ext(C)":14.59,
+    "Temp_int(C)":14.125,
+    "Temp_sea(C)":16.032,
+    "EC_sea":47840,
+    "Temp_sea(C) .1":16.024,
+    "EC_sea .1":47790,
+    "Temp_sea(C) .2":16.017,
+    "EC_sea .2":47330,
+    "Datetime":"2021-12-02 20:42:15",
+    "Temp_mean":"16.02433333333333",
+    "Ec_mean":"47653.333333333336",
+    "Salinity":"38.35060664419081"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.469248,36.038707 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"20:57:30",
+    "Bat %":89,
+    "Bat mV":3965,
+    "Pression_ext(hpa)":1019.48,
+    "Temp_ext(C)":14.97,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":16.773,
+    "EC_sea":48570,
+    "Temp_sea(C) .1":16.765,
+    "EC_sea .1":48520,
+    "Temp_sea(C) .2":16.759,
+    "EC_sea .2":48520,
+    "Datetime":"2021-12-02 20:57:30",
+    "Temp_mean":"16.765666666666664",
+    "Ec_mean":"48536.666666666664",
+    "Salinity":"38.4279180612319"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.486012,36.034237 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"21:12:45",
+    "Bat %":88,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1019.812,
+    "Temp_ext(C)":14.85,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":16.744,
+    "EC_sea":48500,
+    "Temp_sea(C) .1":16.733,
+    "EC_sea .1":48480,
+    "Temp_sea(C) .2":16.721,
+    "EC_sea .2":48450,
+    "Datetime":"2021-12-02 21:12:45",
+    "Temp_mean":"16.73266666666667",
+    "Ec_mean":"48476.666666666664",
+    "Salinity":"38.40616652324682"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.505772,36.027536 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"21:28:00",
+    "Bat %":89,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1019.843,
+    "Temp_ext(C)":14.92,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":16.715,
+    "EC_sea":48030,
+    "Temp_sea(C) .1":16.336,
+    "EC_sea .1":47910,
+    "Temp_sea(C) .2":16.722,
+    "EC_sea .2":48030,
+    "Datetime":"2021-12-02 21:28:00",
+    "Temp_mean":"16.591",
+    "Ec_mean":"47990.0",
+    "Salinity":"38.1076778902777"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.521904,36.021476 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"21:43:13",
+    "Bat %":91,
+    "Bat mV":3969,
+    "Pression_ext(hpa)":1019.973,
+    "Temp_ext(C)":14.9,
+    "Temp_int(C)":14.375,
+    "Temp_sea(C)":16.726,
+    "EC_sea":47750,
+    "Temp_sea(C) .1":16.724,
+    "EC_sea .1":48180,
+    "Temp_sea(C) .2":16.719,
+    "EC_sea .2":48200,
+    "Datetime":"2021-12-02 21:43:13",
+    "Temp_mean":"16.723000000000003",
+    "Ec_mean":"48043.333333333336",
+    "Salinity":"38.029344959589125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.543024,36.014001 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"21:58:28",
+    "Bat %":89,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1020.257,
+    "Temp_ext(C)":15.01,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":16.725,
+    "EC_sea":48320,
+    "Temp_sea(C) .1":16.729,
+    "EC_sea .1":48270,
+    "Temp_sea(C) .2":16.731,
+    "EC_sea .2":48290,
+    "Datetime":"2021-12-02 21:58:28",
+    "Temp_mean":"16.728333333333335",
+    "Ec_mean":"48293.333333333336",
+    "Salinity":"38.246920072607004"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.559177,36.00776 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"22:13:45",
+    "Bat %":88,
+    "Bat mV":3964,
+    "Pression_ext(hpa)":1020.664,
+    "Temp_ext(C)":13.99,
+    "Temp_int(C)":13.75,
+    "Temp_sea(C)":17.042,
+    "EC_sea":48520,
+    "Temp_sea(C) .1":17.033,
+    "EC_sea .1":48480,
+    "Temp_sea(C) .2":17.023,
+    "EC_sea .2":48500,
+    "Datetime":"2021-12-02 22:13:45",
+    "Temp_mean":"17.032666666666668",
+    "Ec_mean":"48500.0",
+    "Salinity":"38.140163794067064"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.577281,36.000479 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"22:29:09",
+    "Bat %":88,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1020.97,
+    "Temp_ext(C)":13.87,
+    "Temp_int(C)":13.438,
+    "Temp_sea(C)":17.154,
+    "EC_sea":48630,
+    "Temp_sea(C) .1":17.144,
+    "EC_sea .1":48600,
+    "Temp_sea(C) .2":17.134,
+    "EC_sea .2":48580,
+    "Datetime":"2021-12-02 22:29:09",
+    "Temp_mean":"17.144000000000002",
+    "Ec_mean":"48603.333333333336",
+    "Salinity":"38.12579832566925"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.596281,35.994117 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"22:44:25",
+    "Bat %":88,
+    "Bat mV":3947,
+    "Pression_ext(hpa)":1021.16,
+    "Temp_ext(C)":13.73,
+    "Temp_int(C)":13.25,
+    "Temp_sea(C)":17.278,
+    "EC_sea":48760,
+    "Temp_sea(C) .1":17.27,
+    "EC_sea .1":48710,
+    "Temp_sea(C) .2":17.261,
+    "EC_sea .2":48680,
+    "Datetime":"2021-12-02 22:44:25",
+    "Temp_mean":"17.269666666666666",
+    "Ec_mean":"48716.666666666664",
+    "Salinity":"38.10666686037596"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.617021,35.98964 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"22:59:56",
+    "Bat %":88,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1021.463,
+    "Temp_ext(C)":13.56,
+    "Temp_int(C)":13.125,
+    "Temp_sea(C)":17.26,
+    "EC_sea":48930,
+    "Temp_sea(C) .1":17.26,
+    "EC_sea .1":48880,
+    "Temp_sea(C) .2":17.254,
+    "EC_sea .2":48870,
+    "Datetime":"2021-12-02 22:59:56",
+    "Temp_mean":"17.258",
+    "Ec_mean":"48893.333333333336",
+    "Salinity":"38.273302608917234"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.640649,35.987496 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"23:15:23",
+    "Bat %":88,
+    "Bat mV":3959,
+    "Pression_ext(hpa)":1021.897,
+    "Temp_ext(C)":13.4,
+    "Temp_int(C)":12.875,
+    "Temp_sea(C)":17.481,
+    "EC_sea":49070,
+    "Temp_sea(C) .1":17.473,
+    "EC_sea .1":49070,
+    "Temp_sea(C) .2":17.465,
+    "EC_sea .2":49010,
+    "Datetime":"2021-12-02 23:15:23",
+    "Temp_mean":"17.473",
+    "Ec_mean":"49050.0",
+    "Salinity":"38.20716079082371"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.666208,35.986175 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"23:31:08",
+    "Bat %":88,
+    "Bat mV":3958,
+    "Pression_ext(hpa)":1021.977,
+    "Temp_ext(C)":14.25,
+    "Temp_int(C)":13.313,
+    "Temp_sea(C)":17.475,
+    "EC_sea":49190,
+    "Temp_sea(C) .1":17.489,
+    "EC_sea .1":49150,
+    "Temp_sea(C) .2":17.5,
+    "EC_sea .2":49140,
+    "Datetime":"2021-12-02 23:31:08",
+    "Temp_mean":"17.488",
+    "Ec_mean":"49160.0",
+    "Salinity":"38.28940363879404"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.688476,35.983713 ]
+    },
+    "properties": {
+    "Date":"2021-12-02",
+    "Time":"23:46:33",
+    "Bat %":88,
+    "Bat mV":3960,
+    "Pression_ext(hpa)":1022.046,
+    "Temp_ext(C)":14.24,
+    "Temp_int(C)":13.625,
+    "Temp_sea(C)":17.652,
+    "EC_sea":49220,
+    "Temp_sea(C) .1":17.641,
+    "EC_sea .1":49220,
+    "Temp_sea(C) .2":17.629,
+    "EC_sea .2":49150,
+    "Datetime":"2021-12-02 23:46:33",
+    "Temp_mean":"17.640666666666664",
+    "Ec_mean":"49196.666666666664",
+    "Salinity":"38.17720895564769"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.71299,35.981835 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"00:02:24",
+    "Bat %":88,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1022.308,
+    "Temp_ext(C)":14.48,
+    "Temp_int(C)":13.75,
+    "Temp_sea(C)":17.621,
+    "EC_sea":49220,
+    "Temp_sea(C) .1":17.62,
+    "EC_sea .1":49170,
+    "Temp_sea(C) .2":17.618,
+    "EC_sea .2":49160,
+    "Datetime":"2021-12-03 00:02:24",
+    "Temp_mean":"17.619666666666664",
+    "Ec_mean":"49183.333333333336",
+    "Salinity":"38.18535920537596"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.740122,35.981099 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"00:17:51",
+    "Bat %":88,
+    "Bat mV":3957,
+    "Pression_ext(hpa)":1022.393,
+    "Temp_ext(C)":14.62,
+    "Temp_int(C)":14,
+    "Temp_sea(C)":17.782,
+    "EC_sea":48840,
+    "Temp_sea(C) .1":17.775,
+    "EC_sea .1":48750,
+    "Temp_sea(C) .2":17.767,
+    "EC_sea .2":48760,
+    "Datetime":"2021-12-03 00:17:51",
+    "Temp_mean":"17.774666666666665",
+    "Ec_mean":"48783.333333333336",
+    "Salinity":"37.69170334679168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.761302,35.977864 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"00:33:28",
+    "Bat %":87,
+    "Bat mV":3955,
+    "Pression_ext(hpa)":1022.536,
+    "Temp_ext(C)":14.74,
+    "Temp_int(C)":14.125,
+    "Temp_sea(C)":17.766,
+    "EC_sea":48740,
+    "Temp_sea(C) .1":17.773,
+    "EC_sea .1":48940,
+    "Temp_sea(C) .2":17.775,
+    "EC_sea .2":48940,
+    "Datetime":"2021-12-03 00:33:28",
+    "Temp_mean":"17.771333333333335",
+    "Ec_mean":"48873.333333333336",
+    "Salinity":"37.773043862718986"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.771707,35.957541 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"00:48:51",
+    "Bat %":87,
+    "Bat mV":3943,
+    "Pression_ext(hpa)":1022.561,
+    "Temp_ext(C)":14.84,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":17.289,
+    "EC_sea":48120,
+    "Temp_sea(C) .1":17.281,
+    "EC_sea .1":48010,
+    "Temp_sea(C) .2":17.27,
+    "EC_sea .2":48170,
+    "Datetime":"2021-12-03 00:48:51",
+    "Temp_mean":"17.28",
+    "Ec_mean":"48100.0",
+    "Salinity":"37.55489507710871"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.782848,35.937369 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"01:04:12",
+    "Bat %":87,
+    "Bat mV":3957,
+    "Pression_ext(hpa)":1022.781,
+    "Temp_ext(C)":14.79,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":17.849,
+    "EC_sea":49210,
+    "Temp_sea(C) .1":17.844,
+    "EC_sea .1":49110,
+    "Temp_sea(C) .2":17.837,
+    "EC_sea .2":49160,
+    "Datetime":"2021-12-03 01:04:12",
+    "Temp_mean":"17.843333333333334",
+    "Ec_mean":"49160.0",
+    "Salinity":"37.955092255701224"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.799885,35.915525 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"01:20:17",
+    "Bat %":87,
+    "Bat mV":3939,
+    "Pression_ext(hpa)":1022.802,
+    "Temp_ext(C)":14.97,
+    "Temp_int(C)":14.375,
+    "Temp_sea(C)":16.558,
+    "EC_sea":47800,
+    "Temp_sea(C) .1":16.545,
+    "EC_sea .1":40470,
+    "Temp_sea(C) .2":16.532,
+    "EC_sea .2":46030,
+    "Datetime":"2021-12-03 01:20:17",
+    "Temp_mean":"16.545",
+    "Ec_mean":"44766.666666666664",
+    "Salinity":"35.28718937607134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0,0.0 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"01:36:59",
+    "Bat %":87,
+    "Bat mV":3938,
+    "Pression_ext(hpa)":1023.118,
+    "Temp_ext(C)":14.6,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":17.013,
+    "EC_sea":48210,
+    "Temp_sea(C) .1":17.001,
+    "EC_sea .1":48190,
+    "Temp_sea(C) .2":16.99,
+    "EC_sea .2":47970,
+    "Datetime":"2021-12-03 01:36:59",
+    "Temp_mean":"17.001333333333335",
+    "Ec_mean":"48123.333333333336",
+    "Salinity":"37.83665482381865"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.986047,35.822263 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"03:41:05",
+    "Bat %":86,
+    "Bat mV":3949,
+    "Pression_ext(hpa)":1023.363,
+    "Temp_ext(C)":14.69,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":13.034,
+    "EC_sea":53200,
+    "Temp_sea(C) .1":12.914,
+    "EC_sea .1":53020,
+    "Temp_sea(C) .2":12.912,
+    "EC_sea .2":52810,
+    "Datetime":"2021-12-03 03:41:05",
+    "Temp_mean":"12.953333333333333",
+    "Ec_mean":"53010.0",
+    "Salinity":"46.84806296210638"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.006211,35.815882 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"03:56:26",
+    "Bat %":86,
+    "Bat mV":3948,
+    "Pression_ext(hpa)":1023.289,
+    "Temp_ext(C)":14.75,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":13.68,
+    "EC_sea":52680,
+    "Temp_sea(C) .1":13.678,
+    "EC_sea .1":52390,
+    "Temp_sea(C) .2":13.676,
+    "EC_sea .2":52390,
+    "Datetime":"2021-12-03 03:56:26",
+    "Temp_mean":"13.677999999999999",
+    "Ec_mean":"52486.666666666664",
+    "Salinity":"45.44196485929584"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.022194,35.811023 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"04:11:51",
+    "Bat %":86,
+    "Bat mV":3948,
+    "Pression_ext(hpa)":1023.466,
+    "Temp_ext(C)":14.79,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":14.971,
+    "EC_sea":51990,
+    "Temp_sea(C) .1":14.967,
+    "EC_sea .1":51530,
+    "Temp_sea(C) .2":14.811,
+    "EC_sea .2":51790,
+    "Datetime":"2021-12-03 04:11:51",
+    "Temp_mean":"14.916333333333334",
+    "Ec_mean":"51770.0",
+    "Salinity":"43.31763243231326"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.037338,35.800657 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"04:27:47",
+    "Bat %":86,
+    "Bat mV":3942,
+    "Pression_ext(hpa)":1023.538,
+    "Temp_ext(C)":14.56,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":14.934,
+    "EC_sea":51340,
+    "Temp_sea(C) .1":14.923,
+    "EC_sea .1":50880,
+    "Temp_sea(C) .2":14.922,
+    "EC_sea .2":51230,
+    "Datetime":"2021-12-03 04:27:47",
+    "Temp_mean":"14.926333333333332",
+    "Ec_mean":"51150.0",
+    "Salinity":"42.720203737849154"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0,0.0 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"04:44:30",
+    "Bat %":85,
+    "Bat mV":3927,
+    "Pression_ext(hpa)":1023.535,
+    "Temp_ext(C)":14.54,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":15.08,
+    "EC_sea":50440,
+    "Temp_sea(C) .1":15.065,
+    "EC_sea .1":50320,
+    "Temp_sea(C) .2":14.913,
+    "EC_sea .2":50110,
+    "Datetime":"2021-12-03 04:44:30",
+    "Temp_mean":"15.019333333333334",
+    "Ec_mean":"50290.0",
+    "Salinity":"41.80905109692679"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.066488,35.772679 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"05:00:50",
+    "Bat %":85,
+    "Bat mV":3928,
+    "Pression_ext(hpa)":1023.489,
+    "Temp_ext(C)":14.64,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":14.982,
+    "EC_sea":50370,
+    "Temp_sea(C) .1":14.826,
+    "EC_sea .1":50280,
+    "Temp_sea(C) .2":14.826,
+    "EC_sea .2":50240,
+    "Datetime":"2021-12-03 05:00:50",
+    "Temp_mean":"14.878",
+    "Ec_mean":"50296.666666666664",
+    "Salinity":"41.9679315681555"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.079782,35.761639 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"05:16:15",
+    "Bat %":85,
+    "Bat mV":3944,
+    "Pression_ext(hpa)":1023.518,
+    "Temp_ext(C)":14.76,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":14.886,
+    "EC_sea":50280,
+    "Temp_sea(C) .1":14.721,
+    "EC_sea .1":50240,
+    "Temp_sea(C) .2":14.869,
+    "EC_sea .2":50180,
+    "Datetime":"2021-12-03 05:16:15",
+    "Temp_mean":"14.825333333333333",
+    "Ec_mean":"50233.333333333336",
+    "Salinity":"41.96526717806547"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.097233,35.750412 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"05:31:39",
+    "Bat %":85,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1023.594,
+    "Temp_ext(C)":14.83,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":14.882,
+    "EC_sea":50150,
+    "Temp_sea(C) .1":14.506,
+    "EC_sea .1":50120,
+    "Temp_sea(C) .2":14.523,
+    "EC_sea .2":49910,
+    "Datetime":"2021-12-03 05:31:39",
+    "Temp_mean":"14.637",
+    "Ec_mean":"50060.0",
+    "Salinity":"42.00587340699548"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.114903,35.739249 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"05:47:03",
+    "Bat %":85,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1023.654,
+    "Temp_ext(C)":14.82,
+    "Temp_int(C)":14.375,
+    "Temp_sea(C)":15.024,
+    "EC_sea":50390,
+    "Temp_sea(C) .1":14.838,
+    "EC_sea .1":50340,
+    "Temp_sea(C) .2":14.848,
+    "EC_sea .2":50300,
+    "Datetime":"2021-12-03 05:47:03",
+    "Temp_mean":"14.903333333333334",
+    "Ec_mean":"50343.333333333336",
+    "Salinity":"41.9844662914075"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.130283,35.727314 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"06:02:47",
+    "Bat %":85,
+    "Bat mV":3938,
+    "Pression_ext(hpa)":1023.822,
+    "Temp_ext(C)":14.75,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":14.974,
+    "EC_sea":50210,
+    "Temp_sea(C) .1":14.797,
+    "EC_sea .1":49890,
+    "Temp_sea(C) .2":14.669,
+    "EC_sea .2":49910,
+    "Datetime":"2021-12-03 06:02:47",
+    "Temp_mean":"14.813333333333333",
+    "Ec_mean":"50003.333333333336",
+    "Salinity":"41.761279736363754"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.145446,35.716772 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"06:18:04",
+    "Bat %":84,
+    "Bat mV":3927,
+    "Pression_ext(hpa)":1023.913,
+    "Temp_ext(C)":14.81,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":15.194,
+    "EC_sea":50150,
+    "Temp_sea(C) .1":15.035,
+    "EC_sea .1":50050,
+    "Temp_sea(C) .2":15.041,
+    "EC_sea .2":50040,
+    "Datetime":"2021-12-03 06:18:04",
+    "Temp_mean":"15.089999999999998",
+    "Ec_mean":"50080.0",
+    "Salinity":"41.536362388300155"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.161172,35.705762 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"06:33:19",
+    "Bat %":85,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1023.828,
+    "Temp_ext(C)":14.71,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":15.503,
+    "EC_sea":49860,
+    "Temp_sea(C) .1":15.336,
+    "EC_sea .1":49860,
+    "Temp_sea(C) .2":15.326,
+    "EC_sea .2":49870,
+    "Datetime":"2021-12-03 06:33:19",
+    "Temp_mean":"15.388333333333334",
+    "Ec_mean":"49863.333333333336",
+    "Salinity":"41.01846032823236"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.176453,35.694201 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"06:48:40",
+    "Bat %":84,
+    "Bat mV":3938,
+    "Pression_ext(hpa)":1023.977,
+    "Temp_ext(C)":14.7,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":15.481,
+    "EC_sea":49320,
+    "Temp_sea(C) .1":15.292,
+    "EC_sea .1":47950,
+    "Temp_sea(C) .2":15.298,
+    "EC_sea .2":49660,
+    "Datetime":"2021-12-03 06:48:40",
+    "Temp_mean":"15.357",
+    "Ec_mean":"48976.666666666664",
+    "Salinity":"40.22904179189106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.191302,35.68161 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"07:04:17",
+    "Bat %":84,
+    "Bat mV":3920,
+    "Pression_ext(hpa)":1024.213,
+    "Temp_ext(C)":14.72,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":15.684,
+    "EC_sea":49830,
+    "Temp_sea(C) .1":15.521,
+    "EC_sea .1":49790,
+    "Temp_sea(C) .2":15.527,
+    "EC_sea .2":49690,
+    "Datetime":"2021-12-03 07:04:17",
+    "Temp_mean":"15.577333333333334",
+    "Ec_mean":"49770.0",
+    "Salinity":"40.73465443679867"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.203983,35.670556 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"07:19:31",
+    "Bat %":87,
+    "Bat mV":3943,
+    "Pression_ext(hpa)":1024.284,
+    "Temp_ext(C)":14.68,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":15.602,
+    "EC_sea":49720,
+    "Temp_sea(C) .1":15.585,
+    "EC_sea .1":49690,
+    "Temp_sea(C) .2":15.581,
+    "EC_sea .2":49670,
+    "Datetime":"2021-12-03 07:19:31",
+    "Temp_mean":"15.589333333333334",
+    "Ec_mean":"49693.333333333336",
+    "Salinity":"40.65143131598316"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.21711,35.659326 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"07:34:46",
+    "Bat %":84,
+    "Bat mV":3936,
+    "Pression_ext(hpa)":1024.448,
+    "Temp_ext(C)":14.82,
+    "Temp_int(C)":14.188,
+    "Temp_sea(C)":14.946,
+    "EC_sea":49760,
+    "Temp_sea(C) .1":14.929,
+    "EC_sea .1":49760,
+    "Temp_sea(C) .2":14.923,
+    "EC_sea .2":49750,
+    "Datetime":"2021-12-03 07:34:46",
+    "Temp_mean":"14.932666666666668",
+    "Ec_mean":"49756.666666666664",
+    "Salinity":"41.401118939526306"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.228494,35.648844 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"07:50:01",
+    "Bat %":84,
+    "Bat mV":3936,
+    "Pression_ext(hpa)":1024.519,
+    "Temp_ext(C)":14.76,
+    "Temp_int(C)":14.125,
+    "Temp_sea(C)":15.169,
+    "EC_sea":49880,
+    "Temp_sea(C) .1":15.039,
+    "EC_sea .1":49820,
+    "Temp_sea(C) .2":15.026,
+    "EC_sea .2":49860,
+    "Datetime":"2021-12-03 07:50:01",
+    "Temp_mean":"15.077999999999998",
+    "Ec_mean":"49853.333333333336",
+    "Salinity":"41.33695627514806"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.239954,35.639441 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"08:05:21",
+    "Bat %":84,
+    "Bat mV":3934,
+    "Pression_ext(hpa)":1024.746,
+    "Temp_ext(C)":14.59,
+    "Temp_int(C)":14.063,
+    "Temp_sea(C)":15.38,
+    "EC_sea":49740,
+    "Temp_sea(C) .1":15.372,
+    "EC_sea .1":49680,
+    "Temp_sea(C) .2":15.364,
+    "EC_sea .2":49670,
+    "Datetime":"2021-12-03 08:05:21",
+    "Temp_mean":"15.372",
+    "Ec_mean":"49696.666666666664",
+    "Salinity":"40.88088262874532"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.254139,35.628288 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"08:21:02",
+    "Bat %":83,
+    "Bat mV":3915,
+    "Pression_ext(hpa)":1024.922,
+    "Temp_ext(C)":14.71,
+    "Temp_int(C)":14.125,
+    "Temp_sea(C)":14.332,
+    "EC_sea":49510,
+    "Temp_sea(C) .1":14.32,
+    "EC_sea .1":49440,
+    "Temp_sea(C) .2":14.306,
+    "EC_sea .2":49430,
+    "Datetime":"2021-12-03 08:21:02",
+    "Temp_mean":"14.319333333333333",
+    "Ec_mean":"49460.0",
+    "Salinity":"41.78101172789122"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.270301,35.615791 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"08:36:26",
+    "Bat %":84,
+    "Bat mV":3931,
+    "Pression_ext(hpa)":1025.155,
+    "Temp_ext(C)":14.77,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":12.931,
+    "EC_sea":49030,
+    "Temp_sea(C) .1":12.74,
+    "EC_sea .1":49000,
+    "Temp_sea(C) .2":12.742,
+    "EC_sea .2":48950,
+    "Datetime":"2021-12-03 08:36:26",
+    "Temp_mean":"12.804333333333332",
+    "Ec_mean":"48993.333333333336",
+    "Salinity":"43.01887049297807"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.295271,35.590037 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"09:07:15",
+    "Bat %":83,
+    "Bat mV":3930,
+    "Pression_ext(hpa)":1025.888,
+    "Temp_ext(C)":14.75,
+    "Temp_int(C)":14.25,
+    "Temp_sea(C)":14.379,
+    "EC_sea":49350,
+    "Temp_sea(C) .1":14.229,
+    "EC_sea .1":49360,
+    "Temp_sea(C) .2":14.214,
+    "EC_sea .2":49330,
+    "Datetime":"2021-12-03 09:07:15",
+    "Temp_mean":"14.274",
+    "Ec_mean":"49346.666666666664",
+    "Salinity":"41.72217145929699"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.308403,35.576002 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"09:22:38",
+    "Bat %":83,
+    "Bat mV":3915,
+    "Pression_ext(hpa)":1026.062,
+    "Temp_ext(C)":14.83,
+    "Temp_int(C)":14.313,
+    "Temp_sea(C)":14.237,
+    "EC_sea":49140,
+    "Temp_sea(C) .1":14.061,
+    "EC_sea .1":49110,
+    "Temp_sea(C) .2":14.059,
+    "EC_sea .2":49100,
+    "Datetime":"2021-12-03 09:22:38",
+    "Temp_mean":"14.119",
+    "Ec_mean":"49116.666666666664",
+    "Salinity":"41.670815750264836"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.326442,35.559867 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"09:38:03",
+    "Bat %":82,
+    "Bat mV":3927,
+    "Pression_ext(hpa)":1026.314,
+    "Temp_ext(C)":15.45,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":13.802,
+    "EC_sea":48560,
+    "Temp_sea(C) .1":13.793,
+    "EC_sea .1":48510,
+    "Temp_sea(C) .2":13.786,
+    "EC_sea .2":48530,
+    "Datetime":"2021-12-03 09:38:03",
+    "Temp_mean":"13.793666666666667",
+    "Ec_mean":"48533.333333333336",
+    "Salinity":"41.46433774499596"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.344133,35.544806 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"09:53:27",
+    "Bat %":84,
+    "Bat mV":3911,
+    "Pression_ext(hpa)":1026.455,
+    "Temp_ext(C)":16.11,
+    "Temp_int(C)":16.375,
+    "Temp_sea(C)":13.597,
+    "EC_sea":48450,
+    "Temp_sea(C) .1":13.293,
+    "EC_sea .1":48370,
+    "Temp_sea(C) .2":13.373,
+    "EC_sea .2":48380,
+    "Datetime":"2021-12-03 09:53:27",
+    "Temp_mean":"13.421",
+    "Ec_mean":"48400.0",
+    "Salinity":"41.74304996918563"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.361462,35.529598 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"10:08:57",
+    "Bat %":82,
+    "Bat mV":3933,
+    "Pression_ext(hpa)":1026.488,
+    "Temp_ext(C)":16.37,
+    "Temp_int(C)":17.125,
+    "Temp_sea(C)":12.883,
+    "EC_sea":48350,
+    "Temp_sea(C) .1":12.859,
+    "EC_sea .1":48340,
+    "Temp_sea(C) .2":12.727,
+    "EC_sea .2":47510,
+    "Datetime":"2021-12-03 10:08:57",
+    "Temp_mean":"12.822999999999999",
+    "Ec_mean":"48066.666666666664",
+    "Salinity":"42.08062770607055"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.377221,35.512609 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"10:24:20",
+    "Bat %":83,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1026.67,
+    "Temp_ext(C)":16.71,
+    "Temp_int(C)":17.375,
+    "Temp_sea(C)":14.903,
+    "EC_sea":50110,
+    "Temp_sea(C) .1":14.895,
+    "EC_sea .1":50060,
+    "Temp_sea(C) .2":14.891,
+    "EC_sea .2":50010,
+    "Datetime":"2021-12-03 10:24:20",
+    "Temp_mean":"14.896333333333333",
+    "Ec_mean":"50060.0",
+    "Salinity":"41.72523743608072"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.404769,35.481765 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"10:55:03",
+    "Bat %":91,
+    "Bat mV":3977,
+    "Pression_ext(hpa)":1026.994,
+    "Temp_ext(C)":18.82,
+    "Temp_int(C)":19.687,
+    "Temp_sea(C)":13.489,
+    "EC_sea":49830,
+    "Temp_sea(C) .1":13.487,
+    "EC_sea .1":49830,
+    "Temp_sea(C) .2":13.491,
+    "EC_sea .2":49820,
+    "Datetime":"2021-12-03 10:55:03",
+    "Temp_mean":"13.488999999999999",
+    "Ec_mean":"49826.666666666664",
+    "Salinity":"43.0576119251786"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.419114,35.467452 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"11:10:49",
+    "Bat %":90,
+    "Bat mV":3986,
+    "Pression_ext(hpa)":1027.286,
+    "Temp_ext(C)":19.39,
+    "Temp_int(C)":20.812,
+    "Temp_sea(C)":13.886,
+    "EC_sea":49910,
+    "Temp_sea(C) .1":13.592,
+    "EC_sea .1":49900,
+    "Temp_sea(C) .2":13.587,
+    "EC_sea .2":49820,
+    "Datetime":"2021-12-03 11:10:49",
+    "Temp_mean":"13.688333333333333",
+    "Ec_mean":"49876.666666666664",
+    "Salinity":"42.88073293920046"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.431545,35.455086 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"11:26:07",
+    "Bat %":91,
+    "Bat mV":4019,
+    "Pression_ext(hpa)":1027.506,
+    "Temp_ext(C)":21.07,
+    "Temp_int(C)":22.187,
+    "Temp_sea(C)":13.603,
+    "EC_sea":49550,
+    "Temp_sea(C) .1":13.617,
+    "EC_sea .1":49540,
+    "Temp_sea(C) .2":13.635,
+    "EC_sea .2":49530,
+    "Datetime":"2021-12-03 11:26:07",
+    "Temp_mean":"13.618333333333332",
+    "Ec_mean":"49540.0",
+    "Salinity":"42.63229699534829"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.443308,35.443946 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"11:41:49",
+    "Bat %":92,
+    "Bat mV":4111,
+    "Pression_ext(hpa)":1027.755,
+    "Temp_ext(C)":22.64,
+    "Temp_int(C)":24.062,
+    "Temp_sea(C)":10.143,
+    "EC_sea":49780,
+    "Temp_sea(C) .1":10.3,
+    "EC_sea .1":49760,
+    "Temp_sea(C) .2":10.309,
+    "EC_sea .2":49780,
+    "Datetime":"2021-12-03 11:41:49",
+    "Temp_mean":"10.250666666666667",
+    "Ec_mean":"49773.333333333336",
+    "Salinity":"46.94811497472267"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.452004,35.436469 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"11:57:05",
+    "Bat %":96,
+    "Bat mV":3971,
+    "Pression_ext(hpa)":1027.591,
+    "Temp_ext(C)":23.57,
+    "Temp_int(C)":25.687,
+    "Temp_sea(C)":9.874,
+    "EC_sea":49320,
+    "Temp_sea(C) .1":10.413,
+    "EC_sea .1":49310,
+    "Temp_sea(C) .2":10.2,
+    "EC_sea .2":49270,
+    "Datetime":"2021-12-03 11:57:05",
+    "Temp_mean":"10.162333333333333",
+    "Ec_mean":"49300.0",
+    "Salinity":"46.55684816449264"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.469139,35.427914 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"12:12:17",
+    "Bat %":93,
+    "Bat mV":4020,
+    "Pression_ext(hpa)":1027.915,
+    "Temp_ext(C)":21.44,
+    "Temp_int(C)":23.937,
+    "Temp_sea(C)":11.994,
+    "EC_sea":49420,
+    "Temp_sea(C) .1":11.989,
+    "EC_sea .1":49260,
+    "Temp_sea(C) .2":12.246,
+    "EC_sea .2":49380,
+    "Datetime":"2021-12-03 12:12:17",
+    "Temp_mean":"12.076333333333332",
+    "Ec_mean":"49353.333333333336",
+    "Salinity":"44.231464023140305"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.487743,35.419108 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"12:27:32",
+    "Bat %":100,
+    "Bat mV":3999,
+    "Pression_ext(hpa)":1027.762,
+    "Temp_ext(C)":20.08,
+    "Temp_int(C)":21.812,
+    "Temp_sea(C)":9.222,
+    "EC_sea":50160,
+    "Temp_sea(C) .1":8.79,
+    "EC_sea .1":50110,
+    "Temp_sea(C) .2":8.725,
+    "EC_sea .2":50080,
+    "Datetime":"2021-12-03 12:27:32",
+    "Temp_mean":"8.912333333333335",
+    "Ec_mean":"50116.666666666664",
+    "Salinity":"49.13108779761748"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.084387,35.287965 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"19:06:33",
+    "Bat %":90,
+    "Bat mV":3963,
+    "Pression_ext(hpa)":1026.447,
+    "Temp_ext(C)":16.98,
+    "Temp_int(C)":18.687,
+    "Temp_sea(C)":15.217,
+    "EC_sea":58680,
+    "Temp_sea(C) .1":15.198,
+    "EC_sea .1":58650,
+    "Temp_sea(C) .2":15.174,
+    "EC_sea .2":58590,
+    "Datetime":"2021-12-03 19:06:33",
+    "Temp_mean":"15.196333333333333",
+    "Ec_mean":"58640.0",
+    "Salinity":"49.54988932199562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.107435,35.286332 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"19:21:48",
+    "Bat %":90,
+    "Bat mV":3978,
+    "Pression_ext(hpa)":1026.441,
+    "Temp_ext(C)":16.22,
+    "Temp_int(C)":16.625,
+    "Temp_sea(C)":16.629,
+    "EC_sea":58440,
+    "Temp_sea(C) .1":16.617,
+    "EC_sea .1":58370,
+    "Temp_sea(C) .2":16.601,
+    "EC_sea .2":58310,
+    "Datetime":"2021-12-03 19:21:48",
+    "Temp_mean":"16.615666666666666",
+    "Ec_mean":"58373.333333333336",
+    "Salinity":"47.53725556601195"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.129685,35.284696 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"19:37:03",
+    "Bat %":90,
+    "Bat mV":3973,
+    "Pression_ext(hpa)":1026.51,
+    "Temp_ext(C)":15.83,
+    "Temp_int(C)":15.75,
+    "Temp_sea(C)":17.539,
+    "EC_sea":58240,
+    "Temp_sea(C) .1":17.532,
+    "EC_sea .1":58210,
+    "Temp_sea(C) .2":17.523,
+    "EC_sea .2":58170,
+    "Datetime":"2021-12-03 19:37:03",
+    "Temp_mean":"17.531333333333333",
+    "Ec_mean":"58206.666666666664",
+    "Salinity":"46.30710067978104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.148991,35.282605 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"19:52:17",
+    "Bat %":90,
+    "Bat mV":3977,
+    "Pression_ext(hpa)":1026.527,
+    "Temp_ext(C)":15.59,
+    "Temp_int(C)":15.313,
+    "Temp_sea(C)":17.826,
+    "EC_sea":58050,
+    "Temp_sea(C) .1":17.819,
+    "EC_sea .1":58020,
+    "Temp_sea(C) .2":17.809,
+    "EC_sea .2":58010,
+    "Datetime":"2021-12-03 19:52:17",
+    "Temp_mean":"17.817999999999998",
+    "Ec_mean":"58026.666666666664",
+    "Salinity":"45.816773392250184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.176889,35.280204 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"20:08:03",
+    "Bat %":90,
+    "Bat mV":3958,
+    "Pression_ext(hpa)":1026.68,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":15.188,
+    "Temp_sea(C)":17.8,
+    "EC_sea":57810,
+    "Temp_sea(C) .1":17.798,
+    "EC_sea .1":57840,
+    "Temp_sea(C) .2":17.794,
+    "EC_sea .2":57850,
+    "Datetime":"2021-12-03 20:08:03",
+    "Temp_mean":"17.79733333333333",
+    "Ec_mean":"57833.333333333336",
+    "Salinity":"45.66648886559719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.204512,35.277532 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"20:23:27",
+    "Bat %":90,
+    "Bat mV":3961,
+    "Pression_ext(hpa)":1026.825,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":15.125,
+    "Temp_sea(C)":17.452,
+    "EC_sea":57280,
+    "Temp_sea(C) .1":17.444,
+    "EC_sea .1":57630,
+    "Temp_sea(C) .2":17.435,
+    "EC_sea .2":57590,
+    "Datetime":"2021-12-03 20:23:27",
+    "Temp_mean":"17.44366666666667",
+    "Ec_mean":"57500.0",
+    "Salinity":"45.76757824900693"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.229132,35.275588 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"20:38:51",
+    "Bat %":90,
+    "Bat mV":3973,
+    "Pression_ext(hpa)":1027.014,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.432,
+    "EC_sea":57720,
+    "Temp_sea(C) .1":17.443,
+    "EC_sea .1":57710,
+    "Temp_sea(C) .2":17.447,
+    "EC_sea .2":57720,
+    "Datetime":"2021-12-03 20:38:51",
+    "Temp_mean":"17.44066666666667",
+    "Ec_mean":"57716.666666666664",
+    "Salinity":"45.967294757481376"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.255228,35.272757 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"20:54:14",
+    "Bat %":90,
+    "Bat mV":3973,
+    "Pression_ext(hpa)":1027.136,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.469,
+    "EC_sea":57610,
+    "Temp_sea(C) .1":17.482,
+    "EC_sea .1":57570,
+    "Temp_sea(C) .2":17.475,
+    "EC_sea .2":57560,
+    "Datetime":"2021-12-03 20:54:14",
+    "Temp_mean":"17.475333333333335",
+    "Ec_mean":"57580.0",
+    "Salinity":"45.80388942155637"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.281324,35.269779 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"21:10:03",
+    "Bat %":90,
+    "Bat mV":3970,
+    "Pression_ext(hpa)":1027.253,
+    "Temp_ext(C)":15.58,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":17.461,
+    "EC_sea":57590,
+    "Temp_sea(C) .1":17.465,
+    "EC_sea .1":57180,
+    "Temp_sea(C) .2":17.464,
+    "EC_sea .2":57580,
+    "Datetime":"2021-12-03 21:10:03",
+    "Temp_mean":"17.463333333333335",
+    "Ec_mean":"57450.0",
+    "Salinity":"45.69991279384436"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.304986,35.266897 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"21:25:21",
+    "Bat %":90,
+    "Bat mV":3972,
+    "Pression_ext(hpa)":1027.478,
+    "Temp_ext(C)":15.67,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.258,
+    "EC_sea":57550,
+    "Temp_sea(C) .1":17.124,
+    "EC_sea .1":57520,
+    "Temp_sea(C) .2":17.123,
+    "EC_sea .2":57530,
+    "Datetime":"2021-12-03 21:25:21",
+    "Temp_mean":"17.168333333333333",
+    "Ec_mean":"57533.333333333336",
+    "Salinity":"46.11368927604345"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.320181,35.263857 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"21:40:37",
+    "Bat %":89,
+    "Bat mV":3958,
+    "Pression_ext(hpa)":1027.554,
+    "Temp_ext(C)":15.63,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.115,
+    "EC_sea":57690,
+    "Temp_sea(C) .1":17.099,
+    "EC_sea .1":57670,
+    "Temp_sea(C) .2":17.081,
+    "EC_sea .2":57650,
+    "Datetime":"2021-12-03 21:40:37",
+    "Temp_mean":"17.098333333333333",
+    "Ec_mean":"57670.0",
+    "Salinity":"46.319496746568525"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.335749,35.260698 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"21:55:55",
+    "Bat %":90,
+    "Bat mV":3975,
+    "Pression_ext(hpa)":1027.442,
+    "Temp_ext(C)":15.63,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":17.064,
+    "EC_sea":57700,
+    "Temp_sea(C) .1":17.062,
+    "EC_sea .1":57730,
+    "Temp_sea(C) .2":17.055,
+    "EC_sea .2":57720,
+    "Datetime":"2021-12-03 21:55:55",
+    "Temp_mean":"17.060333333333336",
+    "Ec_mean":"57716.666666666664",
+    "Salinity":"46.40634023289946"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.364022,35.256877 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"22:11:40",
+    "Bat %":89,
+    "Bat mV":3968,
+    "Pression_ext(hpa)":1027.536,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":17.436,
+    "EC_sea":58410,
+    "Temp_sea(C) .1":17.42,
+    "EC_sea .1":58400,
+    "Temp_sea(C) .2":17.403,
+    "EC_sea .2":58420,
+    "Datetime":"2021-12-03 22:11:40",
+    "Temp_mean":"17.419666666666668",
+    "Ec_mean":"58410.0",
+    "Salinity":"46.6209084605546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.392309,35.250252 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"22:26:58",
+    "Bat %":89,
+    "Bat mV":3971,
+    "Pression_ext(hpa)":1027.565,
+    "Temp_ext(C)":15.65,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.381,
+    "EC_sea":58380,
+    "Temp_sea(C) .1":17.37,
+    "EC_sea .1":58380,
+    "Temp_sea(C) .2":17.356,
+    "EC_sea .2":58360,
+    "Datetime":"2021-12-03 22:26:58",
+    "Temp_mean":"17.369000000000003",
+    "Ec_mean":"58373.333333333336",
+    "Salinity":"46.646504727023185"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.419566,35.24286 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"22:42:16",
+    "Bat %":89,
+    "Bat mV":3970,
+    "Pression_ext(hpa)":1027.866,
+    "Temp_ext(C)":15.76,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.892,
+    "EC_sea":59240,
+    "Temp_sea(C) .1":17.771,
+    "EC_sea .1":59220,
+    "Temp_sea(C) .2":17.774,
+    "EC_sea .2":59160,
+    "Datetime":"2021-12-03 22:42:16",
+    "Temp_mean":"17.81233333333333",
+    "Ec_mean":"59206.666666666664",
+    "Salinity":"46.885989057006014"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.444125,35.234354 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"22:57:35",
+    "Bat %":89,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1027.801,
+    "Temp_ext(C)":15.66,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.76,
+    "EC_sea":58990,
+    "Temp_sea(C) .1":17.613,
+    "EC_sea .1":58980,
+    "Temp_sea(C) .2":17.616,
+    "EC_sea .2":58980,
+    "Datetime":"2021-12-03 22:57:35",
+    "Temp_mean":"17.663",
+    "Ec_mean":"58983.333333333336",
+    "Salinity":"46.857894399385444"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.467035,35.224921 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"23:12:56",
+    "Bat %":89,
+    "Bat mV":3969,
+    "Pression_ext(hpa)":1027.851,
+    "Temp_ext(C)":15.61,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":17.922,
+    "EC_sea":58240,
+    "Temp_sea(C) .1":17.797,
+    "EC_sea .1":59100,
+    "Temp_sea(C) .2":17.798,
+    "EC_sea .2":59260,
+    "Datetime":"2021-12-03 23:12:56",
+    "Temp_mean":"17.839",
+    "Ec_mean":"58866.666666666664",
+    "Salinity":"46.54850737869852"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.487317,35.213987 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"23:28:18",
+    "Bat %":89,
+    "Bat mV":3968,
+    "Pression_ext(hpa)":1027.838,
+    "Temp_ext(C)":15.54,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":17.599,
+    "EC_sea":59090,
+    "Temp_sea(C) .1":17.582,
+    "EC_sea .1":59280,
+    "Temp_sea(C) .2":17.562,
+    "EC_sea .2":59250,
+    "Datetime":"2021-12-03 23:28:18",
+    "Temp_mean":"17.581",
+    "Ec_mean":"59206.666666666664",
+    "Salinity":"47.156274412137805"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.504911,35.19879 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"23:44:09",
+    "Bat %":89,
+    "Bat mV":3966,
+    "Pression_ext(hpa)":1027.782,
+    "Temp_ext(C)":15.51,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":17.26,
+    "EC_sea":59190,
+    "Temp_sea(C) .1":17.248,
+    "EC_sea .1":59220,
+    "Temp_sea(C) .2":17.233,
+    "EC_sea .2":59180,
+    "Datetime":"2021-12-03 23:44:09",
+    "Temp_mean":"17.247",
+    "Ec_mean":"59196.666666666664",
+    "Salinity":"47.541869902855325"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.521325,35.183818 ]
+    },
+    "properties": {
+    "Date":"2021-12-03",
+    "Time":"23:59:25",
+    "Bat %":89,
+    "Bat mV":3966,
+    "Pression_ext(hpa)":1027.86,
+    "Temp_ext(C)":15.45,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":18.12,
+    "EC_sea":59580,
+    "Temp_sea(C) .1":18.109,
+    "EC_sea .1":59530,
+    "Temp_sea(C) .2":18.096,
+    "EC_sea .2":59510,
+    "Datetime":"2021-12-03 23:59:25",
+    "Temp_mean":"18.108333333333334",
+    "Ec_mean":"59540.0",
+    "Salinity":"46.842592831653484"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.537653,35.169566 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"00:14:38",
+    "Bat %":91,
+    "Bat mV":3973,
+    "Pression_ext(hpa)":1027.91,
+    "Temp_ext(C)":15.32,
+    "Temp_int(C)":14.75,
+    "Temp_sea(C)":18.204,
+    "EC_sea":59630,
+    "Temp_sea(C) .1":18.199,
+    "EC_sea .1":59610,
+    "Temp_sea(C) .2":18.197,
+    "EC_sea .2":59590,
+    "Datetime":"2021-12-04 00:14:38",
+    "Temp_mean":"18.200000000000003",
+    "Ec_mean":"59610.0",
+    "Salinity":"46.79939412211793"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.553969,35.156002 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"00:29:57",
+    "Bat %":89,
+    "Bat mV":3969,
+    "Pression_ext(hpa)":1027.927,
+    "Temp_ext(C)":15.3,
+    "Temp_int(C)":14.75,
+    "Temp_sea(C)":18.4,
+    "EC_sea":59590,
+    "Temp_sea(C) .1":18.39,
+    "EC_sea .1":59640,
+    "Temp_sea(C) .2":18.382,
+    "EC_sea .2":59650,
+    "Datetime":"2021-12-04 00:29:57",
+    "Temp_mean":"18.390666666666664",
+    "Ec_mean":"59626.666666666664",
+    "Salinity":"46.59503765870494"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.570621,35.142812 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"00:45:16",
+    "Bat %":89,
+    "Bat mV":3967,
+    "Pression_ext(hpa)":1027.846,
+    "Temp_ext(C)":15.37,
+    "Temp_int(C)":14.75,
+    "Temp_sea(C)":18.359,
+    "EC_sea":59670,
+    "Temp_sea(C) .1":18.341,
+    "EC_sea .1":59710,
+    "Temp_sea(C) .2":18.343,
+    "EC_sea .2":59690,
+    "Datetime":"2021-12-04 00:45:16",
+    "Temp_mean":"18.34766666666667",
+    "Ec_mean":"59690.0",
+    "Salinity":"46.700819073934035"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.587337,35.129365 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"01:00:39",
+    "Bat %":89,
+    "Bat mV":3967,
+    "Pression_ext(hpa)":1027.951,
+    "Temp_ext(C)":15.47,
+    "Temp_int(C)":14.813,
+    "Temp_sea(C)":18.337,
+    "EC_sea":59780,
+    "Temp_sea(C) .1":18.346,
+    "EC_sea .1":59720,
+    "Temp_sea(C) .2":18.361,
+    "EC_sea .2":59750,
+    "Datetime":"2021-12-04 01:00:39",
+    "Temp_mean":"18.348",
+    "Ec_mean":"59750.0",
+    "Salinity":"46.75395216140096"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.604731,35.116151 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"01:16:21",
+    "Bat %":89,
+    "Bat mV":3964,
+    "Pression_ext(hpa)":1027.947,
+    "Temp_ext(C)":15.51,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":18.369,
+    "EC_sea":59740,
+    "Temp_sea(C) .1":18.347,
+    "EC_sea .1":59680,
+    "Temp_sea(C) .2":18.329,
+    "EC_sea .2":59630,
+    "Datetime":"2021-12-04 01:16:21",
+    "Temp_mean":"18.348333333333333",
+    "Ec_mean":"59683.333333333336",
+    "Salinity":"46.69410758712677"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.621615,35.103265 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"01:31:45",
+    "Bat %":88,
+    "Bat mV":3967,
+    "Pression_ext(hpa)":1027.861,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":18.317,
+    "EC_sea":59720,
+    "Temp_sea(C) .1":18.302,
+    "EC_sea .1":59690,
+    "Temp_sea(C) .2":18.29,
+    "EC_sea .2":58170,
+    "Datetime":"2021-12-04 01:31:45",
+    "Temp_mean":"18.303",
+    "Ec_mean":"59193.333333333336",
+    "Salinity":"46.30913386071596"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.638394,35.09028 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"01:47:09",
+    "Bat %":88,
+    "Bat mV":3952,
+    "Pression_ext(hpa)":1027.876,
+    "Temp_ext(C)":15.56,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":18.275,
+    "EC_sea":59680,
+    "Temp_sea(C) .1":18.252,
+    "EC_sea .1":59690,
+    "Temp_sea(C) .2":18.242,
+    "EC_sea .2":59680,
+    "Datetime":"2021-12-04 01:47:09",
+    "Temp_mean":"18.256333333333334",
+    "Ec_mean":"59683.333333333336",
+    "Salinity":"46.7999999683729"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.655124,35.07796 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"02:02:33",
+    "Bat %":88,
+    "Bat mV":3965,
+    "Pression_ext(hpa)":1027.781,
+    "Temp_ext(C)":15.47,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":18.229,
+    "EC_sea":59730,
+    "Temp_sea(C) .1":18.217,
+    "EC_sea .1":59730,
+    "Temp_sea(C) .2":18.219,
+    "EC_sea .2":59780,
+    "Datetime":"2021-12-04 02:02:33",
+    "Temp_mean":"18.221666666666668",
+    "Ec_mean":"59746.666666666664",
+    "Salinity":"46.89667508855078"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.671693,35.065331 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"02:18:00",
+    "Bat %":88,
+    "Bat mV":3964,
+    "Pression_ext(hpa)":1027.703,
+    "Temp_ext(C)":15.54,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":18.406,
+    "EC_sea":59740,
+    "Temp_sea(C) .1":18.227,
+    "EC_sea .1":59700,
+    "Temp_sea(C) .2":18.224,
+    "EC_sea .2":59720,
+    "Datetime":"2021-12-04 02:18:00",
+    "Temp_mean":"18.285666666666668",
+    "Ec_mean":"59720.0",
+    "Salinity":"46.79894895130105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.687363,35.052202 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"02:33:46",
+    "Bat %":88,
+    "Bat mV":3963,
+    "Pression_ext(hpa)":1027.547,
+    "Temp_ext(C)":15.52,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":18.218,
+    "EC_sea":59700,
+    "Temp_sea(C) .1":18.207,
+    "EC_sea .1":59680,
+    "Temp_sea(C) .2":18.193,
+    "EC_sea .2":59660,
+    "Datetime":"2021-12-04 02:33:46",
+    "Temp_mean":"18.206",
+    "Ec_mean":"59680.0",
+    "Salinity":"46.85511676303565"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.703617,35.040009 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"02:49:09",
+    "Bat %":88,
+    "Bat mV":3949,
+    "Pression_ext(hpa)":1027.445,
+    "Temp_ext(C)":15.46,
+    "Temp_int(C)":14.938,
+    "Temp_sea(C)":18.182,
+    "EC_sea":59690,
+    "Temp_sea(C) .1":18.172,
+    "EC_sea .1":59680,
+    "Temp_sea(C) .2":18.157,
+    "EC_sea .2":59640,
+    "Datetime":"2021-12-04 02:49:09",
+    "Temp_mean":"18.170333333333332",
+    "Ec_mean":"59670.0",
+    "Salinity":"46.88739731936712"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.719204,35.028291 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"03:04:33",
+    "Bat %":88,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1027.405,
+    "Temp_ext(C)":15.64,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":18.107,
+    "EC_sea":59640,
+    "Temp_sea(C) .1":17.883,
+    "EC_sea .1":59620,
+    "Temp_sea(C) .2":17.894,
+    "EC_sea .2":59610,
+    "Datetime":"2021-12-04 03:04:33",
+    "Temp_mean":"17.961333333333332",
+    "Ec_mean":"59623.333333333336",
+    "Salinity":"47.088172918008745"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.734923,35.016539 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"03:20:05",
+    "Bat %":88,
+    "Bat mV":3946,
+    "Pression_ext(hpa)":1027.38,
+    "Temp_ext(C)":15.62,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":17.4,
+    "EC_sea":59590,
+    "Temp_sea(C) .1":12.809,
+    "EC_sea .1":59040,
+    "Temp_sea(C) .2":17.028,
+    "EC_sea .2":59460,
+    "Datetime":"2021-12-04 03:20:05",
+    "Temp_mean":"15.745666666666665",
+    "Ec_mean":"59363.333333333336",
+    "Salinity":"49.54323698640595"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.750405,35.005616 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"03:35:23",
+    "Bat %":88,
+    "Bat mV":3964,
+    "Pression_ext(hpa)":1027.317,
+    "Temp_ext(C)":15.55,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":16.761,
+    "EC_sea":59630,
+    "Temp_sea(C) .1":16.61,
+    "EC_sea .1":59630,
+    "Temp_sea(C) .2":16.614,
+    "EC_sea .2":59650,
+    "Datetime":"2021-12-04 03:35:23",
+    "Temp_mean":"16.661666666666665",
+    "Ec_mean":"59636.666666666664",
+    "Salinity":"48.65625593536604"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.7659,34.994629 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"03:50:44",
+    "Bat %":88,
+    "Bat mV":3962,
+    "Pression_ext(hpa)":1027.292,
+    "Temp_ext(C)":15.6,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":16.429,
+    "EC_sea":59640,
+    "Temp_sea(C) .1":16.408,
+    "EC_sea .1":59620,
+    "Temp_sea(C) .2":16.284,
+    "EC_sea .2":59650,
+    "Datetime":"2021-12-04 03:50:44",
+    "Temp_mean":"16.37366666666667",
+    "Ec_mean":"59636.666666666664",
+    "Salinity":"49.01244525846192"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.781991,34.983721 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"04:06:20",
+    "Bat %":88,
+    "Bat mV":3958,
+    "Pression_ext(hpa)":1027.231,
+    "Temp_ext(C)":15.65,
+    "Temp_int(C)":15,
+    "Temp_sea(C)":16.289,
+    "EC_sea":59600,
+    "Temp_sea(C) .1":16.063,
+    "EC_sea .1":59560,
+    "Temp_sea(C) .2":16.09,
+    "EC_sea .2":59550,
+    "Datetime":"2021-12-04 04:06:20",
+    "Temp_mean":"16.147333333333336",
+    "Ec_mean":"59570.0",
+    "Salinity":"49.23240514811568"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.797481,34.97345 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"04:21:41",
+    "Bat %":88,
+    "Bat mV":3960,
+    "Pression_ext(hpa)":1027.363,
+    "Temp_ext(C)":15.72,
+    "Temp_int(C)":15.062,
+    "Temp_sea(C)":16.383,
+    "EC_sea":59600,
+    "Temp_sea(C) .1":16.254,
+    "EC_sea .1":59540,
+    "Temp_sea(C) .2":16.245,
+    "EC_sea .2":59280,
+    "Datetime":"2021-12-04 04:21:41",
+    "Temp_mean":"16.294",
+    "Ec_mean":"59473.333333333336",
+    "Salinity":"48.958117504603315"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.813544,34.96299 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"04:37:05",
+    "Bat %":88,
+    "Bat mV":3960,
+    "Pression_ext(hpa)":1027.195,
+    "Temp_ext(C)":15.86,
+    "Temp_int(C)":15.188,
+    "Temp_sea(C)":15.693,
+    "EC_sea":59590,
+    "Temp_sea(C) .1":15.511,
+    "EC_sea .1":59570,
+    "Temp_sea(C) .2":15.527,
+    "EC_sea .2":59540,
+    "Datetime":"2021-12-04 04:37:05",
+    "Temp_mean":"15.577",
+    "Ec_mean":"59566.666666666664",
+    "Salinity":"49.95306002663076"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.827549,34.948939 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"04:52:32",
+    "Bat %":87,
+    "Bat mV":3958,
+    "Pression_ext(hpa)":1027.398,
+    "Temp_ext(C)":15.87,
+    "Temp_int(C)":15.25,
+    "Temp_sea(C)":15.555,
+    "EC_sea":59460,
+    "Temp_sea(C) .1":15.542,
+    "EC_sea .1":59490,
+    "Temp_sea(C) .2":15.527,
+    "EC_sea .2":59430,
+    "Datetime":"2021-12-04 04:52:32",
+    "Temp_mean":"15.541333333333334",
+    "Ec_mean":"59460.0",
+    "Salinity":"49.89656169845211"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.0,0.0 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"05:09:15",
+    "Bat %":87,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1027.408,
+    "Temp_ext(C)":15.85,
+    "Temp_int(C)":15.375,
+    "Temp_sea(C)":16.513,
+    "EC_sea":59440,
+    "Temp_sea(C) .1":16.349,
+    "EC_sea .1":59450,
+    "Temp_sea(C) .2":16.358,
+    "EC_sea .2":59410,
+    "Datetime":"2021-12-04 05:09:15",
+    "Temp_mean":"16.406666666666666",
+    "Ec_mean":"59433.333333333336",
+    "Salinity":"48.78077572401463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.863276,34.928851 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"05:25:02",
+    "Bat %":87,
+    "Bat mV":3942,
+    "Pression_ext(hpa)":1027.299,
+    "Temp_ext(C)":15.84,
+    "Temp_int(C)":15.375,
+    "Temp_sea(C)":16.625,
+    "EC_sea":59340,
+    "Temp_sea(C) .1":16.459,
+    "EC_sea .1":59340,
+    "Temp_sea(C) .2":16.46,
+    "EC_sea .2":59350,
+    "Datetime":"2021-12-04 05:25:02",
+    "Temp_mean":"16.514666666666667",
+    "Ec_mean":"59343.333333333336",
+    "Salinity":"48.56334019482573"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.879763,34.917349 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"05:40:50",
+    "Bat %":87,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1027.366,
+    "Temp_ext(C)":15.79,
+    "Temp_int(C)":15.313,
+    "Temp_sea(C)":16.592,
+    "EC_sea":59260,
+    "Temp_sea(C) .1":16.43,
+    "EC_sea .1":59250,
+    "Temp_sea(C) .2":16.432,
+    "EC_sea .2":59250,
+    "Datetime":"2021-12-04 05:40:50",
+    "Temp_mean":"16.484666666666666",
+    "Ec_mean":"59253.333333333336",
+    "Salinity":"48.51611975737607"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.896563,34.904387 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"05:56:43",
+    "Bat %":87,
+    "Bat mV":3940,
+    "Pression_ext(hpa)":1027.432,
+    "Temp_ext(C)":15.81,
+    "Temp_int(C)":15.313,
+    "Temp_sea(C)":16.715,
+    "EC_sea":59820,
+    "Temp_sea(C) .1":16.593,
+    "EC_sea .1":59810,
+    "Temp_sea(C) .2":16.599,
+    "EC_sea .2":59810,
+    "Datetime":"2021-12-04 05:56:43",
+    "Temp_mean":"16.635666666666665",
+    "Ec_mean":"59813.333333333336",
+    "Salinity":"48.85299468267344"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.91269,34.891606 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"06:12:03",
+    "Bat %":87,
+    "Bat mV":3942,
+    "Pression_ext(hpa)":1027.642,
+    "Temp_ext(C)":15.84,
+    "Temp_int(C)":15.25,
+    "Temp_sea(C)":16.719,
+    "EC_sea":59850,
+    "Temp_sea(C) .1":16.58,
+    "EC_sea .1":59820,
+    "Temp_sea(C) .2":16.581,
+    "EC_sea .2":59820,
+    "Datetime":"2021-12-04 06:12:03",
+    "Temp_mean":"16.626666666666665",
+    "Ec_mean":"59830.0",
+    "Salinity":"48.879665052830006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.928614,34.878595 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"06:27:22",
+    "Bat %":87,
+    "Bat mV":3942,
+    "Pression_ext(hpa)":1027.728,
+    "Temp_ext(C)":16.08,
+    "Temp_int(C)":15.375,
+    "Temp_sea(C)":16.247,
+    "EC_sea":59860,
+    "Temp_sea(C) .1":16.078,
+    "EC_sea .1":59800,
+    "Temp_sea(C) .2":16.083,
+    "EC_sea .2":59800,
+    "Datetime":"2021-12-04 06:27:22",
+    "Temp_mean":"16.136",
+    "Ec_mean":"59820.0",
+    "Salinity":"49.48285072379346"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.943952,34.865646 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"06:42:45",
+    "Bat %":87,
+    "Bat mV":3941,
+    "Pression_ext(hpa)":1027.807,
+    "Temp_ext(C)":15.95,
+    "Temp_int(C)":15.375,
+    "Temp_sea(C)":16.099,
+    "EC_sea":59820,
+    "Temp_sea(C) .1":16.074,
+    "EC_sea .1":59800,
+    "Temp_sea(C) .2":16.078,
+    "EC_sea .2":59820,
+    "Datetime":"2021-12-04 06:42:45",
+    "Temp_mean":"16.08366666666667",
+    "Ec_mean":"59813.333333333336",
+    "Salinity":"49.542606821188734"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.959447,34.85294 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"06:58:04",
+    "Bat %":87,
+    "Bat mV":3942,
+    "Pression_ext(hpa)":1027.872,
+    "Temp_ext(C)":16.14,
+    "Temp_int(C)":15.375,
+    "Temp_sea(C)":16.801,
+    "EC_sea":59860,
+    "Temp_sea(C) .1":16.606,
+    "EC_sea .1":59870,
+    "Temp_sea(C) .2":16.612,
+    "EC_sea .2":59860,
+    "Datetime":"2021-12-04 06:58:04",
+    "Temp_mean":"16.673",
+    "Ec_mean":"59863.333333333336",
+    "Salinity":"48.85352255406032"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.975622,34.839374 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"07:13:49",
+    "Bat %":87,
+    "Bat mV":3953,
+    "Pression_ext(hpa)":1027.984,
+    "Temp_ext(C)":15.98,
+    "Temp_int(C)":15.438,
+    "Temp_sea(C)":16.603,
+    "EC_sea":59770,
+    "Temp_sea(C) .1":16.44,
+    "EC_sea .1":59760,
+    "Temp_sea(C) .2":16.446,
+    "EC_sea .2":59740,
+    "Datetime":"2021-12-04 07:13:49",
+    "Temp_mean":"16.496333333333336",
+    "Ec_mean":"59756.666666666664",
+    "Salinity":"48.97252801800491"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.991841,34.825908 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"07:29:14",
+    "Bat %":86,
+    "Bat mV":3954,
+    "Pression_ext(hpa)":1027.981,
+    "Temp_ext(C)":16.04,
+    "Temp_int(C)":15.438,
+    "Temp_sea(C)":16.462,
+    "EC_sea":59700,
+    "Temp_sea(C) .1":16.523,
+    "EC_sea .1":59700,
+    "Temp_sea(C) .2":16.52,
+    "EC_sea .2":59660,
+    "Datetime":"2021-12-04 07:29:14",
+    "Temp_mean":"16.501666666666665",
+    "Ec_mean":"59686.666666666664",
+    "Salinity":"48.90039946880103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.008684,34.813056 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"07:44:36",
+    "Bat %":86,
+    "Bat mV":3955,
+    "Pression_ext(hpa)":1028.093,
+    "Temp_ext(C)":16.15,
+    "Temp_int(C)":15.5,
+    "Temp_sea(C)":16.003,
+    "EC_sea":59720,
+    "Temp_sea(C) .1":17.201,
+    "EC_sea .1":59680,
+    "Temp_sea(C) .2":15.916,
+    "EC_sea .2":59670,
+    "Datetime":"2021-12-04 07:44:36",
+    "Temp_mean":"16.373333333333335",
+    "Ec_mean":"59690.0",
+    "Salinity":"49.062932529821495"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.025744,34.80048 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"07:59:56",
+    "Bat %":86,
+    "Bat mV":3956,
+    "Pression_ext(hpa)":1028.355,
+    "Temp_ext(C)":16.13,
+    "Temp_int(C)":15.5,
+    "Temp_sea(C)":15.64,
+    "EC_sea":59540,
+    "Temp_sea(C) .1":15.782,
+    "EC_sea .1":58980,
+    "Temp_sea(C) .2":15.783,
+    "EC_sea .2":59490,
+    "Datetime":"2021-12-04 07:59:56",
+    "Temp_mean":"15.735",
+    "Ec_mean":"59336.666666666664",
+    "Salinity":"49.53135121589541"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.042804,34.787904 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"08:15:20",
+    "Bat %":86,
+    "Bat mV":3952,
+    "Pression_ext(hpa)":1028.479,
+    "Temp_ext(C)":16.23,
+    "Temp_int(C)":15.563,
+    "Temp_sea(C)":15.889,
+    "EC_sea":59520,
+    "Temp_sea(C) .1":15.877,
+    "EC_sea .1":59490,
+    "Temp_sea(C) .2":15.877,
+    "EC_sea .2":59570,
+    "Datetime":"2021-12-04 08:15:20",
+    "Temp_mean":"15.881",
+    "Ec_mean":"59526.666666666664",
+    "Salinity":"49.52708626271334"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.060265,34.775423 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"08:30:50",
+    "Bat %":86,
+    "Bat mV":3935,
+    "Pression_ext(hpa)":1028.741,
+    "Temp_ext(C)":16.19,
+    "Temp_int(C)":15.563,
+    "Temp_sea(C)":16.273,
+    "EC_sea":59340,
+    "Temp_sea(C) .1":16.258,
+    "EC_sea .1":59370,
+    "Temp_sea(C) .2":16.238,
+    "EC_sea .2":59320,
+    "Datetime":"2021-12-04 08:30:50",
+    "Temp_mean":"16.256333333333334",
+    "Ec_mean":"59343.333333333336",
+    "Salinity":"48.88270394431321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.079632,34.761692 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"08:46:34",
+    "Bat %":86,
+    "Bat mV":3948,
+    "Pression_ext(hpa)":1028.865,
+    "Temp_ext(C)":16.28,
+    "Temp_int(C)":15.687,
+    "Temp_sea(C)":16.141,
+    "EC_sea":59120,
+    "Temp_sea(C) .1":16.253,
+    "EC_sea .1":59090,
+    "Temp_sea(C) .2":16.239,
+    "EC_sea .2":58550,
+    "Datetime":"2021-12-04 08:46:34",
+    "Temp_mean":"16.211",
+    "Ec_mean":"58920.0",
+    "Salinity":"48.54073232447206"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.0981,34.749232 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"09:01:52",
+    "Bat %":86,
+    "Bat mV":3952,
+    "Pression_ext(hpa)":1029.063,
+    "Temp_ext(C)":16.38,
+    "Temp_int(C)":15.687,
+    "Temp_sea(C)":15.848,
+    "EC_sea":59110,
+    "Temp_sea(C) .1":15.87,
+    "EC_sea .1":59080,
+    "Temp_sea(C) .2":15.713,
+    "EC_sea .2":59160,
+    "Datetime":"2021-12-04 09:01:52",
+    "Temp_mean":"15.810333333333332",
+    "Ec_mean":"59116.666666666664",
+    "Salinity":"49.22651118517327"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.114732,34.735384 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"09:17:10",
+    "Bat %":86,
+    "Bat mV":3936,
+    "Pression_ext(hpa)":1029.153,
+    "Temp_ext(C)":16.13,
+    "Temp_int(C)":15.625,
+    "Temp_sea(C)":16.154,
+    "EC_sea":59440,
+    "Temp_sea(C) .1":16.164,
+    "EC_sea .1":59430,
+    "Temp_sea(C) .2":16.157,
+    "EC_sea .2":59430,
+    "Datetime":"2021-12-04 09:17:10",
+    "Temp_mean":"16.15833333333333",
+    "Ec_mean":"59433.333333333336",
+    "Salinity":"49.08964521073217"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.130866,34.721084 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"09:32:29",
+    "Bat %":86,
+    "Bat mV":3950,
+    "Pression_ext(hpa)":1029.363,
+    "Temp_ext(C)":16.23,
+    "Temp_int(C)":15.625,
+    "Temp_sea(C)":16.15,
+    "EC_sea":59670,
+    "Temp_sea(C) .1":16.148,
+    "EC_sea .1":59680,
+    "Temp_sea(C) .2":16.144,
+    "EC_sea .2":59640,
+    "Datetime":"2021-12-04 09:32:29",
+    "Temp_mean":"16.147333333333332",
+    "Ec_mean":"59663.333333333336",
+    "Salinity":"49.32054430944831"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.147647,34.70745 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"09:47:51",
+    "Bat %":85,
+    "Bat mV":3953,
+    "Pression_ext(hpa)":1029.572,
+    "Temp_ext(C)":17.2,
+    "Temp_int(C)":17,
+    "Temp_sea(C)":16.018,
+    "EC_sea":59570,
+    "Temp_sea(C) .1":16.002,
+    "EC_sea .1":59530,
+    "Temp_sea(C) .2":15.856,
+    "EC_sea .2":59530,
+    "Datetime":"2021-12-04 09:47:51",
+    "Temp_mean":"15.958666666666666",
+    "Ec_mean":"59543.333333333336",
+    "Salinity":"49.44465231818717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.212652,34.652937 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"10:49:36",
+    "Bat %":89,
+    "Bat mV":3982,
+    "Pression_ext(hpa)":1030.108,
+    "Temp_ext(C)":19.2,
+    "Temp_int(C)":19.687,
+    "Temp_sea(C)":15.671,
+    "EC_sea":59110,
+    "Temp_sea(C) .1":15.451,
+    "EC_sea .1":59220,
+    "Temp_sea(C) .2":15.619,
+    "EC_sea .2":59210,
+    "Datetime":"2021-12-04 10:49:36",
+    "Temp_mean":"15.580333333333334",
+    "Ec_mean":"59180.0",
+    "Salinity":"49.57839510993147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.228722,34.640533 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"11:04:54",
+    "Bat %":91,
+    "Bat mV":3984,
+    "Pression_ext(hpa)":1030.175,
+    "Temp_ext(C)":20.04,
+    "Temp_int(C)":20.625,
+    "Temp_sea(C)":15.973,
+    "EC_sea":59310,
+    "Temp_sea(C) .1":15.957,
+    "EC_sea .1":59250,
+    "Temp_sea(C) .2":15.941,
+    "EC_sea .2":59260,
+    "Datetime":"2021-12-04 11:04:54",
+    "Temp_mean":"15.957",
+    "Ec_mean":"59273.333333333336",
+    "Salinity":"49.19068910443182"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.849898,34.360135 ]
+    },
+    "properties": {
+    "Date":"2021-12-04",
+    "Time":"19:01:34",
+    "Bat %":89,
+    "Bat mV":3971,
+    "Pression_ext(hpa)":1029.41,
+    "Temp_ext(C)":18.59,
+    "Temp_int(C)":18.25,
+    "Temp_sea(C)":14.946,
+    "EC_sea":58730,
+    "Temp_sea(C) .1":14.802,
+    "EC_sea .1":58780,
+    "Temp_sea(C) .2":14.791,
+    "EC_sea .2":58000,
+    "Datetime":"2021-12-04 19:01:34",
+    "Temp_mean":"14.846333333333334",
+    "Ec_mean":"58503.333333333336",
+    "Salinity":"49.8683132904891"
+    }
+  }
+]
+}

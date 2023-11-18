@@ -19,7 +19,13 @@
                 url="customlayers/la-louise.js"
                 visible="true"
                 />
-
+            <layer 
+                id="heatmap2"
+                name="Copa Cabana"
+                url="customlayers/northabout_clean.js"
+                type="customlayer"
+                legendurl= "demo/heatmap/boat.png"
+                />
         </theme>
     </themes>
 </config>

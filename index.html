@@ -1018,8 +1018,114 @@
                   for (let theme of _conf.themes.theme) {
                     console.log(theme);
                     if (theme.name === "SensOcean") {
+                      if (!theme.layer) theme.layer = [];
+                      theme.layer.push({
+                        attribution: "",
+                        id: "heatmap4",
+                        legendurl: "demo/heatmap/boat.png",
+                        metadata: "",
+                        metadata_csw: "",
+                        name: "Bateau n°2",
+                        opacity: "1",
+                        type: "geojson",
+                        url: "data/2021-08-northabout-clean.geojson",
+                        visible: "true",
+                        tooltip: "true",
+                        tooltipenabled: "true",
+                        tooltipcontent: tooltipTemplate,
+                        fields: "Datetime",
+                        searchable: "true",
+                        searchid: "demo1",
+                        style: "cercle1",
+                      });
+                      theme.layer.push({
+                        attribution: "",
+                        id: "heatmap3",
+                        legendurl: "demo/heatmap/boat.png",
+                        metadata: "",
+                        metadata_csw: "",
+                        name: "Bateau n°3",
+                        opacity: "1",
+                        type: "geojson",
+                        url: "https://mocki.io/v1/08171171-dcb7-45a6-ac11-9bf75420cdaf",
+                        visible: "true",
+                      });
+                      theme.layer.push({
+                        attribution: "",
+                        id: "heatmap5",
+                        legendurl: "demo/heatmap/boat.png",
+                        metadata: "",
+                        metadata_csw: "",
+                        name: "La Louise",
+                        opacity: "1",
+                        type: "geojson",
+                        url: "data/2021-10-la-louise-clean.geojson",
+                        visible: "true",
+                        tooltip: "true",
+                        tooltipenabled: "true",
+                        tooltipcontent: tooltipTemplate,
+                        fields: "Datetime",
+                        searchable: "true",
+                        searchid: "demo2",
+                      });
+                      theme.layer.push({
+                        attribution: "",
+                        id: "heatmap6",
+                        legendurl: "demo/heatmap/boat.png",
+                        metadata: "",
+                        metadata_csw: "",
+                        name: "Nerrivik",
+                        opacity: "1",
+                        type: "geojson",
+                        url: "data/2021-12-nerrivik-clean.geojson",
+                        visible: "true",
+                        tooltip: "true",
+                        tooltipenabled: "true",
+                        tooltipcontent: tooltipTemplate,
+                        fields: "Datetime",
+                        searchable: "true",
+                        searchid: "demo4",
+                        style: "elsStyle",
+                      });
+                      theme.layer.push({
+                        attribution: "",
+                        id: "heatmap7",
+                        legendurl: "demo/heatmap/boat.png",
+                        metadata: "",
+                        metadata_csw: "",
+                        name: "Peter Pan",
+                        opacity: "1",
+                        type: "geojson",
+                        url: "data/2022-09-peter-pan-clean.geojson",
+                        visible: "true",
+                        tooltip: "true",
+                        tooltipenabled: "true",
+                        tooltipcontent: tooltipTemplate,
+                        fields: "Datetime",
+                        searchable: "true",
+                        searchid: "demo7",
+                        style: "elsStyle",
+                      });
+                      theme.layer.push({
+                        attribution: "",
+                        id: "heatmap8",
+                        legendurl: "demo/heatmap/boat.png",
+                        metadata: "",
+                        metadata_csw: "",
+                        name: "Nerrivik mois n°2",
+                        opacity: "1",
+                        type: "geojson",
+                        url: "data/2021-11-nerrivik-clean.geojson",
+                        visible: "true",
+                        tooltip: "true",
+                        tooltipenabled: "true",
+                        tooltipcontent: tooltipTemplate,
+                        fields: "Datetime",
+                        searchable: "true",
+                        searchid: "demo8",
+                        style: "elsStyle",
+                      });
                       for (let station of json.data) {
-                        if (!theme.layer) theme.layer = [];
                         theme.layer.push({
                           attribution: "",
                           id: station.id,
@@ -1109,5 +1215,11 @@
       });
     </script>
     <script type="text/javascript" src="lib/simple-slidebar/slidebar_menu.js"></script>
+
+    <style>
+      .big-legend img {
+        max-width: 150px;
+      }
+    </style>
   </body>
 </html>
