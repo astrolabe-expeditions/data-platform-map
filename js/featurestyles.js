@@ -32,6 +32,16 @@ mviewer.featureStyles.crossStyle = new ol.style.Style({
   }),
 });
 
+mviewer.featureStyles.line = new ol.style.Style({
+  image: new ol.style.RegularShape({
+    fill: new ol.style.Fill({ color: "pink" }),
+    stroke: new ol.style.Stroke({ color: "red", width: 2 }),
+    points: 4,
+    radius: 5,
+    angle: 0,
+  }),
+});
+
 mviewer.featureStyles.highlight = new ol.style.Style({
   fill: new ol.style.Fill({ color: "rgba(212, 53, 50,0)" }),
   stroke: new ol.style.Stroke({ color: "rgba(217, 85, 82,1)", width: 4 }),
