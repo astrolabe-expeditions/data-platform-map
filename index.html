@@ -942,7 +942,6 @@
             )
           );
         }
-<!-- test pour gitmoji -->
 
         // Search for a config param
         var configFile = API.config;
@@ -1024,165 +1023,36 @@
                 }
 
                 let response = await fetch(
-                  "https://mocki.io/v1/88334df8-a3f4-408c-91d7-e352150fded6"
+                  "https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations/"
                 );
 
                 if (response.ok) {
                   const tooltipTemplate =
-                    "<p style='font-size:15px;text-align:left'><span style='font-size:20px;font-weight:bold'>Informations</span><br/>Date : <b>{{Date}}</b> <br/>  Heure : <b>{{#formatTime}}{{Datetime}}{{/formatTime}}</b> <br/> Température : <b>{{#rounded}}{{Temp_mean}}{{/rounded}}°C</b> <br/> Conductivité : <b>{{#rounded}}{{Ec_mean}}{{/rounded}}psu</b> <br/> Salinité : <b>{{#rounded}}{{Salinity}}{{/rounded}}<b/></p>";
+                    "<p style='font-size:15px;text-align:left'><span style='font-size:20px;font-weight:bold'>Informations</span><br/>Date : <b>{{date}}</b> <br/>  Heure : <b>{{#formatTime}}{{Datetime}}{{/formatTime}}</b> <br/> Température : <b>{{#rounded}}{{Temp_mean}}{{/rounded}}°C</b> <br/> Conductivité : <b>{{#rounded}}{{Ec_mean}}{{/rounded}}psu</b> <br/> Salinité : <b>{{#rounded}}{{Salinity}}{{/rounded}}<b/></p>";
                   // if HTTP-status is 200-299
                   // obtenir le corps de réponse (la méthode expliquée ci-dessous)
                   let json = await response.json();
                   for (let theme of _conf.themes.theme) {
-                    console.log(theme);
                     if (theme.name === "SensOcean") {
                       if (!theme.layer) theme.layer = [];
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap4",
-                        legendurl: "assets/northabout.jpg",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "Northabout",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "data/2021-08-northabout-clean.geojson",
-                        visible: "true",
-                        tooltip: "true",
-                        tooltipenabled: "true",
-                        tooltipcontent: tooltipTemplate,
-                        fields: "Datetime",
-                        searchable: "true",
-                        searchid: "demo1",
-                        style: "cercle1",
-                      });
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap3",
-                        legendurl: "assets/boat.png",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "Bateau n°3",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "https://mocki.io/v1/08171171-dcb7-45a6-ac11-9bf75420cdaf",
-                        visible: "true",
-                      });
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap5",
-                        legendurl: "assets/lalouise.png",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "La Louise",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "data/2021-10-la-louise-clean.geojson",
-                        visible: "true",
-                        tooltip: "true",
-                        tooltipenabled: "true",
-                        tooltipcontent: tooltipTemplate,
-                        fields: "Datetime",
-                        searchable: "true",
-                        searchid: "demo2",
-                      });
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap6",
-                        legendurl: "assets/nerrivik.jpg",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "Nerrivik",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "data/2021-12-nerrivik-clean.geojson",
-                        visible: "true",
-                        tooltip: "true",
-                        tooltipenabled: "true",
-                        tooltipcontent: tooltipTemplate,
-                        fields: "Datetime",
-                        searchable: "true",
-                        searchid: "demo4",
-                        style: "elsStyle",
-                      });
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap7",
-                        legendurl: "assets/peterpan.jpg",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "Peter Pan",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "data/2022-09-peter-pan-clean.geojson",
-                        visible: "true",
-                        tooltip: "true",
-                        tooltipenabled: "true",
-                        tooltipcontent: tooltipTemplate,
-                        fields: "Datetime",
-                        searchable: "true",
-                        searchid: "demo7",
-                        style: "line",
-                      });
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap8",
-                        legendurl: "assets/nerrivik2.jpg",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "Nerrivik mois n°2",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "data/2021-11-nerrivik-clean.geojson",
-                        visible: "true",
-                        tooltip: "true",
-                        tooltipenabled: "true",
-                        tooltipcontent: tooltipTemplate,
-                        fields: "Datetime",
-                        searchable: "true",
-                        searchid: "demo8",
-                        style: "elsStyle",
-                      });
-                      theme.layer.push({
-                        attribution: "",
-                        id: "heatmap9",
-                        legendurl: "assets/kanaga.jpg",
-                        metadata: "",
-                        metadata_csw: "",
-                        name: "Kanaga",
-                        opacity: "1",
-                        type: "geojson",
-                        url: "data/2021-11-kanaga-clean.geojson",
-                        visible: "true",
-                        tooltip: "true",
-                        tooltipenabled: "true",
-                        tooltipcontent: tooltipTemplate,
-                        fields: "Datetime",
-                        searchable: "true",
-                        searchid: "demo9",
-                        style: "elsStyle",
-                      });
-                      /*for (let station of json.data) {
+                      for (let station of json.stations) {
                         theme.layer.push({
-                          attribution: "",
                           id: station.id,
-                          legendurl: "assets/legend.png",
-                          metadata: "",
-                          metadata_csw: "",
+                          legendurl: station.image_url,
                           name: station.name,
                           opacity: "1",
                           type: "geojson",
-                          url: "data/2021-08-northabout-clean.geojson",
+                          url: `https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations/${station.id}/sensors/${station.sensors[0]}/records`,
                           visible: "true",
                           tooltip: "true",
                           tooltipenabled: "true",
                           tooltipcontent: tooltipTemplate,
                           searchable: "true",
                           searchengine: "fuse",
-                          fusesearchkeys: "Date",
-                          fusesearchresult: "{{ Date }}",
+                          fusesearchkeys: "recorded_at",
+                          fusesearchresult: "{{ recorded_at }}",
                         });
-                      }*/
+                      }
                     }
                   }
                 } else {
