@@ -12,21 +12,6 @@
     <olscompletion url="https://api-adresse.data.gouv.fr/search/" type="ban" attribution="La recherche d'adresse est un service proposé par la BAN"/>
     <searchparameters bbox="false" localities="false" features="true" />
     <themes>
-        <theme name="SensOcean" expanded="true">
-            <!-- <layer
-                id="la-louise"
-                name="La Louise"
-                type="customlayer"
-                url="customlayers/la-louise.js"
-                visible="true"
-                /> -->
-            <layer
-                id="heatmap2"
-                name="Copa Cabana"
-                url="customlayers/northabout_clean.js"
-                type="customlayer"
-                legendurl= "assets/capablanca.jpg"
-                />
-        </theme>
+        <theme name="SensOcean" expanded="true" />
     </themes>
 </config>
