@@ -1023,7 +1023,7 @@
                 }
 
                 let response = await fetch(
-                  "https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations/"
+                  "https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations?type=mobile"
                 );
 
                 if (response.ok) {
@@ -1042,7 +1042,7 @@
                           name: station.name,
                           opacity: "1",
                           type: "geojson",
-                          url: `https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations/${station.id}/sensors/${station.sensors[0]}/records`,
+                          url: `https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations/${station.id}/sensors/${station.sensors[0]}/records?format=geojson`,
                           visible: "true",
                           tooltip: "true",
                           tooltipenabled: "true",
