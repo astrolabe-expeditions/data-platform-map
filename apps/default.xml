@@ -24,7 +24,7 @@
                 name="Copa Cabana"
                 url="customlayers/northabout_clean.js"
                 type="customlayer"
-                legendurl= "demo/heatmap/capablanca.jpg"
+                legendurl= "assets/capablanca.jpg"
                 />
         </theme>
     </themes>
