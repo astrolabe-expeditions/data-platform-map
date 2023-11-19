@@ -813,6 +813,29 @@ var info = (function () {
           // a Mustache template
           title = Mustache.render(tooltipcontent, {
             ...feature.getProperties(),
+            formatDate: function () {
+              return function (text, render) {
+                const mois = [
+                  "janvier",
+                  "février",
+                  "mars",
+                  "avril",
+                  "mai",
+                  "juin",
+                  "juillet",
+                  "août",
+                  "septembre",
+                  "octobre",
+                  "novembre",
+                  "décembre",
+                ];
+                const datetime = new Date(render(text));
+                let year = datetime.getFullYear();
+                let dayNumber = datetime.getDate();
+                let month = mois[datetime.getMonth()];
+                return `${dayNumber} ${month} ${year}`;
+              };
+            },
             formatTime: function () {
               return function (text, render) {
                 const time = new Date(render(text));
