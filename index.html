@@ -1022,41 +1022,43 @@
                   favicon.attributes.href.value = ico;
                 }
 
-                let response = await fetch(
-                  "https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations?type=mobile"
-                );
+                const tooltipTemplate =
+                  "<p style='font-size:15px;text-align:left'><span style='font-size:20px;font-weight:bold'>Informations</span><br/>Date : <b>{{#formatDate}}{{recorded_at}}{{/formatDate}}</b> <br/>  Heure : <b>{{#formatTime}}{{recorded_at}}{{/formatTime}}</b> <br/> Température : <b>{{#rounded}}{{temp_sea_mean}}{{/rounded}}°C</b> <br/> Conductivité : <b>{{#rounded}}{{ec_sea_mean}}{{/rounded}}psu</b> <br/> Salinité : <b>{{#rounded}}{{salinity}}{{/rounded}}<b/></p>";
 
-                if (response.ok) {
-                  const tooltipTemplate =
-                    "<p style='font-size:15px;text-align:left'><span style='font-size:20px;font-weight:bold'>Informations</span><br/>Date : <b>{{#formatDate}}{{recorded_at}}{{/formatDate}}</b> <br/>  Heure : <b>{{#formatTime}}{{recorded_at}}{{/formatTime}}</b> <br/> Température : <b>{{#rounded}}{{temp_sea_mean}}{{/rounded}}°C</b> <br/> Conductivité : <b>{{#rounded}}{{ec_sea_mean}}{{/rounded}}psu</b> <br/> Salinité : <b>{{#rounded}}{{salinity}}{{/rounded}}<b/></p>";
-                  // if HTTP-status is 200-299
-                  // obtenir le corps de réponse (la méthode expliquée ci-dessous)
-                  let json = await response.json();
-                  for (let theme of _conf.themes.theme) {
-                    if (theme.name === "SensOcean") {
+                for (let theme of _conf.themes.theme) {
+                  if (theme.name === "SensOcean") {
+                    let response = await fetch(
+                      "http://localhost:3000/api/v1/stations?type=Mobile"
+                    );
+                    if (response.ok) {
                       if (!theme.layer) theme.layer = [];
-                      for (let station of json.stations) {
-                        theme.layer.push({
-                          id: station.id,
-                          legendurl: station.image_url,
-                          name: station.name,
-                          opacity: "1",
-                          type: "geojson",
-                          url: `https://ae-api-carto.osc-fr1.scalingo.io/api/v1/stations/${station.id}/sensors/${station.sensors[0]}/records?format=geojson`,
-                          visible: "true",
-                          tooltip: "true",
-                          tooltipenabled: "true",
-                          tooltipcontent: tooltipTemplate,
-                          searchable: "true",
-                          searchengine: "fuse",
-                          fusesearchkeys: "recorded_at",
-                          fusesearchresult: "{{ recorded_at }}",
-                        });
+                      // if HTTP-status is 200-299
+                      // obtenir le corps de réponse (la méthode expliquée ci-dessous)
+                      let json = await response.json();
+                      for (let station of json.data) {
+                        if (station.sensors.length > 0) {
+                          theme.layer.push({
+                            id: station.id,
+                            legendurl: station.image_url,
+                            name: station.name,
+                            opacity: "1",
+                            type: "geojson",
+                            url: `http://localhost:3000/api/v1/sensors/${station.sensors[0].id}/records?format=geojson`,
+                            visible: "true",
+                            tooltip: "true",
+                            tooltipenabled: "true",
+                            tooltipcontent: tooltipTemplate,
+                            searchable: "true",
+                            searchengine: "fuse",
+                            fusesearchkeys: "recorded_at",
+                            fusesearchresult: "{{ recorded_at }}",
+                          });
+                        }
                       }
+                    } else {
+                      alert("HTTP-Error: " + response.status);
                     }
                   }
-                } else {
-                  alert("HTTP-Error: " + response.status);
                 }
 
                 /** Custom code to add multiple layers at once */
