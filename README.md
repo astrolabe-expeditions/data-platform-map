@@ -1,119 +1,47 @@
-# MVIEWER
+# Data Platform Map
 
-Visualiseur géographique [Kartenn](https://kartenn.region-bretagne.fr/demo/) basé sur OpenLayers 6.3.1 et Bootstrap 3.3.6
+This platform centralizes and manages data collected from citizen expeditions organized by Astrolabe Expeditions. This repository contains the map component for visualizing collected data. Other parts of the project include a [back-office and API](https://github.com/astrolabe-expeditions/data-platform-frontend) and an [ETL (Extract, Transform, Load) pipeline](https://github.com/astrolabe-expeditions/data-platform-processing) for processing data.
 
-Liens utiles :
+**Note:** This repository is based on the [Mviewer](https://github.com/mviewer/mviewer) project.
 
-- [Site officiel](https://mviewer.netlify.com/)
-- [Versions](https://github.com/geobretagne/mviewer/releases/)
-- [Démos](http://kartenn.region-bretagne.fr/kartoviz/demo/)
-- [Documentation](http://mviewerdoc.readthedocs.io/fr/stable/)
-- [Générateur d'applications](https://github.com/geobretagne/mviewerstudio/)
+> [!WARNING]
+> This project is archived and no longer maintained.
+> Feel free to browse the code, but note that no further updates or support will be provided.
 
-## Feuille de route
+## What is Astrolabe Expeditions?
 
-La road map du projet est disponible à cette adresse : https://github.com/geobretagne/mviewer/projects/8
+[Astrolabe Expeditions](https://www.astrolabe-expeditions.org/) is an non-profit association that develops participatory science programmes with
+laboratories to enable citizens to actively contribute to scientific research.
 
-## Déploiement
+Citizens' expeditions are set up to collect large-scale scientific data and involve citizens in understanding and preserving the ocean.
 
-Le déploiement se passe en trois étapes :
+## Local development
 
-- Cloner le projet dans le dossier de votre choix
-- Copier ce dossier dans le dossier /var/www/ ( ou autres dossiers de déploiement Apache)
-  Vous avez maintenant un visualiseur géographique fonctionnel avec les couches de la Région Bretagne
-- Si vous souhaitez publier vos propres couches/thèmes, modifiez le fichier `apps/default.xml`
+Clone the repository
 
-## Déploiement avec Node.js
-
-Mviewer peut également être publié via Node.js et NPM (testé avec v19.8.1).
-
-**1. Install Node et npm**
-
-Pour installer Node et Npm sous Linux / debian :
-
-- Suivre ces instructions :
-
-https://github.com/nodesource/distributions/blob/master/README.md
-
-- ou utiliser NVM (conseillé) :
-
-```
-sudo apt install curl
-curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
-source ~/.profile
-nvm install 19
-nvm use 19
+```sh
+git clone git@github.com:astrolabe-expeditions/data-platform-map.git
 ```
 
-**2. Clone du code source**
+Switch to the repo folder
 
-```
-git clone https://github.com/geobretagne/mviewer.git
-cd mviewer
+```sh
+cd data-platform-map
 ```
 
-**3. Installation**
+> [!TIP]
+> For best compatibility, we recommend using [nvm](https://github.com/nvm-sh/nvm) to manage Node.js versions and switching to Node 19 before running any commands.
 
-```
+Install all the dependencies using npm
+
+```sh
 npm install
 ```
 
-**4. Démo live**
+Start the local development server with `vite`
 
-Pour démarrer le serveur de développement `vite`:
-
-`npm start`
-
-Par défaut, mviewer est maintenant accessible à l'adresse **localhost:5000**
-
-### Pour modifier les paramètres du serveur
-
-Pour modifier le port our les options d'exécution...
-
-Modifer la commande `start` dans le `package.json` avec par exemple :
-
-`"start": "vite --port=8080 --cors=true"`
-
-### Pour Réinstaller ou mettre à jour
-
-```
-rm -rf node_modules
-rm -rf package-lock.json
-npm install
+```sh
+npm start
 ```
 
-## Docker
-
-Si vous souhaitez faire tourner mviewer dans un conteneur docker, un `Dockerfile` est à votre disposition.
-
-```bash
-# construire l'image docker (étape facultative, les images étant publiées sur [docker-hub](https://hub.docker.com/r/mviewer/mviewer))
-
-docker build -t mviewer/mviewer .
-
-# faire tourner le conteneur, et le rendre accessible sur le port 8080. A l'arret du
-# conteneur celui-ci est supprimé (option `--rm`):
-
-docker run --rm -p8080:80 -v$(pwd)/apps:/usr/share/nginx/html/apps mviewer/mviewer
-```
-
-Une fois le conteneur lancé, `mviewer` sera disponible sur `http://localhost:8080`.
-
-Note: si vous disposez déjà d'un ensemble de fichiers de configuration pour
-mviewer dans un répertoire existant, vous pouvez le monter à la place de celui
-proposé par défaut par le dépot en utilisant l'option `-v` de docker comme suit:
-
-```
-docker run --rm -p8080:80 -v/chemin/vers/repertoire_de_configurations_xml:/usr/share/nginx/html/apps mviewer/mviewer
-```
-
-La seule contrainte étant que le chemin doit être indiqué à docker de manière absolue.
-
-Par ailleurs, une composition docker est disponible dans le dépot git de
-[mviewerstudio](https://github.com/geobretagne/mviewerstudio), incluant mviewer
-et mviewerstudio.
-
-## Fichier apps/default.xml
-
-Le fichier de configuration permet la personnalisation des thèmes/couches du visualiseur ; une configuration par
-défaut est fournie dans `apps/default.xml`, vous pouvez le dupliquer et l'adapter à vos besoins en vous aidant de la [documentation.](http://mviewerdoc.readthedocs.io/fr/latest/)
+You can now access the server at [http://localhost:5051](http://localhost:5051)
